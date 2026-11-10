@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canadian News</title>
+  <style>
+    /* Pure System Dark Theme Configuration */
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    
+    .header {
+      max-width: 1400px;
+      margin: 0 auto 30px auto;
+      background: #1e1e1e;
+      padding: 20px;
+      border-radius: 12px;
+      border-top: 5px solid #b71c1c;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    }
+    .header h1 {
+      margin: 0 0 10px 0;
+      font-size: 32px;
+      color: #ffffff;
+      font-weight: 800;
+    }
+    .header p {
+      margin: 0;
+      color: #aaaaaa;
+      font-size: 15px;
+    }
+
+    /* Desktop Format: Flexible 3-Card Wide Grid (At least 3 columns) */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+      gap: 30px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    /* Card Hero layout */
+    .card {
+      background: #1e1e1e;
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      border: 1px solid #2d2d2d;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+      transition: transform 0.2s ease, border-color 0.2s ease;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      border-color: #b71c1c;
+    }
+
+    /* Upper Portion: Image Canvas */
+    .img-container {
+      width: 100%;
+      height: 220px;
+      background: #252525;
+      position: relative;
+    }
+    .img-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .meta-bar {
+      padding: 15px 15px 0 15px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 11px;
+      font-weight: 700;
+      color: #b0b3b8;
+      text-transform: uppercase;
+    }
+    .source-icon {
+      width: 16px;
+      height: 16px;
+      border-radius: 3px;
+      object-fit: contain;
+    }
+
+    .card-body {
+      padding: 0 15px 15px 15px;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    .card-body h2 {
+      font-size: 18px;
+      margin: 10px 0;
+      line-height: 1.4;
+    }
+    .card-body h2 a {
+      color: #ffffff;
+      text-decoration: none;
+    }
+    .card-body h2 a:hover {
+      color: #ff5252;
+    }
+    .card-body p {
+      color: #ccd0d5;
+      font-size: 14px;
+      line-height: 1.5;
+      margin: 0 0 15px 0;
+    }
+
+    /* Expand / Collapse Button Elements */
+    .expand-btn {
+      background: none;
+      border: none;
+      color: #ff5252;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 0;
+      margin-bottom: 15px;
+    }
+    .expand-btn:hover {
+      color: #ff8686;
+    }
+    .chevron {
+      width: 12px;
+      height: 12px;
+      fill: currentColor;
+      transition: transform 0.2s ease;
+    }
+    .chevron.open {
+      transform: rotate(180deg);
+    }
+
+    .footer-meta {
+      font-size: 11px;
+      color: #8a8d91;
+      border-top: 1px solid #2d2d2d;
+      padding-top: 10px;
+      margin-top: auto;
+    }
+
+    #loading {
+      text-align: center;
+      color: #aaaaaa;
+      font-size: 18px;
+      padding: 100px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>Canadian News</h1>
+    <p>Canadian feed wall: an aggregated RSS reader.</p>
+    <small id="sync-time" style="color: #8a8d91; display: block; margin-top: 12px; font-weight: 600;">Loading latest sync time...</small>
+  </div>
+
+  <div id="loading">Compiling latest Canadian timeline data...</div>
+  <div class="grid" id="news-grid"></div>
+
+  <script>
+    const FALLBACK_IMG = "https://images.pexels.com/photos/36328292/pexels-photo-36328292.jpeg";
+    // alternative https://natural-resources.canada.ca/sites/nrcan/files/department/DSDS2327Banner.jpg
+
+    // Toggle description length statefully per card instance
+    window.toggleCard = function(button, guid) {
+      const fullText = decodeURIComponent(button.getAttribute('data-text'));
+      const p = document.getElementById(`desc-${guid}`);
+      const chevron = button.querySelector('.chevron');
+      const isExpanded = button.getAttribute('data-expanded') === 'true';
+
+      if (isExpanded) {
+        p.textContent = fullText.substring(0, 140) + '...';
+        button.innerHTML = `Read more <svg class="chevron" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/></svg>`;
+        button.setAttribute('data-expanded', 'false');
+      } else {
+        p.textContent = fullText;
+        button.innerHTML = `Read less <svg class="chevron open" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/></svg>`;
+        button.setAttribute('data-expanded', 'true');
+      }
+    };
+
+    // Grab internal timeline feed with safe fallback path handling
+    fetch('feed.xml')
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP network anomaly: ${res.status}`);
+        return res.text();
+      })
+      .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+      .then(data => {
+        document.getElementById('loading').style.display = 'none';
+        
+        const buildDateNode = data.getElementsByTagName('lastBuildDate')[0];
+        const buildDate = buildDateNode ? buildDateNode.textContent : 'Recent';
+        document.getElementById('sync-time').textContent = `Last Build Matrix Sync: ${buildDate}`;
+
+        const items = data.getElementsByTagName('item');
+        const grid = document.getElementById('news-grid');
+
+        if (items.length === 0) {
+          document.getElementById('loading').textContent = "No current dataset items available inside the target data tree.";
+          document.getElementById('loading').style.display = 'block';
+          return;
+        }
+
+        Array.from(items).forEach((item, idx) => {
+          const title = item.getElementsByTagName('title')[0]?.textContent || 'Untitled Story';
+          const link = item.getElementsByTagName('link')[0]?.textContent || '#';
+          const rawDesc = item.getElementsByTagName('description')[0]?.textContent || '';
+          const pubDate = item.getElementsByTagName('pubDate')[0]?.textContent || '';
+          const author = item.getElementsByTagName('author')[0]?.textContent || 'Staff Writer';
+          const sourceName = item.getElementsByTagName('source_name')[0]?.textContent || 'News';
+          const sourceIcon = item.getElementsByTagName('source_icon')[0]?.textContent || FALLBACK_IMG;
+          const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || FALLBACK_IMG;
+          const guidNode = item.getElementsByTagName('guid')[0];
+          const guid = guidNode ? guidNode.textContent.replace(/[^a-zA-Z0-9]/g, idx) : idx;
+
+          const isLong = rawDesc.length > 140;
+          const displayDesc = isLong ? rawDesc.substring(0, 140) + '...' : rawDesc;
+
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = `
+            <div class="img-container">
+              <img src="${storyImg}" alt="Media" onerror="this.src='${FALLBACK_IMG}'; this.style.padding='20px'; this.style.objectFit='contain';" />
+            </div>
+            <div class="meta-bar">
+              <img src="${sourceIcon}" class="source-icon" onerror="this.src='${FALLBACK_IMG}';" />
+              <span>${sourceName}</span>
+            </div>
+            <div class="card-body">
+              <h2><a href="${link}" target="_blank">${title}</a></h2>
+              <p id="desc-${guid}">${displayDesc}</p>
+              
+              ${isLong ? `
+                <button class="expand-btn" data-expanded="false" data-text="${encodeURIComponent(rawDesc)}" onclick="toggleCard(this, '${guid}')">
+                  Read more 
+                  <svg class="chevron" viewBox="0 0 24 24">
+                    <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
+                  </svg>
+                </button>
+              ` : ''}
+
+              <div class="footer-meta">
+                Published: ${pubDate} <br />
+                Writer: ${author}
+              </div>
+            </div>
+          `;
+          grid.appendChild(card);
+        });
+      })
+      .catch(err => {
+        document.getElementById('loading').textContent = "Error loading timeline network data nodes.";
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
