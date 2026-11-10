@@ -60,7 +60,7 @@ jobs:
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'Aggregated Feed' # Serves ONLY the contents of your clean subfolder to the live website url
+          path: 'Aggregated Feed' 
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
