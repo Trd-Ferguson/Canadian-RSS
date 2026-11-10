@@ -175,4 +175,4 @@ with open(STATUS_LOG_PATH, "w", encoding="utf-8") as f:
 
 print(f"Compilation finished. Sync target index database currently tracks {len(sorted_xml_nodes)} sorted lifecycle entries.")
 
-# License: GNU General Public License v3.0
+# License: GNU General Public License v3.0 (GNU AFFERO GENERAL PUBLIC LICENSE)
