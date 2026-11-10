@@ -29,7 +29,9 @@ jobs:
           pip install feedparser lxml requests
 
       - name: Run Aggregator Script
-        run: python aggregate.py
+        run: |
+          mkdir -p "Aggregated Feed"
+          python aggregate.py
 
       - name: Commit and Push Updated Timeline Data
         if: always() # keep-alive runs even if your aggregator script crashes
@@ -47,13 +49,18 @@ jobs:
           
           # If 45 days pass without a human commit, force a real repository file change
           if [ $DAYS_ELAPSED -ge 45 ]; then
-            echo "Cron keep-alive reset executed on $(date -u)" >> keep_alive.txt
+            echo "Cron keep-alive reset executed on $(date -u)" >> "Aggregated Feed/keep_alive.txt"
           fi
           
-          git add feed.xml feed_status_log.json feeds/*.json keep_alive.txt || true
+          git add "Aggregated Feed/feed.xml" "Aggregated Feed/feed_status_log.json" "Aggregated Feed/keep_alive.txt" feeds/*.json || true
           if git commit -m "Sync: Append timeline & update health logs [$(date -u)]"; then
             git push
           fi
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'Aggregated Feed' # Serves ONLY the contents of your clean subfolder to the live website url
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
