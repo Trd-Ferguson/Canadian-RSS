@@ -39,15 +39,19 @@ jobs:
           git config --global user.name "Aggregator Bot"
           git config --global user.email "bot@gnu.org"
           
-          # Scan back for the last commit NOT containing "bot" in the committer's identity
+          # Scan back for the last commit NOT containing "bot" or "github" in the identity handle
           LAST_HUMAN_TIMESTAMP=$(git log -n 500 --format="%ct %ce" | grep -vE "bot|github" | head -n 1 | cut -d' ' -f1)
-          [ -z "$LAST_HUMAN_TIMESTAMP" ] && LAST_HUMAN_TIMESTAMP=0
+          
+          # Force a valid fallback value if no human commits exist yet to prevent empty expression arithmetic crashes
+          if [ -z "$LAST_HUMAN_TIMESTAMP" ]; then
+            LAST_HUMAN_TIMESTAMP=$(date +%s)
+          fi
           
           CURRENT_TIMESTAMP=$(date +%s)
           SECONDS_ELAPSED=$((CURRENT_TIMESTAMP - LAST_HUMAN_TIMESTAMP))
           DAYS_ELAPSED=$((SECONDS_ELAPSED / 86400))
           
-          # If 45 days pass without a human commit, force a real repository file change
+          # If 45 days pass without an active human footprint, append a timestamp line to trick the inactivity engine
           if [ $DAYS_ELAPSED -ge 45 ]; then
             echo "Cron keep-alive reset executed on $(date -u)" >> "Aggregated Feed/keep_alive.txt"
           fi
@@ -60,7 +64,7 @@ jobs:
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'Aggregated Feed' 
+          path: 'Aggregated Feed' # Bundles and deploys only the underlying contents of your folder
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
