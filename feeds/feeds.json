@@ -1,0 +1,149 @@
+[
+  {
+    "id": "cbc_indigenous",
+    "name": "CBC News - Indigenous",
+    "feed_url": "https://www.cbc.ca/webfeed/rss/rss-Indigenous",
+    "icon_url": "https://www.cbc.ca/a/favicon.ico",
+    "fallback_image_url": "https://i.cbc.ca/ais/1.4066392,1760127588530/full/max/0/default.jpg"
+  },
+  {
+    "id": "cbc_top_stories",
+    "name": "CBC News - Top Stories",
+    "feed_url": "https://rss.cbc.ca/lineup/topstories.xml",
+    "icon_url": "https://www.cbc.ca/a/favicon.ico",
+    "fallback_image_url": "https://www.cbc.ca/a/favicon.ico"
+  },
+  {
+    "id": "the_maple",
+    "name": "The Maple",
+    "feed_url": "https://www.readthemaple.com/rss/",
+    "icon_url": "https://www.readthemaple.com/favicon.ico",
+    "fallback_image_url": "https://www.readthemaple.com/favicon.ico"
+  },
+  {
+    "id": "the_tyee",
+    "name": "The Tyee",
+    "feed_url": "https://thetyee.ca/rss2.xml",
+    "icon_url": "https://thetyee.ca/favicon.ico",
+    "fallback_image_url": "https://thetyee.ca/favicon.ico"
+  },
+  {
+    "id": "prime_minister_news",
+    "name": "Prime Minister of Canada - News",
+    "feed_url": "https://www.pm.gc.ca/en/news.rss",
+    "icon_url": "https://www.pm.gc.ca/favicon.ico",
+    "fallback_image_url": "https://www.pm.gc.ca/favicon.ico"
+  },
+  {
+    "id": "canada_gazette_part_1",
+    "name": "Canada Gazette - Part I",
+    "feed_url": "https://www.gazette.gc.ca/rss/p1-eng.xml",
+    "icon_url": "https://gazette.gc.ca/favicon.ico",
+    "fallback_image_url": "https://gazette.gc.ca/favicon.ico"
+  },
+  {
+    "id": "canada_gazette_list_of_notices",
+    "name": "Canada Gazette - List of Notices",
+    "feed_url": "https://www.gazette.gc.ca/rss/en-ls-eng.xml",
+    "icon_url": "https://gazette.gc.ca/favicon.ico",
+    "fallback_image_url": "https://gazette.gc.ca/favicon.ico"
+  },
+  {
+    "id": "canada_gazette_part_2",
+    "name": "Canada Gazette - Part II",
+    "feed_url": "https://www.gazette.gc.ca/rss/p2-eng.xml",
+    "icon_url": "https://gazette.gc.ca/favicon.ico",
+    "fallback_image_url": "https://gazette.gc.ca/favicon.ico"
+  },
+  {
+    "id": "the_breach",
+    "name": "The Breach",
+    "feed_url": "https://breachmedia.ca/feed/",
+    "icon_url": "https://breachmedia.ca/favicon.ico",
+    "fallback_image_url": "https://breachmedia.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_national_news",
+    "name": "Government of Canada - National News",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=National%20News",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_media_advisories",
+    "name": "Government of Canada - Media Advisories",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=mediaadvisories&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=media%20advisories",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_aboriginal_peoples",
+    "name": "Government of Canada - Aboriginal Peoples",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?audience=aboriginalpeoples&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Aboriginal%20peoples",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_job_seekers",
+    "name": "Government of Canada - Job Seekers",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?audience=jobseekers&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=job%20seekers",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "employment_and_social_development_canada",
+    "name": "Employment and Social Development Canada",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofemploymentandsocialdevelopment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Employment%20and%20Social%20Development%20Canada",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_media",
+    "name": "Government of Canada - Media",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?audience=media&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=media",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_jobs_and_workplace",
+    "name": "Government of Canada - Jobs and the Workplace",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?topic=jobsandtheworkplace&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Jobs%20and%20the%20workplace",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_canada_and_the_world",
+    "name": "Government of Canada - Canada and the World",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?topic=canadaandtheworld&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Canada%20and%20the%20world",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_news_releases",
+    "name": "Government of Canada - News Releases",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=newsreleases&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=news%20releases",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_readouts",
+    "name": "Government of Canada - Readouts",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=readouts&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=readouts",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_statements",
+    "name": "Government of Canada - Statements",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=statements&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=statements",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  },
+  {
+    "id": "government_of_canada_backgrounders",
+    "name": "Government of Canada - Backgrounders",
+    "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=backgrounders&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=backgrounders",
+    "icon_url": "https://www.canada.ca/favicon.ico",
+    "fallback_image_url": "https://www.canada.ca/favicon.ico"
+  }
+]
