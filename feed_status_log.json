@@ -1,0 +1,149 @@
+{
+  "cbc_indigenous": [
+    {
+      "checked_at": "2026-11-10 03:33:01 UTC",
+      "changed_at": "NONE",
+      "error": "HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "cbc_top_stories": [
+    {
+      "checked_at": "2026-11-10 03:33:21 UTC",
+      "changed_at": "NONE",
+      "error": "HTTPSConnectionPool(host='rss.cbc.ca', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "the_maple": [
+    {
+      "checked_at": "2026-11-10 03:33:41 UTC",
+      "changed_at": "2026-11-10 03:33:41 UTC",
+      "error": "NONE"
+    }
+  ],
+  "the_tyee": [
+    {
+      "checked_at": "2026-11-10 03:33:41 UTC",
+      "changed_at": "2026-11-10 03:33:41 UTC",
+      "error": "NONE"
+    }
+  ],
+  "prime_minister_news": [
+    {
+      "checked_at": "2026-11-10 03:33:41 UTC",
+      "changed_at": "2026-11-10 03:33:43 UTC",
+      "error": "NONE"
+    }
+  ],
+  "canada_gazette_part_1": [
+    {
+      "checked_at": "2026-11-10 03:33:43 UTC",
+      "changed_at": "2026-11-10 03:33:43 UTC",
+      "error": "NONE"
+    }
+  ],
+  "canada_gazette_list_of_notices": [
+    {
+      "checked_at": "2026-11-10 03:33:43 UTC",
+      "changed_at": "2026-11-10 03:33:43 UTC",
+      "error": "NONE"
+    }
+  ],
+  "canada_gazette_part_2": [
+    {
+      "checked_at": "2026-11-10 03:33:43 UTC",
+      "changed_at": "2026-11-10 03:33:44 UTC",
+      "error": "NONE"
+    }
+  ],
+  "the_breach": [
+    {
+      "checked_at": "2026-11-10 03:33:44 UTC",
+      "changed_at": "2026-11-10 03:33:44 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_national_news": [
+    {
+      "checked_at": "2026-11-10 03:33:44 UTC",
+      "changed_at": "2026-11-10 03:33:44 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_media_advisories": [
+    {
+      "checked_at": "2026-11-10 03:33:44 UTC",
+      "changed_at": "2026-11-10 03:33:44 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_aboriginal_peoples": [
+    {
+      "checked_at": "2026-11-10 03:33:44 UTC",
+      "changed_at": "2026-11-10 03:33:44 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_job_seekers": [
+    {
+      "checked_at": "2026-11-10 03:33:44 UTC",
+      "changed_at": "2026-11-10 03:33:44 UTC",
+      "error": "NONE"
+    }
+  ],
+  "employment_and_social_development_canada": [
+    {
+      "checked_at": "2026-11-10 03:33:44 UTC",
+      "changed_at": "2026-11-10 03:33:45 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_media": [
+    {
+      "checked_at": "2026-11-10 03:33:45 UTC",
+      "changed_at": "2026-11-10 03:33:45 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_jobs_and_workplace": [
+    {
+      "checked_at": "2026-11-10 03:33:45 UTC",
+      "changed_at": "2026-11-10 03:33:45 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_canada_and_the_world": [
+    {
+      "checked_at": "2026-11-10 03:33:45 UTC",
+      "changed_at": "2026-11-10 03:33:45 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_news_releases": [
+    {
+      "checked_at": "2026-11-10 03:33:45 UTC",
+      "changed_at": "2026-11-10 03:33:45 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_readouts": [
+    {
+      "checked_at": "2026-11-10 03:33:45 UTC",
+      "changed_at": "2026-11-10 03:33:45 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_statements": [
+    {
+      "checked_at": "2026-11-10 03:33:45 UTC",
+      "changed_at": "2026-11-10 03:33:45 UTC",
+      "error": "NONE"
+    }
+  ],
+  "government_of_canada_backgrounders": [
+    {
+      "checked_at": "2026-11-10 03:33:45 UTC",
+      "changed_at": "2026-11-10 03:33:45 UTC",
+      "error": "NONE"
+    }
+  ]
+}
