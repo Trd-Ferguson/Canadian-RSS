@@ -1,0 +1,7 @@
+{
+  "id": "cbc_indigenous",
+  "name": "CBC News - Indigenous",
+  "feed_url": "https://www.cbc.ca/webfeed/rss/rss-Indigenous",
+  "icon_url": "https://www.cbc.ca/a/favicon.ico",
+  "fallback_image_url": "https://i.cbc.ca/ais/1.4066392,1760127588530/full/max/0/default.jpg"
+}
