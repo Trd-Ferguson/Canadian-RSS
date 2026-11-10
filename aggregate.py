@@ -8,8 +8,8 @@ import requests
 from lxml import html
 
 FEEDS_CONFIG_PATH = "feeds/feeds.json"
-STATUS_LOG_PATH = "feed_status_log.json"
-OUTPUT_FEED_PATH = "feed.xml"
+STATUS_LOG_PATH = "Aggregated Feed/feed_status_log.json"
+OUTPUT_FEED_PATH = "Aggregated Feed/feed.xml"
 
 if not os.path.exists(FEEDS_CONFIG_PATH):
     raise FileNotFoundError(f"Configuration profile layout missing at {FEEDS_CONFIG_PATH}")
@@ -163,7 +163,7 @@ for item in sorted_xml_nodes:
     export_item = ET.Element("item")
     for child in item:
         ET.SubElement(export_item, child.tag).text = child.text
-    # Keep tracking coordinates alive in the reference cache across sequential execution runs
+
     if "timestamp" in item.attrib:
         export_item.set("timestamp", item.attrib["timestamp"])
     channel.append(export_item)
