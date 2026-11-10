@@ -1,0 +1,59 @@
+name: RSS Aggregator
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '27 */2 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  aggregate-and-loop:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Essential for git log history parsing
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Parsed Feed Libraries
+        run: |
+          pip install feedparser lxml requests
+
+      - name: Run Aggregator Script
+        run: python aggregate.py
+
+      - name: Commit and Push Updated Timeline Data
+        if: always() # keep-alive runs even if your aggregator script crashes
+        run: |
+          git config --global user.name "Aggregator Bot"
+          git config --global user.email "bot@gnu.org"
+          
+          # Scan back for the last commit NOT containing "bot" in the committer's identity
+          LAST_HUMAN_TIMESTAMP=$(git log -n 500 --format="%ct %ce" | grep -vE "bot|github" | head -n 1 | cut -d' ' -f1)
+          [ -z "$LAST_HUMAN_TIMESTAMP" ] && LAST_HUMAN_TIMESTAMP=0
+          
+          CURRENT_TIMESTAMP=$(date +%s)
+          SECONDS_ELAPSED=$((CURRENT_TIMESTAMP - LAST_HUMAN_TIMESTAMP))
+          DAYS_ELAPSED=$((SECONDS_ELAPSED / 86400))
+          
+          # If 45 days pass without a human commit, force a real repository file change
+          if [ $DAYS_ELAPSED -ge 45 ]; then
+            echo "Cron keep-alive reset executed on $(date -u)" >> keep_alive.txt
+          fi
+          
+          git add feed.xml feed_status_log.json feeds/*.json keep_alive.txt || true
+          if git commit -m "Sync: Append timeline & update health logs [$(date -u)]"; then
+            git push
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
