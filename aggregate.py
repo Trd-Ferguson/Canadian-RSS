@@ -1,21 +1,90 @@
-import os
 import json
+import os
 import re
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timezone
+from email.utils import format_datetime, parsedate_to_datetime
+
 import feedparser
 import requests
 from lxml import html
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 FEEDS_CONFIG_PATH = "feeds/feeds.json"
 STATUS_LOG_PATH = "Aggregated Feed/feed_status_log.json"
 OUTPUT_FEED_PATH = "Aggregated Feed/feed.xml"
 
-if not os.path.exists(FEEDS_CONFIG_PATH):
-    raise FileNotFoundError(f"Configuration profile layout missing at {FEEDS_CONFIG_PATH}")
+SITE_URL = "https://YOUR_USER.github.io/Canadian-RSS/"  # <-- set this
+SELF_FEED_URL = SITE_URL + "feed.xml"
+ATOM = "http://www.w3.org/2005/Atom"
+ET.register_namespace("atom", ATOM)
 
+USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+TEXT_FIELDS = ["title", "link", "author", "source_id", "source_name",
+               "source_icon", "story_image", "description"]
+EDIT_PREFIX = re.compile(r"^EDITED \[[^\]]*\] ")
+BAD_XML_CHARS = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+
+
+# ---------- helpers ----------
+def utcnow():
+    return datetime.now(timezone.utc)
+
+
+def clean(text):
+    return BAD_XML_CHARS.sub("", text or "").strip()
+
+
+def summarize(raw):
+    if not raw:
+        return ""
+    try:
+        text = html.fromstring(raw).text_content()
+    except Exception:
+        text = re.sub(r"<[^<]+?>", "", raw)
+    text = clean(text)
+    return text[:300] + "..." if len(text) > 300 else text
+
+
+def extract_story_image(entry):
+    media = entry.get("media_content")
+    if media and media[0].get("url"):
+        return media[0]["url"]
+    for link in entry.get("links", []):
+        if "image" in link.get("type", ""):
+            return link.get("href")
+    blob = (entry.get("description") or "") + " " + (entry.get("summary") or "")
+    match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', blob)
+    return match.group(1) if match else None
+
+
+def entry_timestamp(entry):
+    for key in ("published_parsed", "updated_parsed", "created_parsed"):
+        if entry.get(key):
+            try:
+                return datetime(*entry[key][:6], tzinfo=timezone.utc).timestamp()
+            except Exception:
+                continue
+    return utcnow().timestamp()
+
+
+def make_session():
+    session = requests.Session()
+    retry = Retry(total=3, backoff_factor=2, status_forcelist=[429, 500, 502, 503, 504])
+    session.mount("https://", HTTPAdapter(max_retries=retry))
+    session.headers["User-Agent"] = USER_AGENT
+    return session
+
+
+# ---------- load state ----------
+if not os.path.exists(FEEDS_CONFIG_PATH):
+    raise FileNotFoundError(f"Missing feed config: {FEEDS_CONFIG_PATH}")
 with open(FEEDS_CONFIG_PATH, "r", encoding="utf-8") as f:
     FEED_CONFIGS = json.load(f)
+BY_ID = {c["id"]: c for c in FEED_CONFIGS}
+BY_NAME = {c["name"]: c for c in FEED_CONFIGS}
 
 status_logs = {}
 if os.path.exists(STATUS_LOG_PATH):
@@ -25,154 +94,135 @@ if os.path.exists(STATUS_LOG_PATH):
     except Exception:
         status_logs = {}
 
-existing_xml_items = {}
-if os.path.exists(OUTPUT_FEED_PATH):
-    try:
-        tree = ET.parse(OUTPUT_FEED_PATH)
-        for item in tree.findall(".//item"):
-            guid_node = item.find("guid")
-            if guid_node is not None and guid_node.text:
-                existing_xml_items[guid_node.text] = item
-                if "timestamp" not in item.attrib:
-                    pub_date_str = item.find("pubDate").text
-                    try:
-                        dt = datetime.strptime(pub_date_str.strip(), "%a, %d %b %Y %H:%M:%S GMT")
-                        item.set("timestamp", str(dt.timestamp()))
-                    except Exception:
-                        item.set("timestamp", str(datetime.utcnow().timestamp()))
-    except Exception as e:
-        print(f"Base data timeline file unreadable. Starting fresh. Error: {e}")
 
-def clean_html_summary(html_text):
-    if not html_text:
-        return ""
-    try:
-        doc = html.fromstring(html_text)
-        text = doc.text_content().strip()
-        return text[:300] + "..." if len(text) > 300 else text
-    except Exception:
-        text = re.sub(r'<[^<]+?>', '', html_text)
-        return text[:300] + "..." if len(text) > 300 else text
+def load_archive():
+    """Read every item from the existing feed.xml. Aborts on a corrupt file so the archive is never wiped."""
+    archive = {}
+    if not os.path.exists(OUTPUT_FEED_PATH) or os.path.getsize(OUTPUT_FEED_PATH) == 0:
+        return archive
+    root = ET.parse(OUTPUT_FEED_PATH).getroot()
+    for el in root.iter("item"):
+        guid = el.findtext("guid")
+        if not guid:
+            continue
+        rec = {field: el.findtext(field) or "" for field in TEXT_FIELDS}
+        img = el.find("story_image")
+        rec["fallback"] = img is not None and img.get("fallback") == "1"
+        try:
+            dt = parsedate_to_datetime(el.findtext("pubDate"))
+            rec["ts"] = (dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)).timestamp()
+        except Exception:
+            rec["ts"] = utcnow().timestamp()
+        archive[guid] = rec
+    return archive
 
-def extract_story_image(entry):
-    if "media_content" in entry and entry["media_content"]:
-        return entry["media_content"][0].get("url")
-    if "links" in entry:
-        for link in entry["links"]:
-            if "image" in link.get("type", ""):
-                return link.get("href")
-    html_content = entry.get("description", "") + " " + entry.get("summary", "")
-    if html_content:
-        imgs = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', html_content)
-        if imgs:
-            return imgs[0]
-    return None
 
-def parse_entry_date(entry):
-    for key in ["published_parsed", "updated_parsed", "created_parsed"]:
-        if entry.get(key):
-            try:
-                return datetime(*entry[key][:6])
-            except Exception:
-                continue
-    return datetime.utcnow()
+archive = load_archive()
+session = make_session()
 
+# ---------- fetch & merge ----------
 for cfg in FEED_CONFIGS:
     feed_id = cfg["id"]
-    feed_url = cfg["feed_url"]
-    if feed_id not in status_logs or not isinstance(status_logs[feed_id], list):
+    if not isinstance(status_logs.get(feed_id), list):
         status_logs[feed_id] = []
-    current_status = {
-        "checked_at": datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC"),
-        "changed_at": "NONE",
-        "error": "NONE",
-    }
+    status = {"checked_at": utcnow().strftime("%Y-%m-%d %H:%M:%S UTC"),
+              "changed_at": "NONE", "error": "NONE"}
     try:
-        response = requests.get(
-            feed_url,
-            timeout=20,
-            headers={"User-Agent": "Mozilla/5.0 RSS Aggregator Engine"},
-        )
+        response = session.get(cfg["feed_url"], timeout=(10, 30))
         if response.status_code != 200:
             raise Exception(f"HTTP Server responded with status code: {response.status_code}")
         parsed = feedparser.parse(response.content)
-        if parsed.bozo:
-            print(f"Non-fatal formatting warning on profile context {feed_id}")
-        new_items_found = False
+        changed = False
+
         for entry in parsed.entries:
             guid = entry.get("id") or entry.get("guid") or entry.get("link")
             if not guid:
                 continue
-            pub_date = parse_entry_date(entry)
-            img_url = extract_story_image(entry) or cfg.get("fallback_image_url", "")
-            summary = clean_html_summary(entry.get("summary") or entry.get("description", ""))
-            title = entry.get("title", "Untitled Story").strip()
-            author = entry.get("author") or entry.get("dc_creator") or "Staff Writer"
-            if guid in existing_xml_items:
-                old_item = existing_xml_items[guid]
-                old_title = (old_item.find("title").text or "").strip()
-                old_desc = (old_item.find("description").text or "").strip()
-                edited_attrs = []
-                if old_title != title and not old_title.startswith("EDITED"):
-                    edited_attrs.append("title")
-                if old_desc != summary and not old_desc.startswith("EDITED"):
-                    edited_attrs.append("summary")
-                if edited_attrs:
-                    attr_labels = ", ".join(edited_attrs)
-                    summary = f"EDITED [{attr_labels}] {summary}"
-                    new_items_found = True
-                else:
-                    continue
-            else:
-                new_items_found = True
-            item_element = ET.Element("item")
-            ET.SubElement(item_element, "title").text = title
-            ET.SubElement(item_element, "link").text = entry.get("link", "")
-            ET.SubElement(item_element, "guid", isPermaLink="false").text = guid
-            ET.SubElement(item_element, "pubDate").text = pub_date.strftime("%a, %d %b %Y %H:%M:%S GMT")
-            ET.SubElement(item_element, "author").text = author
-            ET.SubElement(item_element, "source_name").text = cfg["name"]
-            ET.SubElement(item_element, "source_icon").text = cfg.get("icon_url", "")
-            ET.SubElement(item_element, "story_image").text = img_url
-            ET.SubElement(item_element, "description").text = summary
-            item_element.set("timestamp", str(pub_date.timestamp()))
-            existing_xml_items[guid] = item_element
-        if new_items_found:
-            current_status["changed_at"] = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+            title = clean(entry.get("title")) or "Untitled Story"
+            summary = summarize(entry.get("summary") or entry.get("description"))
+            real_img = extract_story_image(entry)
+            rec = archive.get(guid)
+
+            if rec is None:
+                archive[guid] = {
+                    "title": title,
+                    "link": entry.get("link", ""),
+                    "author": clean(entry.get("author") or entry.get("dc_creator")) or "Staff Writer",
+                    "source_id": feed_id,
+                    "source_name": cfg["name"],
+                    "source_icon": cfg.get("icon_url", ""),
+                    "story_image": real_img or "",
+                    "fallback": not real_img,
+                    "description": summary,
+                    "ts": entry_timestamp(entry),
+                }
+                changed = True
+                continue
+
+            # Existing item: flag edits, and upgrade a fallback image if a real one appears
+            edited = [name for name, old, new in (
+                ("title", rec["title"], title),
+                ("summary", EDIT_PREFIX.sub("", rec["description"]), summary),
+            ) if old != new]
+            if edited:
+                rec["title"] = title
+                rec["description"] = f"EDITED [{', '.join(edited)}] {summary}"
+                changed = True
+            if real_img and real_img != rec["story_image"]:
+                rec["story_image"], rec["fallback"] = real_img, False
+
+        if changed:
+            status["changed_at"] = utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
     except Exception as e:
-        current_status["error"] = str(e)
-        print(f"Exception encountered parsing endpoint layer {feed_id}: {e}")
-    status_logs[feed_id].insert(0, current_status)
+        status["error"] = str(e)
+        print(f"Error on {feed_id}: {e}")
+
+    status_logs[feed_id].insert(0, status)
     status_logs[feed_id] = status_logs[feed_id][:5]
 
-def get_item_timestamp(node):
-    try:
-        return float(node.get("timestamp", 0))
-    except (TypeError, ValueError):
-        return 0.0
+# ---------- sync source metadata across the WHOLE archive (incl. items no longer in their feed) ----------
+for rec in archive.values():
+    cfg = BY_ID.get(rec["source_id"]) or BY_NAME.get(rec["source_name"])
+    if not cfg:
+        continue  # source removed from feeds.json: leave its archived items untouched
+    fallback_img = cfg.get("fallback_image_url", "")
+    rec["source_id"] = cfg["id"]
+    rec["source_name"] = cfg["name"]
+    rec["source_icon"] = cfg.get("icon_url", "")
+    if rec["fallback"] or not rec["story_image"] or rec["story_image"] == fallback_img:
+        rec["story_image"], rec["fallback"] = fallback_img, True
 
-sorted_xml_nodes = sorted(existing_xml_items.values(), key=get_item_timestamp, reverse=True)
-rss_root = ET.Element("rss", {"version": "2.0", "xmlns:atom": "http://w3.org"})
-channel = ET.SubElement(rss_root, "channel")
+# ---------- write feed.xml (newest first) ----------
+rss = ET.Element("rss", {"version": "2.0"})
+channel = ET.SubElement(rss, "channel")
 ET.SubElement(channel, "title").text = "Unified Canadian News Feed"
-ET.SubElement(channel, "link").text = "https://github.com"
+ET.SubElement(channel, "link").text = SITE_URL
 ET.SubElement(channel, "description").text = "Chronological aggregated Canadian timeline feed wall."
-ET.SubElement(channel, "lastBuildDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
+ET.SubElement(channel, "language").text = "en-ca"
+ET.SubElement(channel, "lastBuildDate").text = format_datetime(utcnow(), usegmt=True)
+ET.SubElement(channel, f"{{{ATOM}}}link",
+              {"href": SELF_FEED_URL, "rel": "self", "type": "application/rss+xml"})
 
-for item in sorted_xml_nodes:
-    export_item = ET.Element("item")
-    for child in item:
-        ET.SubElement(export_item, child.tag).text = child.text
+for guid, rec in sorted(archive.items(), key=lambda kv: kv[1]["ts"], reverse=True):
+    item = ET.SubElement(channel, "item")
+    ET.SubElement(item, "title").text = rec["title"]
+    ET.SubElement(item, "link").text = rec["link"]
+    ET.SubElement(item, "guid", {"isPermaLink": "false"}).text = guid
+    ET.SubElement(item, "pubDate").text = format_datetime(
+        datetime.fromtimestamp(rec["ts"], timezone.utc), usegmt=True)
+    ET.SubElement(item, "author").text = rec["author"]
+    ET.SubElement(item, "source_id").text = rec["source_id"]
+    ET.SubElement(item, "source_name").text = rec["source_name"]
+    ET.SubElement(item, "source_icon").text = rec["source_icon"]
+    ET.SubElement(item, "story_image", {"fallback": "1"} if rec["fallback"] else {}).text = rec["story_image"]
+    ET.SubElement(item, "description").text = rec["description"]
 
-    if "timestamp" in item.attrib:
-        export_item.set("timestamp", item.attrib["timestamp"])
-    channel.append(export_item)
-
-ET.ElementTree(rss_root).write(OUTPUT_FEED_PATH, encoding="utf-8", xml_declaration=True)
+ET.indent(rss, space="  ")
+tmp_path = OUTPUT_FEED_PATH + ".tmp"
+ET.ElementTree(rss).write(tmp_path, encoding="utf-8", xml_declaration=True)
+os.replace(tmp_path, OUTPUT_FEED_PATH)
 
 with open(STATUS_LOG_PATH, "w", encoding="utf-8") as f:
     json.dump(status_logs, f, indent=2)
 
-print(f"Compilation finished. Sync target index database currently tracks {len(sorted_xml_nodes)} sorted lifecycle entries.")
-
-# License: GNU General Public License v3.0 (GNU AFFERO GENERAL PUBLIC LICENSE)
+print(f"Done. Archive holds {len(archive)} items.")
