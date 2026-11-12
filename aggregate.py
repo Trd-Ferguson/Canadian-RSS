@@ -20,6 +20,10 @@ SELF_FEED_URL = SITE_URL + "feed.xml"
 ATOM = "http://www.w3.org/2005/Atom"
 ET.register_namespace("atom", ATOM)
 
+# Optional one-time helpers for old archived items whose feed was renamed or dropped:
+LEGACY_NAMES = {}   # e.g. {"Old Feed Name": "the_maple"}  (old source_name -> feed id)
+OLD_FALLBACKS = set()  # e.g. {"https://old.example.com/img.png"}  (previous fallback_image_url values)
+
 USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 TEXT_FIELDS = ["title", "link", "author", "source_id", "source_name",
@@ -165,6 +169,12 @@ for cfg in FEED_CONFIGS:
                 changed = True
                 continue
 
+            # Legacy item with no source_id: it's in this feed, so we now know its source
+            if not rec["source_id"]:
+                rec["source_id"] = feed_id
+                if not real_img:
+                    rec["fallback"] = True  # nothing real in the feed, so the stored image is an old fallback
+
             # Existing item: flag edits, and upgrade a fallback image if a real one appears
             edited = [name for name, old, new in (
                 ("title", rec["title"], title),
@@ -186,16 +196,18 @@ for cfg in FEED_CONFIGS:
     status_logs[feed_id].insert(0, status)
     status_logs[feed_id] = status_logs[feed_id][:5]
 
-# ---------- sync source metadata across the WHOLE archive (incl. items no longer in their feed) ----------
+# ---------- sync source metadata across the WHOLE archive ----------
 for rec in archive.values():
-    cfg = BY_ID.get(rec["source_id"]) or BY_NAME.get(rec["source_name"])
+    cfg = (BY_ID.get(rec["source_id"])
+           or BY_NAME.get(rec["source_name"])
+           or BY_ID.get(LEGACY_NAMES.get(rec["source_name"])))
     if not cfg:
-        continue  # source removed from feeds.json: leave its archived items untouched
+        continue  # source unknown: leave the archived item untouched
     fallback_img = cfg.get("fallback_image_url", "")
     rec["source_id"] = cfg["id"]
     rec["source_name"] = cfg["name"]
     rec["source_icon"] = cfg.get("icon_url", "")
-    if rec["fallback"] or not rec["story_image"] or rec["story_image"] == fallback_img:
+    if rec["fallback"] or not rec["story_image"] or rec["story_image"] in (fallback_img, *OLD_FALLBACKS):
         rec["story_image"], rec["fallback"] = fallback_img, True
 
 # ---------- write feed.xml (newest first) ----------
