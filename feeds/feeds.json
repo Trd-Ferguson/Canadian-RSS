@@ -67,7 +67,7 @@
     "name": "National News | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=National%20News",
     "icon_url": "https://www.canada.ca/favicon.ico",
-    "fallback_image_url": "https://www.cyber.gc.ca/sites/default/files/cyber/inline-images/cnd-news_en.jpg"
+    "fallback_image_url": "https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png"
   },
   {
     "id": "government_of_canada_media_advisories",
