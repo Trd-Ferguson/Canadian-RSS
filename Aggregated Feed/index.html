@@ -16,7 +16,7 @@
       position: relative;
       overflow: hidden;
       max-width: 1400px;
-      margin: 0 auto 0px auto;
+      margin: 0 auto 20px auto;
       background: #1e1e1e;
       padding: 10px;
       border-radius: 12px;
@@ -31,7 +31,7 @@
       inset: -10px; /* Slightly oversized to hide blurred edge artifacts */
       background-image: url('https://images.pexels.com/photos/36328292/pexels-photo-36328292.jpeg');
       background-size: 100% auto; /* 100% width of the header box */
-      background-position: center 75%;
+      background-position: center 50%;
       background-repeat: no-repeat;
       filter: blur(4px); /* Slight blur */
       
@@ -51,8 +51,12 @@
       position: relative;
       z-index: 1;
     }
+    .header h1 .fade {
+      opacity: 0.4;
+      font-weight: 400; 
+    }
     .header p {
-      margin: 0 10px;
+      margin: 5 10px;
       color: #bdbdbd;
       font-size: 18px;
       position: relative;
@@ -183,8 +187,8 @@
 <body>
 
   <div class="header">
-    <h1>Media Scan | Canadian News</h1>
-    <p>Canadian media scan & news feed wall: an aggregated RSS reader.</p>
+    <h1><span class="fade"> Canadian News </span> Media Scan  </h1>
+    <p>Canadian media scan & news feed wall | an aggregated RSS reader.</p>
     <small id="sync-time" style="color: #8a8d91; display: block; margin-top: 10px; font-weight: 500;">Loading latest sync time...</small>
   </div>
 
