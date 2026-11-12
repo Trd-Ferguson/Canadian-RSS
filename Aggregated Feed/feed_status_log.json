@@ -1,6 +1,11 @@
 {
   "cbc_indigenous": [
     {
+      "checked_at": "2026-11-12 10:03:56 UTC",
+      "changed_at": "NONE",
+      "error": "HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=20)"
+    },
+    {
       "checked_at": "2026-11-12 09:58:50 UTC",
       "changed_at": "NONE",
       "error": "HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=20)"
@@ -19,14 +24,14 @@
       "checked_at": "2026-11-11 16:27:19 UTC",
       "changed_at": "NONE",
       "error": "HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=20)"
-    },
-    {
-      "checked_at": "2026-11-11 06:55:28 UTC",
-      "changed_at": "NONE",
-      "error": "HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=20)"
     }
   ],
   "cbc_top_stories": [
+    {
+      "checked_at": "2026-11-12 10:04:16 UTC",
+      "changed_at": "NONE",
+      "error": "HTTPSConnectionPool(host='rss.cbc.ca', port=443): Read timed out. (read timeout=20)"
+    },
     {
       "checked_at": "2026-11-12 09:59:11 UTC",
       "changed_at": "NONE",
@@ -46,14 +51,14 @@
       "checked_at": "2026-11-11 16:27:39 UTC",
       "changed_at": "NONE",
       "error": "HTTPSConnectionPool(host='rss.cbc.ca', port=443): Read timed out. (read timeout=20)"
-    },
-    {
-      "checked_at": "2026-11-11 06:55:48 UTC",
-      "changed_at": "NONE",
-      "error": "HTTPSConnectionPool(host='rss.cbc.ca', port=443): Read timed out. (read timeout=20)"
     }
   ],
   "the_maple": [
+    {
+      "checked_at": "2026-11-12 10:04:36 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:31 UTC",
       "changed_at": "NONE",
@@ -73,14 +78,14 @@
       "checked_at": "2026-11-11 16:27:59 UTC",
       "changed_at": "2026-11-11 16:27:59 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:08 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "the_tyee": [
+    {
+      "checked_at": "2026-11-12 10:04:37 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:31 UTC",
       "changed_at": "NONE",
@@ -100,14 +105,14 @@
       "checked_at": "2026-11-11 16:27:59 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:09 UTC",
-      "changed_at": "2026-11-11 06:56:09 UTC",
-      "error": "NONE"
     }
   ],
   "prime_minister_news": [
+    {
+      "checked_at": "2026-11-12 10:04:37 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:31 UTC",
       "changed_at": "NONE",
@@ -127,14 +132,14 @@
       "checked_at": "2026-11-11 16:28:00 UTC",
       "changed_at": "2026-11-11 16:28:01 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:09 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "canada_gazette_part_1": [
+    {
+      "checked_at": "2026-11-12 10:04:38 UTC",
+      "changed_at": "2026-11-12 10:04:39 UTC",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:33 UTC",
       "changed_at": "2026-11-12 09:59:34 UTC",
@@ -154,14 +159,14 @@
       "checked_at": "2026-11-11 16:28:01 UTC",
       "changed_at": "2026-11-11 16:28:01 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:11 UTC",
-      "changed_at": "2026-11-11 06:56:12 UTC",
-      "error": "NONE"
     }
   ],
   "canada_gazette_list_of_notices": [
+    {
+      "checked_at": "2026-11-12 10:04:39 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:34 UTC",
       "changed_at": "NONE",
@@ -181,14 +186,14 @@
       "checked_at": "2026-11-11 16:28:01 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:12 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "canada_gazette_part_2": [
+    {
+      "checked_at": "2026-11-12 10:04:39 UTC",
+      "changed_at": "2026-11-12 10:04:39 UTC",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:34 UTC",
       "changed_at": "2026-11-12 09:59:35 UTC",
@@ -208,14 +213,14 @@
       "checked_at": "2026-11-11 16:28:02 UTC",
       "changed_at": "2026-11-11 16:28:02 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:12 UTC",
-      "changed_at": "2026-11-11 06:56:13 UTC",
-      "error": "NONE"
     }
   ],
   "the_breach": [
+    {
+      "checked_at": "2026-11-12 10:04:39 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:35 UTC",
       "changed_at": "NONE",
@@ -235,14 +240,14 @@
       "checked_at": "2026-11-11 16:28:02 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:13 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_national_news": [
+    {
+      "checked_at": "2026-11-12 10:04:39 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:35 UTC",
       "changed_at": "NONE",
@@ -262,14 +267,14 @@
       "checked_at": "2026-11-11 16:28:02 UTC",
       "changed_at": "2026-11-11 16:28:02 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:13 UTC",
-      "changed_at": "2026-11-11 06:56:14 UTC",
-      "error": "NONE"
     }
   ],
   "government_of_canada_media_advisories": [
+    {
+      "checked_at": "2026-11-12 10:04:39 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:35 UTC",
       "changed_at": "NONE",
@@ -289,14 +294,14 @@
       "checked_at": "2026-11-11 16:28:02 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:14 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_aboriginal_peoples": [
+    {
+      "checked_at": "2026-11-12 10:04:39 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:35 UTC",
       "changed_at": "NONE",
@@ -316,14 +321,14 @@
       "checked_at": "2026-11-11 16:28:02 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:14 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_job_seekers": [
+    {
+      "checked_at": "2026-11-12 10:04:40 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:35 UTC",
       "changed_at": "NONE",
@@ -343,14 +348,14 @@
       "checked_at": "2026-11-11 16:28:02 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:14 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "employment_and_social_development_canada": [
+    {
+      "checked_at": "2026-11-12 10:04:40 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:36 UTC",
       "changed_at": "NONE",
@@ -370,14 +375,14 @@
       "checked_at": "2026-11-11 16:28:02 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:15 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_media": [
+    {
+      "checked_at": "2026-11-12 10:04:40 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:36 UTC",
       "changed_at": "NONE",
@@ -397,14 +402,14 @@
       "checked_at": "2026-11-11 16:28:02 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:15 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_jobs_and_workplace": [
+    {
+      "checked_at": "2026-11-12 10:04:40 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:36 UTC",
       "changed_at": "NONE",
@@ -422,17 +427,17 @@
     },
     {
       "checked_at": "2026-11-11 16:28:03 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:15 UTC",
       "changed_at": "NONE",
       "error": "NONE"
     }
   ],
   "government_of_canada_canada_and_the_world": [
     {
+      "checked_at": "2026-11-12 10:04:40 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
+    {
       "checked_at": "2026-11-12 09:59:36 UTC",
       "changed_at": "NONE",
       "error": "NONE"
@@ -449,17 +454,17 @@
     },
     {
       "checked_at": "2026-11-11 16:28:03 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:16 UTC",
       "changed_at": "NONE",
       "error": "NONE"
     }
   ],
   "government_of_canada_news_releases": [
     {
+      "checked_at": "2026-11-12 10:04:41 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
+    {
       "checked_at": "2026-11-12 09:59:36 UTC",
       "changed_at": "NONE",
       "error": "NONE"
@@ -476,17 +481,17 @@
     },
     {
       "checked_at": "2026-11-11 16:28:03 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:16 UTC",
       "changed_at": "NONE",
       "error": "NONE"
     }
   ],
   "government_of_canada_readouts": [
     {
+      "checked_at": "2026-11-12 10:04:41 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
+    {
       "checked_at": "2026-11-12 09:59:36 UTC",
       "changed_at": "NONE",
       "error": "NONE"
@@ -505,14 +510,14 @@
       "checked_at": "2026-11-11 16:28:03 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:16 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_statements": [
+    {
+      "checked_at": "2026-11-12 10:04:41 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:36 UTC",
       "changed_at": "NONE",
@@ -532,14 +537,14 @@
       "checked_at": "2026-11-11 16:28:03 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:16 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_backgrounders": [
+    {
+      "checked_at": "2026-11-12 10:04:41 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:37 UTC",
       "changed_at": "NONE",
@@ -559,14 +564,14 @@
       "checked_at": "2026-11-11 16:28:03 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-11 06:56:17 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "aptn_news": [
+    {
+      "checked_at": "2026-11-12 10:04:41 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:37 UTC",
       "changed_at": "NONE",
@@ -580,6 +585,11 @@
   ],
   "the_walrus": [
     {
+      "checked_at": "2026-11-12 10:04:41 UTC",
+      "changed_at": "NONE",
+      "error": "HTTP Server responded with status code: 403"
+    },
+    {
       "checked_at": "2026-11-12 09:59:37 UTC",
       "changed_at": "NONE",
       "error": "HTTP Server responded with status code: 403"
@@ -591,6 +601,11 @@
     }
   ],
   "itk": [
+    {
+      "checked_at": "2026-11-12 10:04:41 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:37 UTC",
       "changed_at": "NONE",
@@ -604,6 +619,11 @@
   ],
   "cirnac": [
     {
+      "checked_at": "2026-11-12 10:04:41 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
+    {
       "checked_at": "2026-11-12 09:59:37 UTC",
       "changed_at": "NONE",
       "error": "NONE"
@@ -615,6 +635,11 @@
     }
   ],
   "nwac": [
+    {
+      "checked_at": "2026-11-12 10:04:41 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-12 09:59:37 UTC",
       "changed_at": "NONE",
