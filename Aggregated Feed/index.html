@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Canadian News</title>
   <style>
-    /* Pure System Dark Theme Configuration */
     body {
       background-color: #121212;
       color: #e0e0e0;
@@ -13,33 +12,58 @@
       margin: 0;
       padding: 20px;
     }
-    
     .header {
+      position: relative;
+      overflow: hidden;
       max-width: 1400px;
-      margin: 0 auto 30px auto;
+      margin: 0 auto 0px auto;
       background: #1e1e1e;
-      padding: 20px;
+      padding: 10px;
       border-radius: 12px;
-      border-top: 5px solid #b71c1c;
+      border-top: 5px solid #8f0101;
       box-shadow: 0 4px 6px rgba(0,0,0,0.3);
     }
+
+    /* Background image layer with blur and left-to-right fade */
+    .header::before {
+      content: "";
+      position: absolute;
+      inset: -10px; /* Slightly oversized to hide blurred edge artifacts */
+      background-image: url('https://images.pexels.com/photos/36328292/pexels-photo-36328292.jpeg');
+      background-size: 100% auto; /* 100% width of the header box */
+      background-position: center 75%;
+      background-repeat: no-repeat;
+      filter: blur(4px); /* Slight blur */
+      
+      /* Fade from 0% opacity on the left to 70% opacity on the right */
+      -webkit-mask-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
+      mask-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
+      
+      z-index: 0;
+      pointer-events: none;
+    }
+
     .header h1 {
-      margin: 0 0 10px 0;
+      margin: 0 5px 2px;
       font-size: 32px;
       color: #ffffff;
       font-weight: 800;
+      position: relative;
+      z-index: 1;
     }
     .header p {
-      margin: 0;
-      color: #aaaaaa;
-      font-size: 15px;
+      margin: 0 10px;
+      color: #bdbdbd;
+      font-size: 18px;
+      position: relative;
+      z-index: 1;
     }
 
-    /* Desktop Format: Flexible 3-Card Wide Grid (At least 3 columns) */
+    /* Desktop Format: Flex-Grid (At least 3 card columns) */
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
-      gap: 30px;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 20px;
       max-width: 1400px;
       margin: 0 auto;
     }
@@ -52,16 +76,14 @@
       display: flex;
       flex-direction: column;
       height: 100%;
-      border: 1px solid #2d2d2d;
+      border: 3px solid #2d2d2d;
       box-shadow: 0 4px 10px rgba(0,0,0,0.4);
       transition: transform 0.2s ease, border-color 0.2s ease;
     }
     .card:hover {
       transform: translateY(-4px);
-      border-color: #b71c1c;
+      border-color: #fffaed;
     }
-
-    /* Upper Portion: Image Canvas */
     .img-container {
       width: 100%;
       height: 220px;
@@ -92,7 +114,7 @@
     }
 
     .card-body {
-      padding: 0 15px 15px 15px;
+      padding: 0 10px 10px 10px;
       flex-grow: 1;
       display: flex;
       flex-direction: column;
@@ -107,7 +129,7 @@
       text-decoration: none;
     }
     .card-body h2 a:hover {
-      color: #ff5252;
+      color: #ff8686;
     }
     .card-body p {
       color: #ccd0d5;
@@ -116,11 +138,10 @@
       margin: 0 0 15px 0;
     }
 
-    /* Expand / Collapse Button Elements */
     .expand-btn {
       background: none;
       border: none;
-      color: #ff5252;
+      color: #ff8686;
       font-size: 13px;
       font-weight: 700;
       cursor: pointer;
@@ -131,7 +152,7 @@
       margin-bottom: 15px;
     }
     .expand-btn:hover {
-      color: #ff8686;
+      color: #ff5252;
     }
     .chevron {
       width: 12px;
@@ -162,9 +183,9 @@
 <body>
 
   <div class="header">
-    <h1>Canadian News</h1>
-    <p>Canadian feed wall: an aggregated RSS reader.</p>
-    <small id="sync-time" style="color: #8a8d91; display: block; margin-top: 12px; font-weight: 600;">Loading latest sync time...</small>
+    <h1>Media Scan | Canadian News</h1>
+    <p>Canadian media scan & news feed wall: an aggregated RSS reader.</p>
+    <small id="sync-time" style="color: #8a8d91; display: block; margin-top: 10px; font-weight: 500;">Loading latest sync time...</small>
   </div>
 
   <div id="loading">Compiling latest Canadian timeline data...</div>
@@ -203,7 +224,7 @@
         
         const buildDateNode = data.getElementsByTagName('lastBuildDate')[0];
         const buildDate = buildDateNode ? buildDateNode.textContent : 'Recent';
-        document.getElementById('sync-time').textContent = `Last Build Matrix Sync: ${buildDate}`;
+        document.getElementById('sync-time').textContent = `Last Build Sync: ${buildDate}`;
 
         const items = data.getElementsByTagName('item');
         const grid = document.getElementById('news-grid');
@@ -239,9 +260,10 @@
             </div>
             <div class="meta-bar">
               <img src="${sourceIcon}" class="source-icon" onerror="this.onerror=null; this.src='${FALLBACK_IMG}';">
-              <span>${sourceName}</span>
+              <span>${sourceName}<br>${author}</span>
             </div>
             <div class="card-body">
+              <h4>${author}</h4>
               <h2><a href="${link}" target="_blank">${title}</a></h2>
               <p id="desc-${guid}">${displayDesc}</p>
               
@@ -255,8 +277,8 @@
               ` : ''}
 
               <div class="footer-meta">
-                Published: ${pubDate} <br />
-                Writer: ${author}
+                ${pubDate} <br>
+                <b>${author}</b>
               </div>
             </div>
           `;
