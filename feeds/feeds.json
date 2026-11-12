@@ -8,7 +8,7 @@
   },
   {
     "id": "cbc_top_stories",
-    "name": "CBC News - Top Stories",
+    "name": "CBC | Top Stories",
     "feed_url": "https://rss.cbc.ca/lineup/topstories.xml",
     "icon_url": "https://www.cbc.ca/a/favicon.ico",
     "fallback_image_url": "https://www.cbc.ca/a/favicon.ico"
@@ -29,7 +29,7 @@
   },
   {
     "id": "prime_minister_news",
-    "name": "Prime Minister of Canada - News",
+    "name": "Prime Minister of Canada",
     "feed_url": "https://www.pm.gc.ca/en/news.rss",
     "icon_url": "https://www.pm.gc.ca/themes/pm_theme/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/splash_files/office-of-pm.png"
