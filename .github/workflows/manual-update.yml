@@ -1,0 +1,58 @@
+name: Feed Rebuild & Deploy
+
+# Triggers ONLY on "Run workflow" in the Actions tab
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Ensures rebuild runs and cron runs never conflict
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  manual-rebuild-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install Parsed Feed Libraries
+        run: |
+          pip install feedparser lxml requests
+
+      - name: Run Aggregator Script
+        run: |
+          mkdir -p "Aggregated Feed"
+          python aggregate.py
+
+      - name: Commit and Push Updated Feed Data
+        run: |
+          git config --global user.name "Aggregator Bot"
+          git config --global user.email "bot@gnu.org"
+          git add "Aggregated Feed/feed.xml" "Aggregated Feed/feed_status_log.json" "feeds/feeds.json" || true
+          if git commit -m "Manual Sync: Rebuild feed.xml [$(date -u)]"; then
+            git push
+          fi
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: 'Aggregated Feed'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
