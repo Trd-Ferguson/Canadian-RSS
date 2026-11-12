@@ -96,11 +96,17 @@ if os.path.exists(STATUS_LOG_PATH):
 
 
 def load_archive():
-    """Read every item from the existing feed.xml. Aborts on a corrupt file so the archive is never wiped."""
+    """Read every item from the existing feed.xml. Blank/rootless files start a fresh archive;
+    a file with real content that fails to parse aborts so the archive is never wiped."""
     archive = {}
-    if not os.path.exists(OUTPUT_FEED_PATH) or os.path.getsize(OUTPUT_FEED_PATH) == 0:
+    if not os.path.exists(OUTPUT_FEED_PATH):
         return archive
-    root = ET.parse(OUTPUT_FEED_PATH).getroot()
+    with open(OUTPUT_FEED_PATH, "r", encoding="utf-8") as f:
+        raw = f.read()
+    if "<rss" not in raw and "<item" not in raw:
+        print("feed.xml has no feed content; starting a fresh archive.")
+        return archive
+    root = ET.fromstring(raw.encode("utf-8"))
     for el in root.iter("item"):
         guid = el.findtext("guid")
         if not guid:
