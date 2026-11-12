@@ -15,7 +15,7 @@ FEEDS_CONFIG_PATH = "feeds/feeds.json"
 STATUS_LOG_PATH = "Aggregated Feed/feed_status_log.json"
 OUTPUT_FEED_PATH = "Aggregated Feed/feed.xml"
 
-SITE_URL = "https://YOUR_USER.github.io/Canadian-RSS/"  # <-- set this
+SITE_URL = "https://trd-ferguson.github.io/Canadian-RSS/"
 SELF_FEED_URL = SITE_URL + "feed.xml"
 ATOM = "http://www.w3.org/2005/Atom"
 ET.register_namespace("atom", ATOM)
