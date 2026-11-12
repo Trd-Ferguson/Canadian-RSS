@@ -196,7 +196,6 @@
   <div class="grid" id="news-grid"></div>
 
   <script>
-    const FALLBACK_IMG = "https://images.pexels.com/photos/36328292/pexels-photo-36328292.jpeg";
 
     // Toggle description length statefully per card instance
     window.toggleCard = function(button, guid) {
@@ -246,10 +245,11 @@
           const pubDate = item.getElementsByTagName('pubDate')[0]?.textContent || '';
           const author = item.getElementsByTagName('author')[0]?.textContent || 'Staff Writer';
           const sourceName = item.getElementsByTagName('source_name')[0]?.textContent || 'News';
-          const sourceIcon = item.getElementsByTagName('source_icon')[0]?.textContent || FALLBACK_IMG;
-          const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || FALLBACK_IMG;
+          const sourceIcon = item.getElementsByTagName('source_icon')[0]?.textContent || ;
+          const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || ;
           const guidNode = item.getElementsByTagName('guid')[0];
           const guid = guidNode ? guidNode.textContent.replace(/[^a-zA-Z0-9]/g, idx) : idx;
+          
 
           const isLong = rawDesc.length > 140;
           const displayDesc = isLong ? rawDesc.substring(0, 140) + '...' : rawDesc;
