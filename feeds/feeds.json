@@ -43,7 +43,7 @@
   },
   {
     "id": "canada_gazette_list_of_notices",
-    "name": "Canada Gazette | III: Acts of Parliament"
+    "name": "Canada Gazette | III: Acts of Parliament",
     "feed_url": "https://www.gazette.gc.ca/rss/en-ls-eng.xml",
     "icon_url": "https://gazette.gc.ca/favicon.ico",
     "fallback_image_url": "https://gazette.gc.ca/images/img5.jpg"
@@ -64,84 +64,84 @@
   },
   {
     "id": "government_of_canada_national_news",
-    "name": "Government of Canada - National News",
+    "name": "National News | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=National%20News",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.cyber.gc.ca/sites/default/files/cyber/inline-images/cnd-news_en.jpg"
   },
   {
     "id": "government_of_canada_media_advisories",
-    "name": "Government of Canada - Media Advisories",
+    "name": "Media Advisories | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=mediaadvisories&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=media%20advisories",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/2025-11/PM_MediaAdvisory_EN.png"
   },
   {
     "id": "government_of_canada_aboriginal_peoples",
-    "name": "Government of Canada - Indigenous",
+    "name": "Indigenous | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?audience=aboriginalpeoples&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Aboriginal%20peoples",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.statcan.gc.ca/o1/sites/default/files/2022-06/NIPD_bulki.png"
   },
   {
     "id": "government_of_canada_job_seekers",
-    "name": "Government of Canada - Job Seekers",
+    "name": "Job Seekers | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?audience=jobseekers&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=job%20seekers",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.statcan.gc.ca/o1/sites/default/files/2024-06/university-article.jpg"
   },
   {
     "id": "employment_and_social_development_canada",
-    "name": "Employment and Social Development Canada",
+    "name": "Employment & Social Development Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofemploymentandsocialdevelopment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Employment%20and%20Social%20Development%20Canada",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://static.wixstatic.com/media/dbf07e_425bf1131f39426f96a8ecb17b24aa30~mv2.jpg"
   },
   {
     "id": "government_of_canada_media",
-    "name": "Government of Canada - Media",
+    "name": "Media | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?audience=media&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=media",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg"
   },
   {
     "id": "government_of_canada_jobs_and_workplace",
-    "name": "Government of Canada - Jobs and the Workplace",
+    "name": "Jobs & the Workplace | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?topic=jobsandtheworkplace&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Jobs%20and%20the%20workplace",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.cer-rec.gc.ca/en/about/publications-reports/employment-equity-reports/2023-2024/images/cover.jpg"
   },
   {
     "id": "government_of_canada_canada_and_the_world",
-    "name": "Government of Canada - Canada and the World",
+    "name": "Canada and the World | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?topic=canadaandtheworld&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Canada%20and%20the%20world",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.international.gc.ca/world-monde/assets/images/features/2026-05-13-arctic-360x203.jpg"
   },
   {
     "id": "government_of_canada_news_releases",
-    "name": "Government of Canada - News Releases",
+    "name": "News Releases | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=newsreleases&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=news%20releases",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/2025-11/PM_NewsRelease_EN.png"
   },
   {
     "id": "government_of_canada_readouts",
-    "name": "Government of Canada - Readouts",
+    "name": "Readouts | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=readouts&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=readouts",
     "icon_url": "https://www.canada.ca/favicon.ico",
-    "fallback_image_url": https://www.pm.gc.ca/sites/pm/files/media/override_sharing/priority_override/2018-09/pm_read_out_20180820.jpg"
+    "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/priority_override/2018-09/pm_read_out_20180820.jpg"
   },
   {
     "id": "government_of_canada_statements",
-    "name": "Government of Canada - Statements",
+    "name": "Statements | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=statements&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=statements",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/priority_override/2026-03/PM_PassingStatement_EN_v1.png"
   },
   {
     "id": "government_of_canada_backgrounders",
-    "name": "Government of Canada - Backgrounders",
+    "name": "Backgrounders | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=backgrounders&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=backgrounders",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/priority_override/2015-12/pm_eng_backgrounder.png"
@@ -177,7 +177,7 @@
   {
     "id": "nwac",
     "name": "NWAC | Native Women's Association of Canada",
-    "feed_url": "https://nwac.ca/feed/"
+    "feed_url": "https://nwac.ca/feed/",
     "icon_url": "https://nwac.ca/wp-content/uploads/2025/03/cropped-NWAC-logo-img-2-32x32.jpg",
     "fallback_image_url": "https://nwac.ca/wp-content/uploads/2025/04/NWAC-Logo-Transparent-e1744147088539.png"
   }
