@@ -3,10 +3,58 @@
   <channel>
     <title>Unified Canadian News Feed</title>
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
-    <description>Chronological aggregated Canadian timeline feed wall.</description>
+    <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:51:41 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>They called her 'Mommy': Vulnerable senior dies after 2 strangers take over her life</title>
+      <link>https://www.cbc.ca/news/canada/vulnerable-senior-death-9.7416801?cmp=rss</link>
+      <guid isPermaLink="false">9.7416801</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Krista Hessey, Linda Guerriero, Ioanna Roumeliotis</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/3b1275bb-c966-4e56-b06c-753471de51a9,1794414486400/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C83%2C1099%2C618%29%3B</story_image>
+      <description>Two men moved into an elderly Toronto woman's home and began claiming to be like her sons. She quickly gave them powers of attorney and signed a will, leaving them everything. Then she died.</description>
+    </item>
+    <item>
+      <title>We tested 6 popular apps to see what data they collect and share. Here’s what we found</title>
+      <link>https://www.cbc.ca/news/canada/app-data-privacy-9.7417814?cmp=rss</link>
+      <guid isPermaLink="false">9.7417814</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Bobby Hristova, Kathleen Coughlin, Rosa Marchitelli</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/ebfa9ee4-0018-4316-93cc-3632925f1a45,1794339272237/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1100%2C618%29%3B</story_image>
+      <description>Marketplace tested six of the most popular Android and iOS apps in Canada — Tim Hortons, PC Optimum, Weather Network, Facebook, Amazon and YouTube — to find out what data they collect and where it goes.</description>
+    </item>
+    <item>
+      <title>Countries vulnerable to climate disaster push for faster, easier access to finance at COP31</title>
+      <link>https://www.cbc.ca/news/science/cop31-climate-finance-nepal-9.7417460?cmp=rss</link>
+      <guid isPermaLink="false">9.7417460</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Inayat Singh</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/edc7af31-434d-46b0-af95-a5d2cf2195c8,1794355862392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B</story_image>
+      <description>Developing countries want to make finance for climate adaptation and disaster relief a top priority at the COP31 summit in Turkey in light of the recent devastating floods in Nepal — a tragedy that has laid bare the inadequacy of current programs, experts say.</description>
+    </item>
+    <item>
+      <title>Ex Ottawa Uber driver admits to giving 12-year-old girl 'secret admirer' candy, prowling house after delivery</title>
+      <link>https://www.cbc.ca/news/canada/ottawa/ex-uber-driver-45-admits-to-giving-12-year-old-girl-secret-admirer-candy-prowling-house-after-delivery-9.7418889?cmp=rss</link>
+      <guid isPermaLink="false">9.7418889</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Kristy Nease</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/b5efdfb8-37e1-47e4-a6b2-76761b4c1c4e,1779928792413/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C1909%2C1073%29%3B</story_image>
+      <description>A 45-year-old former Uber Eats delivery driver has pleaded guilty to harassing a 12-year-old girl with "secret admirer" messages and candy, as well as prowling her home at night, after he met her while dropping off an order she had placed.</description>
+    </item>
     <item>
       <title>Maryland's Van Hollen to challenge Schumer for U.S. Senate leadership post</title>
       <link>https://www.cbc.ca/news/world/van-hollen-senate-leadership-challenge-schumer-9.7420238?cmp=rss</link>
@@ -405,6 +453,18 @@ The post Shelter-in-place advisory issued near Squamish, B.C., due to flooding f
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
       <description>The Honourable Stephen Fuhr, Member of Parliament for Kelowna and Secretary of State (Defence Procurement) will attend an event in Kelowna to highlight federal budget investments in the wine sector that will build a stronger, more independent and resilient Canadian economy.</description>
+    </item>
+    <item>
+      <title>Eddie's dead: What one monarch's ill-fated journey can teach us about migration patterns</title>
+      <link>https://www.cbc.ca/news/climate/what-on-earth-monarch-tracking-9.7418761?cmp=rss</link>
+      <guid isPermaLink="false">9.7418761</guid>
+      <pubDate>Thu, 12 Nov 2026 19:00:00 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/b82d16ca-c6ed-408c-89c3-83d83637a8a9,1787788501957/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1420%2C798%29%3B</story_image>
+      <description>In this issue of our environmental newsletter, we track the demise of a monarch named Eddie and find out what it says about monarch migration, map the threats faced by freshwater animals and find out why sewing is so popular right now.</description>
     </item>
     <item>
       <title>Secretary Long in Toronto to highlight tax reform in Budget 2026</title>
@@ -1187,6 +1247,18 @@ The post Instead of supporting grandparents raising children, Ontario is plowing
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/93afb7d9-70b1-45cf-93d0-032938ab5bf2,1794438551864/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C288%2C5518%2C3103%29%3B</story_image>
       <description>The federal government says Russian hockey players will not be permitted to compete at next month's world junior championship in Alberta, even if they already hold valid Canadian visas.</description>
+    </item>
+    <item>
+      <title>Jays' Anthony Santander stays quiet after team asks him to publicly address anti-Muslim social media posts</title>
+      <link>https://www.cbc.ca/news/canada/toronto/blue-jays-anthony-santander-anti-muslim-posts-9.7418477?cmp=rss</link>
+      <guid isPermaLink="false">9.7418477</guid>
+      <pubDate>Wed, 11 Nov 2026 22:38:29 GMT</pubDate>
+      <author>Gregory Strong</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/ec601ecc-e6be-4741-b46c-55018e9f661d,1793996285341/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C81%2C6844%2C3849%29%3B</story_image>
+      <description>The Toronto Blue Jays have asked Anthony Santander to publicly address the controversy sparked by his decision to share anti-Muslim posts on social media. So far, the veteran outfielder has remained quiet and hasn't issued an apology.</description>
     </item>
     <item>
       <title>Parliamentary Secretary Noormohamed to highlight Budget 2026 investments in affordability</title>
@@ -2831,7 +2903,7 @@ The post Chiefs question motive behind Indian Act talks after meeting with Carne
       <description>Winnipeg, Manitoba – On November 10, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will participate in an armchair discussion at an event hosted by The Winnipeg Chamber of Commerce.</description>
     </item>
     <item>
-      <title>Nvidia CEO's resignation after affair with suspected Chinese spy rattles markets, tech world</title>
+      <title>What the Jensen Huang scandal means for Trump and his administration</title>
       <link>https://www.cbc.ca/news/world/nvidia-chips-china-ban-9.7416670?cmp=rss</link>
       <guid isPermaLink="false">9.7414711</guid>
       <pubDate>Mon, 09 Nov 2026 13:48:50 GMT</pubDate>
@@ -2839,7 +2911,7 @@ The post Chiefs question motive behind Indian Act talks after meeting with Carne
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/7facb223-f3fa-49d6-b098-412ea80ca798,1794500618606/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C105%2C1920%2C1080%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/7248947e-01b3-4316-89b1-413476d5272a,1794534418828/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
       <description>EDITED [title] </description>
     </item>
     <item>
