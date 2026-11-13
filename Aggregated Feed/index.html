@@ -273,28 +273,18 @@
           const feedConfig = feeds.find(feed => feed.id === sourceId);
           const fallbackImg = feedConfig?.fallback_image_url || 'assets/RSS-maple-favicon.svg';
           const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || fallbackImg;
-          const guidNode = item.getElementsByTagName('guid')[0];
-          const guid = guidNode ? guidNode.textContent.replace(/[^a-zA-Z0-9]/g, idx) : idx;
-
-
-          const feedConfig = feeds.find(feed => feed.id === sourceId);
-          const fallbackImg = feedConfig?.fallback_image_url || 'assets/RSS-maple-favicon.svg';
-          const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || fallbackImg;
           const cardStyle = feedConfig?.card_pres_set === 'dept' ? ' img-container--dept' : '';
           const guidNode = item.getElementsByTagName('guid')[0];
+          const guid = guidNode ? guidNode.textContent.replace(/[^a-zA-Z0-9]/g, idx) : idx;
+          
           const isLong = rawDesc.length > 140;
           const displayDesc = isLong ? rawDesc.substring(0, 140) + '...' : rawDesc;
-
-          const deptOverlay = card.querySelector('.dept-overlay');
-          if (deptOverlay) {
-            deptOverlay.textContent = author;
-          }
-
+          
           const card = document.createElement('div');
           card.className = 'card';
-
+          
           card.innerHTML = `
-            <div class="img-container${cardStyle}">
+          <div class="img-container${cardStyle}">
               <img
               src="${storyImg}"
               alt="Media"
@@ -331,8 +321,13 @@
               </div>
             </div>
           `;
-
+          const deptOverlay = card.querySelector('.dept-overlay');
+          if (deptOverlay) {
+            deptOverlay.textContent = author;
+          }
+          
           grid.appendChild(card);
+
         });
       })
       .catch(err => {
