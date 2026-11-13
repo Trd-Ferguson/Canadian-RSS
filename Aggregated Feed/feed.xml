@@ -5,8 +5,20 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian timeline feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:05:41 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maryland's Van Hollen to challenge Schumer for U.S. Senate leadership post</title>
+      <link>https://www.cbc.ca/news/world/van-hollen-senate-leadership-challenge-schumer-9.7420238?cmp=rss</link>
+      <guid isPermaLink="false">9.7420238</guid>
+      <pubDate>Fri, 13 Nov 2026 02:33:19 GMT</pubDate>
+      <author>Staff Writer</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/ec460f5d-b31d-4039-aeac-e2ef6787273a,1794536069703/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C351%2C6000%2C3375%29%3B</story_image>
+      <description>Democratic Sen. Chris Van Hollen of Maryland said Thursday that he will run for Senate majority leader in the next Congress, setting up a challenge to Democratic Leader Chuck Schumer after the party swept to power in the midterm elections.</description>
+    </item>
     <item>
       <title>Government of Canada adjusts the taxable value threshold for zero-emission vehicles</title>
       <link>https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-adjusts-the-taxable-value-threshold-for-zero-emission-vehicles.html</link>

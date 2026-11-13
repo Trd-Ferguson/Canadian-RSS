@@ -1,6 +1,11 @@
 {
   "cbc_indigenous": [
     {
+      "checked_at": "2026-11-13 03:05:19 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
+    {
       "checked_at": "2026-11-13 02:35:09 UTC",
       "changed_at": "NONE",
       "error": "NONE"
@@ -19,14 +24,14 @@
       "checked_at": "2026-11-13 01:20:22 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:51 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "cbc_top_stories": [
+    {
+      "checked_at": "2026-11-13 03:05:19 UTC",
+      "changed_at": "2026-11-13 03:05:20 UTC",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:09 UTC",
       "changed_at": "NONE",
@@ -46,14 +51,14 @@
       "checked_at": "2026-11-13 01:20:22 UTC",
       "changed_at": "2026-11-13 01:20:22 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:51 UTC",
-      "changed_at": "2026-11-12 18:29:51 UTC",
-      "error": "NONE"
     }
   ],
   "the_maple": [
+    {
+      "checked_at": "2026-11-13 03:05:20 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:09 UTC",
       "changed_at": "NONE",
@@ -73,14 +78,14 @@
       "checked_at": "2026-11-13 01:20:22 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:51 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "the_tyee": [
+    {
+      "checked_at": "2026-11-13 03:05:20 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:10 UTC",
       "changed_at": "NONE",
@@ -100,14 +105,14 @@
       "checked_at": "2026-11-13 01:20:23 UTC",
       "changed_at": "2026-11-13 01:20:23 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:52 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "prime_minister_news": [
+    {
+      "checked_at": "2026-11-13 03:05:20 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:10 UTC",
       "changed_at": "NONE",
@@ -127,14 +132,14 @@
       "checked_at": "2026-11-13 01:20:23 UTC",
       "changed_at": "2026-11-13 01:20:26 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:52 UTC",
-      "changed_at": "2026-11-12 18:29:56 UTC",
-      "error": "NONE"
     }
   ],
   "canada_gazette_part_1": [
+    {
+      "checked_at": "2026-11-13 03:05:24 UTC",
+      "changed_at": "2026-11-13 03:05:25 UTC",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:15 UTC",
       "changed_at": "2026-11-13 02:35:16 UTC",
@@ -154,14 +159,14 @@
       "checked_at": "2026-11-13 01:20:26 UTC",
       "changed_at": "2026-11-13 01:20:26 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:56 UTC",
-      "changed_at": "2026-11-12 18:29:57 UTC",
-      "error": "NONE"
     }
   ],
   "canada_gazette_list_of_notices": [
+    {
+      "checked_at": "2026-11-13 03:05:25 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:16 UTC",
       "changed_at": "NONE",
@@ -181,14 +186,14 @@
       "checked_at": "2026-11-13 01:20:26 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:57 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "canada_gazette_part_2": [
+    {
+      "checked_at": "2026-11-13 03:05:25 UTC",
+      "changed_at": "2026-11-13 03:05:25 UTC",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:16 UTC",
       "changed_at": "2026-11-13 02:35:16 UTC",
@@ -208,14 +213,14 @@
       "checked_at": "2026-11-13 01:20:27 UTC",
       "changed_at": "2026-11-13 01:20:27 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:57 UTC",
-      "changed_at": "2026-11-12 18:29:58 UTC",
-      "error": "NONE"
     }
   ],
   "the_breach": [
+    {
+      "checked_at": "2026-11-13 03:05:25 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:16 UTC",
       "changed_at": "NONE",
@@ -235,14 +240,14 @@
       "checked_at": "2026-11-13 01:20:27 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:58 UTC",
-      "changed_at": "2026-11-12 18:29:58 UTC",
-      "error": "NONE"
     }
   ],
   "government_of_canada_national_news": [
+    {
+      "checked_at": "2026-11-13 03:05:25 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:16 UTC",
       "changed_at": "NONE",
@@ -262,14 +267,14 @@
       "checked_at": "2026-11-13 01:20:27 UTC",
       "changed_at": "2026-11-13 01:20:27 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:58 UTC",
-      "changed_at": "2026-11-12 18:29:58 UTC",
-      "error": "NONE"
     }
   ],
   "government_of_canada_media_advisories": [
+    {
+      "checked_at": "2026-11-13 03:05:26 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:16 UTC",
       "changed_at": "NONE",
@@ -287,17 +292,17 @@
     },
     {
       "checked_at": "2026-11-13 01:20:27 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:58 UTC",
       "changed_at": "NONE",
       "error": "NONE"
     }
   ],
   "government_of_canada_aboriginal_peoples": [
     {
+      "checked_at": "2026-11-13 03:05:26 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
+    {
       "checked_at": "2026-11-13 02:35:16 UTC",
       "changed_at": "NONE",
       "error": "NONE"
@@ -316,14 +321,14 @@
       "checked_at": "2026-11-13 01:20:27 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:58 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_job_seekers": [
+    {
+      "checked_at": "2026-11-13 03:05:26 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:17 UTC",
       "changed_at": "NONE",
@@ -343,14 +348,14 @@
       "checked_at": "2026-11-13 01:20:28 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:58 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "employment_and_social_development_canada": [
+    {
+      "checked_at": "2026-11-13 03:05:27 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:17 UTC",
       "changed_at": "NONE",
@@ -370,14 +375,14 @@
       "checked_at": "2026-11-13 01:20:28 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:58 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_media": [
+    {
+      "checked_at": "2026-11-13 03:05:27 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:17 UTC",
       "changed_at": "NONE",
@@ -397,14 +402,14 @@
       "checked_at": "2026-11-13 01:20:28 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:59 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_jobs_and_workplace": [
+    {
+      "checked_at": "2026-11-13 03:05:27 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:18 UTC",
       "changed_at": "NONE",
@@ -422,17 +427,17 @@
     },
     {
       "checked_at": "2026-11-13 01:20:28 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:59 UTC",
       "changed_at": "NONE",
       "error": "NONE"
     }
   ],
   "government_of_canada_canada_and_the_world": [
     {
+      "checked_at": "2026-11-13 03:05:27 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
+    {
       "checked_at": "2026-11-13 02:35:18 UTC",
       "changed_at": "NONE",
       "error": "NONE"
@@ -451,14 +456,14 @@
       "checked_at": "2026-11-13 01:20:28 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:59 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_news_releases": [
+    {
+      "checked_at": "2026-11-13 03:05:27 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:18 UTC",
       "changed_at": "NONE",
@@ -478,14 +483,14 @@
       "checked_at": "2026-11-13 01:20:28 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:59 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_readouts": [
+    {
+      "checked_at": "2026-11-13 03:05:27 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:18 UTC",
       "changed_at": "NONE",
@@ -503,17 +508,17 @@
     },
     {
       "checked_at": "2026-11-13 01:20:29 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:59 UTC",
       "changed_at": "NONE",
       "error": "NONE"
     }
   ],
   "government_of_canada_statements": [
     {
+      "checked_at": "2026-11-13 03:05:27 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
+    {
       "checked_at": "2026-11-13 02:35:18 UTC",
       "changed_at": "NONE",
       "error": "NONE"
@@ -532,14 +537,14 @@
       "checked_at": "2026-11-13 01:20:29 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:29:59 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "government_of_canada_backgrounders": [
+    {
+      "checked_at": "2026-11-13 03:05:28 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:19 UTC",
       "changed_at": "NONE",
@@ -559,14 +564,14 @@
       "checked_at": "2026-11-13 01:20:29 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:30:00 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "aptn_news": [
+    {
+      "checked_at": "2026-11-13 03:05:28 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:19 UTC",
       "changed_at": "NONE",
@@ -586,14 +591,14 @@
       "checked_at": "2026-11-13 01:20:29 UTC",
       "changed_at": "2026-11-13 01:20:29 UTC",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:30:00 UTC",
-      "changed_at": "2026-11-12 18:30:00 UTC",
-      "error": "NONE"
     }
   ],
   "the_walrus": [
+    {
+      "checked_at": "2026-11-13 03:05:28 UTC",
+      "changed_at": "NONE",
+      "error": "HTTP Server responded with status code: 403"
+    },
     {
       "checked_at": "2026-11-13 02:35:19 UTC",
       "changed_at": "NONE",
@@ -611,17 +616,17 @@
     },
     {
       "checked_at": "2026-11-13 01:20:29 UTC",
-      "changed_at": "NONE",
-      "error": "HTTP Server responded with status code: 403"
-    },
-    {
-      "checked_at": "2026-11-12 18:30:00 UTC",
       "changed_at": "NONE",
       "error": "HTTP Server responded with status code: 403"
     }
   ],
   "itk": [
     {
+      "checked_at": "2026-11-13 03:05:28 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
+    {
       "checked_at": "2026-11-13 02:35:19 UTC",
       "changed_at": "NONE",
       "error": "NONE"
@@ -640,14 +645,14 @@
       "checked_at": "2026-11-13 01:20:29 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:30:00 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "cirnac": [
+    {
+      "checked_at": "2026-11-13 03:05:28 UTC",
+      "changed_at": "NONE",
+      "error": "NONE"
+    },
     {
       "checked_at": "2026-11-13 02:35:20 UTC",
       "changed_at": "NONE",
@@ -667,14 +672,14 @@
       "checked_at": "2026-11-13 01:20:30 UTC",
       "changed_at": "NONE",
       "error": "NONE"
-    },
-    {
-      "checked_at": "2026-11-12 18:30:00 UTC",
-      "changed_at": "NONE",
-      "error": "NONE"
     }
   ],
   "nwac": [
+    {
+      "checked_at": "2026-11-13 03:05:29 UTC",
+      "changed_at": "NONE",
+      "error": "HTTPSConnectionPool(host='nwac.ca', port=443): Max retries exceeded with url: /feed/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
     {
       "checked_at": "2026-11-13 02:35:20 UTC",
       "changed_at": "NONE",
@@ -694,11 +699,6 @@
       "checked_at": "2026-11-13 01:20:30 UTC",
       "changed_at": "NONE",
       "error": "HTTP Server responded with status code: 202"
-    },
-    {
-      "checked_at": "2026-11-12 18:30:00 UTC",
-      "changed_at": "NONE",
-      "error": "HTTPSConnectionPool(host='nwac.ca', port=443): Max retries exceeded with url: /feed/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     }
   ]
 }
