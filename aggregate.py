@@ -157,7 +157,7 @@ for cfg in FEED_CONFIGS:
                 archive[guid] = {
                     "title": title,
                     "link": entry.get("link", ""),
-                    "author": clean(entry.get("author") or entry.get("dc_creator")) or "Staff Writer",
+                    "author": clean(entry.get("author") or entry.get("dc_creator")) or " ",
                     "source_id": feed_id,
                     "source_name": cfg["name"],
                     "source_icon": cfg.get("icon_url", ""),
@@ -215,7 +215,7 @@ rss = ET.Element("rss", {"version": "2.0"})
 channel = ET.SubElement(rss, "channel")
 ET.SubElement(channel, "title").text = "Unified Canadian News Feed"
 ET.SubElement(channel, "link").text = SITE_URL
-ET.SubElement(channel, "description").text = "Chronological aggregated Canadian timeline feed wall."
+ET.SubElement(channel, "description").text = "Chronological aggregated Canadian feed wall."
 ET.SubElement(channel, "language").text = "en-ca"
 ET.SubElement(channel, "lastBuildDate").text = format_datetime(utcnow(), usegmt=True)
 ET.SubElement(channel, f"{{{ATOM}}}link",
