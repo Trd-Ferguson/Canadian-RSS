@@ -61,6 +61,11 @@ jobs:
             git push
           fi
 
+      - name: Include feed config in Pages artifact
+        run: |
+          mkdir -p "Aggregated Feed/feeds"
+          cp feeds/feeds.json "Aggregated Feed/feeds/feeds.json"
+
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
