@@ -213,7 +213,7 @@
         return res.text();
       })
       .then(xmlText =>
-        fetch('../feeds/feeds.json')
+        fetch('feeds/feeds.json')
           .then(res => {
             if (!res.ok) throw new Error(`Feed config request failed: ${res.status}`);
             return res.json().then(feeds => ({ xmlText, feeds }));
