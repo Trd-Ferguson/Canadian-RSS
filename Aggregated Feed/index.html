@@ -90,6 +90,11 @@
      position: relative;
      overflow: hidden;
    }
+    .img-container > a {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
     .img-container img {
       width: 100%;
       height: 100%;
@@ -284,15 +289,16 @@
           card.className = 'card';
           
           card.innerHTML = `
-          <div class="img-container${cardStyle}">
-              <img
-              src="${storyImg}"
-              alt="Media"
-              referrerpolicy="no-referrer"
-              data-fallback="${fallbackImg}"
-              onerror="this.onerror=null; if (this.dataset.fallback) this.src=this.dataset.fallback;"
-              >
-              ${cardStyle ? '<span class="dept-overlay"></span>' : ''}
+            <div class="img-container${cardStyle}">
+              <a href="${link}" target="_blank" rel="noopener noreferrer">
+                <img
+                  src="${storyImg}"
+                  alt="Media"
+                  data-fallback="${fallbackImg}"
+                  onerror="this.onerror=null; if (this.dataset.fallback) this.src=this.dataset.fallback;"
+                >
+                ${cardStyle ? '<span class="dept-overlay"></span>' : ''}
+              </a>
             </div>
             <div class="meta-bar">
               <img
@@ -303,7 +309,7 @@
               <span>${sourceName}</span>
             </div>
             <div class="card-body">
-              <h2><a href="${link}" target="_blank">${title}</a></h2>
+              <h2><a href="${link}" target="_blank" rel="noopener noreferrer">${title} </a></h2>
               <p id="desc-${guid}">${displayDesc}</p>
 
               ${isLong ? `
