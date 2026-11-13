@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" type="image/svg+xml" href="Aggregated Feed/assets/RSS-maple-favicon.svg">
+  <link rel="icon" type="image/svg+xml" href="assets/RSS-maple-favicon.svg">
   <title>Canadian News</title>
   <style>
     body {
@@ -244,10 +244,10 @@
           const link = item.getElementsByTagName('link')[0]?.textContent || '#';
           const rawDesc = item.getElementsByTagName('description')[0]?.textContent || '';
           const pubDate = item.getElementsByTagName('pubDate')[0]?.textContent || '';
-          const author = item.getElementsByTagName('author')[0]?.textContent || 'Staff Writer';
+          const author = item.getElementsByTagName('author')[0]?.textContent || '';
           const sourceName = item.getElementsByTagName('source_name')[0]?.textContent || 'News';
-          const sourceIcon = item.getElementsByTagName('source_icon')[0]?.textContent || ;
-          const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || ;
+          const sourceIcon = item.getElementsByTagName('source_icon')[0]?.textContent || '';
+          const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || '';
           const guidNode = item.getElementsByTagName('guid')[0];
           const guid = guidNode ? guidNode.textContent.replace(/[^a-zA-Z0-9]/g, idx) : idx;
           
