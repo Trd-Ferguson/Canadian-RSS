@@ -25,21 +25,17 @@
       box-shadow: 0 4px 6px rgba(0,0,0,0.3);
     }
 
-    /* Background image layer with blur and left-to-right fade */
     .header::before {
       content: "";
       position: absolute;
-      inset: -10px; /* Slightly oversized to hide blurred edge artifacts */
+      inset: -10px;
       background-image: url('https://images.pexels.com/photos/36328292/pexels-photo-36328292.jpeg');
-      background-size: 100% auto; /* 100% width of the header box */
+      background-size: 100% auto;
       background-position: center 50%;
       background-repeat: no-repeat;
-      filter: blur(4px); /* Slight blur */
-      
-      /* Fade from 0% opacity on the left to 70% opacity on the right */
+      filter: blur(4px);
       -webkit-mask-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
       mask-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
-      
       z-index: 0;
       pointer-events: none;
     }
@@ -54,7 +50,7 @@
     }
     .header h1 .fade {
       opacity: 0.4;
-      font-weight: 400; 
+      font-weight: 400;
     }
     .header p {
       margin: 5px 10px;
@@ -64,7 +60,6 @@
       z-index: 1;
     }
 
-    /* Desktop Format: Flex-Grid (At least 3 card columns) */
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
@@ -73,7 +68,6 @@
       margin: 0 auto;
     }
 
-    /* Card Hero layout */
     .card {
       background: #1e1e1e;
       border-radius: 12px;
@@ -197,12 +191,9 @@
   <div class="grid" id="news-grid"></div>
 
   <script>
-
-    // Toggle description length statefully per card instance
     window.toggleCard = function(button, guid) {
       const fullText = decodeURIComponent(button.getAttribute('data-text'));
       const p = document.getElementById(`desc-${guid}`);
-      const chevron = button.querySelector('.chevron');
       const isExpanded = button.getAttribute('data-expanded') === 'true';
 
       if (isExpanded) {
@@ -216,24 +207,23 @@
       }
     };
 
-    // Grab internal timeline feed with safe fallback path handling
-    Promise.all([
-      fetch('feed.xml').then(res => {
-        if (!res.ok) throw new Error(`Feed request failed: ${res.status}`);
+    fetch('feed.xml')
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP network anomaly: ${res.status}`);
         return res.text();
-      }),
-      fetch('../feeds/feeds.json').then(res => {
-        if (!res.ok) throw new Error(`Feed config request failed: ${res.status}`);
-        return res.json();
       })
-    ])
-      .then(([str, feeds]) => {
-        const data = new window.DOMParser().parseFromString(str, 'text/xml');
-      })
-      .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-      .then(data => {
+      .then(xmlText =>
+        fetch('../feeds/feeds.json')
+          .then(res => {
+            if (!res.ok) throw new Error(`Feed config request failed: ${res.status}`);
+            return res.json().then(feeds => ({ xmlText, feeds }));
+          })
+      )
+      .then(({ xmlText, feeds }) => {
+        const data = new window.DOMParser().parseFromString(xmlText, "text/xml");
+
         document.getElementById('loading').style.display = 'none';
-        
+
         const buildDateNode = data.getElementsByTagName('lastBuildDate')[0];
         const buildDate = buildDateNode ? buildDateNode.textContent : 'Recent';
         document.getElementById('sync-time').textContent = `Last Build Sync: ${buildDate}`;
@@ -254,40 +244,46 @@
           const pubDate = item.getElementsByTagName('pubDate')[0]?.textContent || '';
           const author = item.getElementsByTagName('author')[0]?.textContent || '';
           const sourceName = item.getElementsByTagName('source_name')[0]?.textContent || 'News';
-          const sourceIcon = item.getElementsByTagName('source_icon')[0]?.textContent || '';
-          const guidNode = item.getElementsByTagName('guid')[0];
-          const guid = guidNode ? guidNode.textContent.replace(/[^a-zA-Z0-9]/g, idx) : idx;
+          const sourceIcon = item.getElementsByTagName('source_icon')[0]?.textContent || 'assets/RSS-maple-favicon.svg';
           const sourceId = item.getElementsByTagName('source_id')[0]?.textContent || '';
           const feedConfig = feeds.find(feed => feed.id === sourceId);
-          const fallbackImg = feedConfig?.fallback_image_url || '';
+          const fallbackImg = feedConfig?.fallback_image_url || 'assets/RSS-maple-favicon.svg';
           const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || fallbackImg;
-          
+          const guidNode = item.getElementsByTagName('guid')[0];
+          const guid = guidNode ? guidNode.textContent.replace(/[^a-zA-Z0-9]/g, idx) : idx;
 
           const isLong = rawDesc.length > 140;
           const displayDesc = isLong ? rawDesc.substring(0, 140) + '...' : rawDesc;
 
           const card = document.createElement('div');
           card.className = 'card';
-          
-          // Fixed double-quote nested evaluation to prevent HTML token breaking
+
           card.innerHTML = `
             <div class="img-container">
-              <img src="${storyImg}" data-fallback="${fallbackImg}" alt="Media"
-              referrerpolicy="no-referrer"
-              onerror="this.onerror=null; if (this.dataset.fallback) this.src=this.dataset.fallback;">
+              <img
+                src="${storyImg}"
+                alt="Media"
+                referrerpolicy="no-referrer"
+                data-fallback="${fallbackImg}"
+                onerror="this.onerror=null; if (this.dataset.fallback) this.src=this.dataset.fallback;"
+              >
             </div>
             <div class="meta-bar">
-              <img src="${sourceIcon}" class="source-icon" onerror="this.onerror=null; this.src='${FALLBACK_IMG}';">
+              <img
+                src="${sourceIcon}"
+                class="source-icon"
+                onerror="this.onerror=null; this.src='assets/RSS-maple-favicon.svg';"
+              >
               <span>${sourceName}</span>
             </div>
             <div class="card-body">
               <p>${author}</p>
               <h2><a href="${link}" target="_blank">${title}</a></h2>
               <p id="desc-${guid}">${displayDesc}</p>
-              
+
               ${isLong ? `
                 <button class="expand-btn" data-expanded="false" data-text="${encodeURIComponent(rawDesc)}" onclick="toggleCard(this, '${guid}')">
-                  Read more 
+                  Read more
                   <svg class="chevron" viewBox="0 0 24 24">
                     <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
                   </svg>
@@ -300,6 +296,7 @@
               </div>
             </div>
           `;
+
           grid.appendChild(card);
         });
       })
