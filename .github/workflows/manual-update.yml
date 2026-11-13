@@ -1,5 +1,6 @@
 name: Feed Rebuild & Deploy
 
+# Triggers ONLY on "Run workflow" in the Actions tab
 on:
   workflow_dispatch:
 
@@ -8,8 +9,9 @@ permissions:
   pages: write
   id-token: write
 
+# Ensures rebuild runs and cron runs never conflict
 concurrency:
-  group: pages
+  group: "pages"
   cancel-in-progress: false
 
 jobs:
@@ -20,52 +22,36 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Code
         uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
-          cache: "pip"
+          python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install Parsed Feed Libraries
         run: |
-          python -m pip install --upgrade pip
-          python -m pip install feedparser lxml requests
+          pip install feedparser lxml requests
 
-      - name: Rebuild feed data
+      - name: Run Aggregator Script
         run: |
-          set -euo pipefail
           mkdir -p "Aggregated Feed"
           python aggregate.py
 
-      - name: Commit and push updated feed data
-        shell: bash
+      - name: Commit and Push Updated Feed Data
         run: |
-          set -euo pipefail
-
-          git config user.name "Aggregator Bot"
-          git config user.email "bot@gnu.org"
-
-          git add -- \
-            "Aggregated Feed/feed.xml" \
-            "Aggregated Feed/feed_status_log.json" \
-            "feeds/feeds.json"
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Manual Sync: Rebuild feed.xml ($(date -u --iso-8601=seconds))"
+          git config --global user.name "Aggregator Bot"
+          git config --global user.email "bot@gnu.org"
+          git add "Aggregated Feed/feed.xml" "Aggregated Feed/feed_status_log.json" "feeds/feeds.json" || true
+          if git commit -m "Manual Sync: Rebuild feed.xml [$(date -u)]"; then
             git push
           fi
 
-      - name: Upload Pages artifact
+      - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: "Aggregated Feed"
+          path: 'Aggregated Feed'
 
       - name: Deploy to GitHub Pages
         id: deployment
