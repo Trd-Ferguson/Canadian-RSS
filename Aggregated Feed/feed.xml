@@ -5,8 +5,537 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:51:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:57:34 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Vancouver School Board Attempts to Improve Transparency</title>
+      <link>https://thetyee.ca/News/2026/11/13/New-Vancouver-School-Board-Attempts-Improve-Transparency/</link>
+      <guid isPermaLink="false">https://thetyee.ca/News/2026/11/13/New-Vancouver-School-Board-Attempts-Improve-Transparency/</guid>
+      <pubDate>Fri, 13 Nov 2026 23:35:00 GMT</pubDate>
+      <author>Katie Hyslop</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/News/2026/11/12/SteveCardwell.jpg</story_image>
+      <description>Trustee Steve Cardwell pushes back against rules restricting public participation and how agendas are set.</description>
+    </item>
+    <item>
+      <title>The Tyee Podcast: The Rise, Fall and Return of DULF</title>
+      <link>https://thetyee.ca/Tyeenews/2026/11/13/Rise-Fall-Return-Drug-User-Liberation-Front/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Tyeenews/2026/11/13/Rise-Fall-Return-Drug-User-Liberation-Front/</guid>
+      <pubDate>Fri, 13 Nov 2026 22:43:00 GMT</pubDate>
+      <author>Isaac Phan Nay</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Tyeenews/2026/11/12/TyeePodcastDULF.jpg</story_image>
+      <description>Health reporter Michelle Gamage on how one local group tried to fight the toxic drug crisis on its own terms.</description>
+    </item>
+    <item>
+      <title>Mexico raises $5.4M for social services by selling off Ryan Wedding's motorbike collection</title>
+      <link>https://www.cbc.ca/news/world/mexico-ryan-wedding-motorbike-collection-auction-9.7420729?cmp=rss</link>
+      <guid isPermaLink="false">9.7420729</guid>
+      <pubDate>Fri, 13 Nov 2026 17:43:39 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/27c60ea3-b56f-4b65-a169-91ac581ab285,1793647871512/full/max/0/default.jpg?im=Crop%2Crect%3D%287%2C0%2C1905%2C1071%29%3B</story_image>
+      <description>Mexico has raised roughly $5.4 million by auctioning off a rare collection of motorcycles seized from alleged Canadian drug lord Ryan Wedding, with the funds earmarked for social services.</description>
+    </item>
+    <item>
+      <title>Canada invests to diversify trade, create jobs and lower global emissions by expanding low-carbon LNG exports</title>
+      <link>https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-diversify-trade-create-jobs-and-lower-global-emissions-by-expanding-low-carbon-lng-exports.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-diversify-trade-create-jobs-and-lower-global-emissions-by-expanding-low-carbon-lng-exports.html</guid>
+      <pubDate>Fri, 13 Nov 2026 17:30:22 GMT</pubDate>
+      <author>Natural Resources Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Building on the objectives of Budget 2026, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced a $200-million investment in Woodfibre LNG.</description>
+    </item>
+    <item>
+      <title>Minister Gull-Masty and Parliamentary Secretary Grant highlight Government of Canada’s investments for Indigenous communities from Budget 2026: Masters of our destiny</title>
+      <link>https://www.canada.ca/en/indigenous-services-canada/news/2026/11/minister-gull-masty-and-parliamentary-secretary-grant-highlight-government-of-canadas-investments-for-indigenous-communities-from-budget-2026-maste.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/indigenous-services-canada/news/2026/11/minister-gull-masty-and-parliamentary-secretary-grant-highlight-government-of-canadas-investments-for-indigenous-communities-from-budget-2026-maste.html</guid>
+      <pubDate>Fri, 13 Nov 2026 17:22:17 GMT</pubDate>
+      <author>Indigenous Services Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Advancing reconciliation requires supporting strong Indigenous communities and ensuring that Indigenous Peoples have the tools, resources, and services needed to determine their futures on their own terms.</description>
+    </item>
+    <item>
+      <title>Kindergarten Cop child actor Christian Cousins dead at 43</title>
+      <link>https://www.cbc.ca/news/entertainment/kindergarten-cop-christian-cousins-child-actor-dead-9.7420620?cmp=rss</link>
+      <guid isPermaLink="false">9.7420620</guid>
+      <pubDate>Fri, 13 Nov 2026 17:21:49 GMT</pubDate>
+      <author>Christine Pagulayan</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/2f6531f8-f839-4b2a-af80-cc9921bea351,1794582994812/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C1339%2C753%29%3B</story_image>
+      <description>Former child actor Christian Cousins, who shared the role of Dominic Palmieri in Kindergarten Cop with his twin brother, Joey, has died at 43. His half-brother, Jonas Roeser, announced the news on Instagram, writing Cousins had been seriously ill with liver disease.</description>
+    </item>
+    <item>
+      <title>SpaceX to attempt to catch its first Starship on land in 15th flight</title>
+      <link>https://www.cbc.ca/news/science/spacex-starship-flight-15-9.7420700?cmp=rss</link>
+      <guid isPermaLink="false">9.7420700</guid>
+      <pubDate>Fri, 13 Nov 2026 17:07:34 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/6f3a9dd9-23fc-4c23-884b-d8151808063c,1794587397235/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C113%2C4357%2C2450%29%3B</story_image>
+      <description>SpaceX's latest Starship flight planned for Friday will include its first attempt to catch the spacecraft at its Texas launch site, rather than discarding it in ‌the ocean — a key test of Elon Musk's bid to make a fully reusable rocket system.</description>
+    </item>
+    <item>
+      <title>Secretary of State Stephanie McLean highlights the Productivity Mega Deduction in Budget 2026</title>
+      <link>https://www.canada.ca/en/employment-social-development/news/2026/11/secretary-of-state-stephanie-mclean-highlights-the-productivity-mega-deduction-in-budget-2026.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/employment-social-development/news/2026/11/secretary-of-state-stephanie-mclean-highlights-the-productivity-mega-deduction-in-budget-2026.html</guid>
+      <pubDate>Fri, 13 Nov 2026 17:04:58 GMT</pubDate>
+      <author>Employment and Social Development Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>In a world reshaped by geopolitical competition, protectionism, and rapidly evolving technologies, Canada stands apart. Our abundant natural resources, clean and reliable energy, world-class talent, strong public finances, and access to global markets give us a clear competitive advantage. These fou...</description>
+    </item>
+    <item>
+      <title>Canadian Coast Guard’s station in Gimli, Manitoba closing for the season</title>
+      <link>https://www.canada.ca/en/canadian-coast-guard/news/2026/11/canadian-coast-guards-station-in-gimli-manitoba-closing-for-the-season.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/canadian-coast-guard/news/2026/11/canadian-coast-guards-station-in-gimli-manitoba-closing-for-the-season.html</guid>
+      <pubDate>Fri, 13 Nov 2026 17:00:08 GMT</pubDate>
+      <author>Canadian Coast Guard</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Canadian Coast Guard’s seasonal station on Lake Winnipeg in Gimli, Manitoba is closing on November 17, 2026.</description>
+    </item>
+    <item>
+      <title>Secretary of State Sarai highlights the Productivity Mega Deduction in Budget 2026</title>
+      <link>https://www.canada.ca/en/global-affairs/news/2026/11/secretary-of-state-sarai-highlights-the-productivity-mega-deduction-in-budget-2026.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/global-affairs/news/2026/11/secretary-of-state-sarai-highlights-the-productivity-mega-deduction-in-budget-2026.html</guid>
+      <pubDate>Fri, 13 Nov 2026 17:00:00 GMT</pubDate>
+      <author>Global Affairs Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>In a world reshaped by geopolitical competition, protectionism and rapidly evolving technologies, Canada stands apart. Our [NER[|E1.1]abundant natural resources, clean and reliable energy, world-class talent, strong public finances and access to global markets give us a clear competitive advantage. ...</description>
+    </item>
+    <item>
+      <title>First Nations Leadership Council sends open letter to the prime minister, Indigenous Services over delay in passing Bill S-2</title>
+      <link>https://www.aptnnews.ca/national-news/first-nations-leadership-council-sends-open-letter-to-the-prime-minister-indigenous-services-over-delay-in-passing-bill-s-2/</link>
+      <guid isPermaLink="false">https://www.aptnnews.ca/?p=297847</guid>
+      <pubDate>Fri, 13 Nov 2026 16:51:47 GMT</pubDate>
+      <author>Leanne Sanders</author>
+      <source_id>aptn_news</source_id>
+      <source_name>APTN News</source_name>
+      <source_icon>https://www.aptnnews.ca/wp-content/uploads/2019/11/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.aptnnews.ca/wp-content/themes/aptnnews/images/1200x600-news-metadata.png</story_image>
+      <description>In an open letter to Prime Minister Mark Carney and Indigenous Services Minister Mandy Gull...
+The post First Nations Leadership Council sends open letter to the prime minister, Indigenous Services over delay in passing Bill S-2 appeared first on APTN News.</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary McKelvie to highlight federal budget investments in community recreational facilities and ice rinks</title>
+      <link>https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/parliamentary-secretary-mckelvie-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/parliamentary-secretary-mckelvie-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html</guid>
+      <pubDate>Fri, 13 Nov 2026 16:30:31 GMT</pubDate>
+      <author>Housing, Infrastructure and Communities Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Jennifer McKelvie, Parliamentary Secretary to the Minister of Housing and Infrastructure, will host an event in Barrie to highlight federal budget investments to build a stronger, more independent and resilient economy and make life more affordable for Canadians.</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Turnbull in Oshawa to highlight Budget 2026 investments in community recreational facilities and ice rinks</title>
+      <link>https://www.canada.ca/en/department-finance/news/2026/11/parliamentary-secretary-turnbull-in-oshawa-to-highlight-budget-2026-investments-in-community-recreational-facilities-and-ice-rinks.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/department-finance/news/2026/11/parliamentary-secretary-turnbull-in-oshawa-to-highlight-budget-2026-investments-in-community-recreational-facilities-and-ice-rinks.html</guid>
+      <pubDate>Fri, 13 Nov 2026 16:28:27 GMT</pubDate>
+      <author>Department of Finance Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>On November 14th, Ryan Turnbull, Parliamentary Secretary to the Minister of Finance and National Revenue, will visit a local recreational facility to highlight Budget 2026 investments to build a stronger, more independent and resilient economy and make life more affordable for Canadians.</description>
+    </item>
+    <item>
+      <title>CFL commissioner says Quebec City has emerged as leading contender for expansion</title>
+      <link>https://www.cbc.ca/sports/football/cfl/cfl-commissioner-says-quebec-city-has-emerged-as-leading-contender-for-expansion-9.7420702?cmp=rss</link>
+      <guid isPermaLink="false">9.7420702</guid>
+      <pubDate>Fri, 13 Nov 2026 16:22:08 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/c3cc36d6-7ab7-45be-b1bb-eeb71dff5f20,1794586602773/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C59%2C5703%2C3207%29%3B</story_image>
+      <description>CFL commissioner Stewart Johnston says Quebec City has emerged as a leading candidate for an expansion franchise. Johnston made the comments Friday at his second state of the league address, saying the CFL has had substantive conversations with a prospective owner in the Quebec capital.</description>
+    </item>
+    <item>
+      <title>Richard Neil found guilty in 1990s 'woodland rapist' cold case</title>
+      <link>https://www.cbc.ca/news/canada/toronto/richard-neil-woodland-verdict-9.7409563?cmp=rss</link>
+      <guid isPermaLink="false">9.7409563</guid>
+      <pubDate>Fri, 13 Nov 2026 16:11:43 GMT</pubDate>
+      <author>Thomas Daigle</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/982278fb-98c3-4acf-832f-829535987c3c,1794238230329/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>A three-decade search for a predator dubbed southern Ontario's "woodland rapist" has ended with a Toronto man convicted of kidnapping and sexual assault.</description>
+    </item>
+    <item>
+      <title>Canada finishes 14-day Youth Olympics with 5 medals in Senegal</title>
+      <link>https://www.cbc.ca/sports/youth-olympics-wrap-canada-five-medals-senegal-9.7420672?cmp=rss</link>
+      <guid isPermaLink="false">9.7420672</guid>
+      <pubDate>Fri, 13 Nov 2026 16:07:41 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/138c5b64-ebda-4327-aa22-1d80a60e650d,1794588510045/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B</story_image>
+      <description>Canada finished with five medals in four sports as the Summer Youth Olympics concluded Friday in Dakar, Senegal.</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Rochefort highlights Government of Canada investments from Budget 2026: Masters of our destiny</title>
+      <link>https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-rochefort-highlights-government-of-canada-investments-from-budget-2026-masters-of-our-destiny.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-rochefort-highlights-government-of-canada-investments-from-budget-2026-masters-of-our-destiny.html</guid>
+      <pubDate>Fri, 13 Nov 2026 16:01:01 GMT</pubDate>
+      <author>Innovation, Science and Economic Development Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>In a world reshaped by geopolitical competition, protectionism and rapidly evolving technologies, Canada stands apart.</description>
+    </item>
+    <item>
+      <title>Canada provides additional $116 million in international climate finance projects</title>
+      <link>https://www.canada.ca/en/environment-climate-change/news/2026/11/canada-provides-additional-116-million-in-international-climate-finance-projects0.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/environment-climate-change/news/2026/11/canada-provides-additional-116-million-in-international-climate-finance-projects0.html</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:44 GMT</pubDate>
+      <author>Environment and Climate Change Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>While at COP31, the Honourable Julie Dabrusin, Minister of the Environment, Climate Change and Nature, announced $116 million in new climate finance through Environment and Climate Change Canada</description>
+    </item>
+    <item>
+      <title>Canada provides additional $116 million in international climate finance projects</title>
+      <link>https://www.canada.ca/en/environment-climate-change/news/2026/11/canada-provides-additional-116-million-in-international-climate-finance-projects.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/environment-climate-change/news/2026/11/canada-provides-additional-116-million-in-international-climate-finance-projects.html</guid>
+      <pubDate>Fri, 13 Nov 2026 15:51:00 GMT</pubDate>
+      <author>Environment and Climate Change Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Environment and Climate Change Canada intends to support 12 projects from the international climate finance program, for a total of up to $116 million, that aim to strengthen the policy, regulatory, and institutional foundations needed to accelerate climate action on adaptation and mitigation in eme...</description>
+    </item>
+    <item>
+      <title>15 United Conservative constituency presidents won't sign agreement to publicly back Alberta referendum result</title>
+      <link>https://www.cbc.ca/news/canada/edmonton/constituency-presidents-united-conservative-party-alberta-unity-referendum-9.7420042?cmp=rss</link>
+      <guid isPermaLink="false">9.7420042</guid>
+      <pubDate>Fri, 13 Nov 2026 15:35:40 GMT</pubDate>
+      <author>Janet French</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/c07ea996-8ad1-4581-9597-4a565e83bafe,1794539572006/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C186%2C4000%2C2250%29%3B</story_image>
+      <description>Presidents of 15 United Conservative Party constituency associations say they won’t sign a revised code of conduct requiring them to publicly respect and abide by the result of a provincial referendum on national unity.</description>
+    </item>
+    <item>
+      <title>Backgrounder: Minister Olszewski highlights the positive impact Budget 2026 will have for Alberta Businesses and announces new investments to help Calgary-area businesses overcome tariff-related challenges</title>
+      <link>https://www.canada.ca/en/prairies-economic-development/news/2026/11/backgrounder-minister-olszewski-highlights-the-positive-impact-budget-2026-will-have-for-alberta-businesses-and-announces-new-investments-to-help-c.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/prairies-economic-development/news/2026/11/backgrounder-minister-olszewski-highlights-the-positive-impact-budget-2026-will-have-for-alberta-businesses-and-announces-new-investments-to-help-c.html</guid>
+      <pubDate>Fri, 13 Nov 2026 15:33:08 GMT</pubDate>
+      <author>Prairies Economic Development Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Minister Olszewski highlights the positive impact Budget 2026 will have for Alberta Businesses and announces new investments to help Calgary-area businesses overcome tariff-related challenges</description>
+    </item>
+    <item>
+      <title>Minister Olszewski highlights the positive impact Budget 2026 will have for Alberta businesses and announces new investments to help Calgary-area businesses overcome tariff-related challenges</title>
+      <link>https://www.canada.ca/en/prairies-economic-development/news/2026/11/minister-olszewski-highlights-the-positive-impact-budget-2026-will-have-for-alberta-businesses-and-announces-new-investments-to-help-calgary-area-b.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/prairies-economic-development/news/2026/11/minister-olszewski-highlights-the-positive-impact-budget-2026-will-have-for-alberta-businesses-and-announces-new-investments-to-help-calgary-area-b.html</guid>
+      <pubDate>Fri, 13 Nov 2026 15:33:03 GMT</pubDate>
+      <author>Prairies Economic Development Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Minister Olszewski highlights the positive impact Budget 2026 will have for Alberta businesses and announces new investments to help Calgary-area businesses overcome tariff-related challenges</description>
+    </item>
+    <item>
+      <title>Canada invests $313 million in Honda North America to advance next-generation vehicle manufacturing in Ontario</title>
+      <link>https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/canada-invests-313-million-in-honda-north-america-to-advance-next-generation-vehicle-manufacturing-in-ontario.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/canada-invests-313-million-in-honda-north-america-to-advance-next-generation-vehicle-manufacturing-in-ontario.html</guid>
+      <pubDate>Fri, 13 Nov 2026 15:30:23 GMT</pubDate>
+      <author>Innovation, Science and Economic Development Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Government of Canada and Government of Ontario are investing with Honda in hybrid vehicle production in Alliston, Ontario</description>
+    </item>
+    <item>
+      <title>Minister Joly highlights Government of Canada investments from Budget 2026: Masters of our destiny to support industries</title>
+      <link>https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-highlights-government-of-canada-investments-from-budget-2026-masters-of-our-destiny-to-support-industries.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-highlights-government-of-canada-investments-from-budget-2026-masters-of-our-destiny-to-support-industries.html</guid>
+      <pubDate>Fri, 13 Nov 2026 15:30:13 GMT</pubDate>
+      <author>Innovation, Science and Economic Development Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>In a world reshaped by geopolitical competition, protectionism and rapidly evolving technologies, Canada stands apart.</description>
+    </item>
+    <item>
+      <title>Ebenezer review: Merry Christmas, Johnny Depp! Is this your comeback yet?</title>
+      <link>https://www.cbc.ca/news/entertainment/ebenezer-review-9.7420174?cmp=rss</link>
+      <guid isPermaLink="false">9.7420174</guid>
+      <pubDate>Fri, 13 Nov 2026 15:15:27 GMT</pubDate>
+      <author>Jackson Weaver</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/6ba3d08a-72be-4f06-87d9-72844c590ed0,1794528158425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C258%2C4200%2C2362%29%3B</story_image>
+      <description>Ebenezer, the latest remake of Charles Dickens's A Christmas Carol, isn't terrible. It's also not particularly interesting.</description>
+    </item>
+    <item>
+      <title>Secretary of State Sahota highlights Government of Canada’s investments from Budget 2026: Masters of our destiny</title>
+      <link>https://www.canada.ca/en/public-safety-canada/news/2026/11/secretary-of-state-sahota-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny1.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/11/secretary-of-state-sahota-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny1.html</guid>
+      <pubDate>Fri, 13 Nov 2026 15:08:36 GMT</pubDate>
+      <author>Public Safety Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>In a world reshaped by geopolitical competition, protectionism and rapidly evolving technologies, Canada stands apart.</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Daniel Gobeil highlights Government of Canada’s investments from Budget 2026: Masters of our destiny</title>
+      <link>https://www.canada.ca/en/agriculture-agri-food/news/2026/11/parliamentary-secretary-daniel-gobeil-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/agriculture-agri-food/news/2026/11/parliamentary-secretary-daniel-gobeil-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:57:04 GMT</pubDate>
+      <author>Agriculture and Agri-Food Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>In a world reshaped by geopolitical competition, protectionism, and rapidly evolving technologies, Canada stands apart. Our abundant natural resources, clean and reliable energy, world-class talent, strong public finances, and access to global markets give us a clear competitive advantage.</description>
+    </item>
+    <item>
+      <title>Minister Anandasangaree and Minister Hajdu highlight Government of Canada’s investments for Indigenous communities from Budget 2026: Masters of our destiny</title>
+      <link>https://www.canada.ca/en/public-safety-canada/news/2026/11/minister-anandasangaree-and-minister-hajdu-highlight-government-of-canadas-investments-for-indigenous-communities-from-budget-2026-masters-of-our-d.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/11/minister-anandasangaree-and-minister-hajdu-highlight-government-of-canadas-investments-for-indigenous-communities-from-budget-2026-masters-of-our-d.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:56:14 GMT</pubDate>
+      <author>Public Safety Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Indigenous partners have long called for stable, predictable funding they can count on. Budget 2026 responds with historic, long-term investments that will help communities plan with greater certainty, maintain essential services and build for future generations.</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Battiste to highlight Budget 2026 investments in First Nations Water and Critical Infrastructure</title>
+      <link>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2026/11/parliamentary-secretary-battiste-to-highlight-budget-2026-investments-in-first-nations-water-and-critical-infrastructure.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2026/11/parliamentary-secretary-battiste-to-highlight-budget-2026-investments-in-first-nations-water-and-critical-infrastructure.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:48:12 GMT</pubDate>
+      <author>Crown-Indigenous Relations and Northern Affairs Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Jaime Battiste, Parliamentary Secretary to the Minister of Crown-Indigenous Relations, will attend an event with Eskasoni First Nation, Nova Scotia to highlight Budget 2026 investments in First Nations Water and Critical Infrastructure .</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Hogan to speak at energy security forum conference</title>
+      <link>https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hogan-to-speak-at-energy-security-forum-conference.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hogan-to-speak-at-energy-security-forum-conference.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:47:04 GMT</pubDate>
+      <author>Natural Resources Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Corey Hogan, Parliamentary Secretary for Energy and Natural Resources, will deliver keynote remarks at the 2026 Energy Security Forum Conference, hosted by the Canadian Global Affairs Institute.</description>
+    </item>
+    <item>
+      <title>The Deputy Leader of the Government in the House of Commons and the Parliamentary Secretary to the Minister of Immigration and Refugees and Citizenship Canada will highlight federal budget investments in community recreational facilities and ice rinks</title>
+      <link>https://www.canada.ca/en/privy-council/news/2026/11/the-deputy-leader-of-the-government-in-the-house-of-commons-and-the-parliamentary-secretary-to-the-minister-of-immigration-and-refugees-and-citizen.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/privy-council/news/2026/11/the-deputy-leader-of-the-government-in-the-house-of-commons-and-the-parliamentary-secretary-to-the-minister-of-immigration-and-refugees-and-citizen.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:45:00 GMT</pubDate>
+      <author>Privy Council Office</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Honourable Arielle Kayabaga, Deputy Leader of the Government in the House of Commons, and Peter Fragiskatos, Parliamentary Secretary to the Minister of Immigration, Refugees and Citizenship, will host an event at the Canada Games Aquatic Centre in London to highlight federal budget investments t...</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary to the Leader of the Government in the House of Commons to highlight federal budget investments in community recreational facilities and ice rinks</title>
+      <link>https://www.canada.ca/en/privy-council/news/2026/11/parliamentary-secretary-to-the-leader-of-the-government-in-the-house-of-commons-to-highlight-federal-budget-investments-in-community-recreational-f.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/privy-council/news/2026/11/parliamentary-secretary-to-the-leader-of-the-government-in-the-house-of-commons-to-highlight-federal-budget-investments-in-community-recreational-f.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:45:00 GMT</pubDate>
+      <author>Privy Council Office</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Kevin Lamoureux, Parliamentary Secretary to the Leader of the Government in the House of Commons will host an event at the Tyndall Park Community Centre in Winnipeg to highlight federal budget investments to build a stronger, more independent and resilient economy and make life more affordable for C...</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary McKelvie highlights Government of Canada’s investments from Budget 2026: Masters of our destiny</title>
+      <link>https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/parliamentary-secretary-mckelvie-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/parliamentary-secretary-mckelvie-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:39:16 GMT</pubDate>
+      <author>Housing, Infrastructure and Communities Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>In a world reshaped by geopolitical competition, protectionism, and rapidly evolving technologies, Canada stands apart. Our abundant natural resources, clean and reliable energy, world-class talent, strong public finances, and access to global markets give us a clear competitive advantage.</description>
+    </item>
+    <item>
+      <title>Minister Thompson highlights how the Productivity Mega Deduction in Budget 2026 will help Newfoundland and Labrador businesses grow and create jobs</title>
+      <link>https://www.canada.ca/en/fisheries-oceans/news/2026/11/minister-thompson-highlights-how-the-productivity-mega-deduction-in-budget-2026-will-help-newfoundland-and-labrador-businesses-grow-and-create-jobs.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/fisheries-oceans/news/2026/11/minister-thompson-highlights-how-the-productivity-mega-deduction-in-budget-2026-will-help-newfoundland-and-labrador-businesses-grow-and-create-jobs.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:31:23 GMT</pubDate>
+      <author>Fisheries and Oceans Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>In a world reshaped by geopolitical competition, protectionism, and rapidly evolving technologies, Canada stands apart. Our abundant natural resources, clean and reliable energy, world-class talent, strong public finances, and access to global markets give us a clear competitive advantage. These fou...</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Bardeesy to highlight Budget 2026 federal support for industry in Oshawa</title>
+      <link>https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-highlights-government-of-canada-investments-from-budget2026-masters-of-our-destiny-to-support-industries.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-highlights-government-of-canada-investments-from-budget2026-masters-of-our-destiny-to-support-industries.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:15:12 GMT</pubDate>
+      <author>Innovation, Science and Economic Development Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>In a world reshaped by geopolitical competition, protectionism and rapidly evolving technologies, Canada stands apart.</description>
+    </item>
+    <item>
+      <title>UN nuclear watchdog increasingly concerned about Iranian enrichment plant, report says</title>
+      <link>https://www.cbc.ca/news/world/united-nations-nuclear-watchdog-iaea-iran-9.7420465?cmp=rss</link>
+      <guid isPermaLink="false">9.7420465</guid>
+      <pubDate>Fri, 13 Nov 2026 14:05:45 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/6b2f5b75-4a64-41d0-8096-7e01ff246d7e,1794577163607/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B</story_image>
+      <description>The United Nations nuclear watchdog is "increasingly concerned" about a uranium-enrichment plant at Isfahan that Iran declared to it last year but has still not let the watchdog inspect, it said in a confidential report on Friday seen by Reuters and The Associated Press.</description>
+    </item>
+    <item>
+      <title>Speech at the BDO Debt Solutions Financial Literacy Month Panel Discussion &amp; Leadership Breakfast by Director of Insights and Impact Ruth Stephen</title>
+      <link>https://www.canada.ca/en/financial-consumer-agency/news/2026/11/speech-at-the-bdo-debt-solutions-financial-literacy-month-panel-discussion--leadership-breakfast-by-director-of-insights-and-impact-ruth-stephen.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/financial-consumer-agency/news/2026/11/speech-at-the-bdo-debt-solutions-financial-literacy-month-panel-discussion--leadership-breakfast-by-director-of-insights-and-impact-ruth-stephen.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:00:20 GMT</pubDate>
+      <author>Financial Consumer Agency of Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Speech at the BDO Debt Solutions Financial Literacy Month Panel Discussion &amp; Leadership Breakfast by FCAC Director of Insights and Impact Ruth Stephen, on November 12, 2026</description>
+    </item>
+    <item>
+      <title>Microsoft 'deeply sorry' for multi-day outage affecting customers worldwide</title>
+      <link>https://www.cbc.ca/news/world/livestory/microsoft-outage-outlook-teams-copilot-9.7420354?cmp=rss</link>
+      <guid isPermaLink="false">9.7420375</guid>
+      <pubDate>Fri, 13 Nov 2026 12:44:25 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/3e5d230a-2ada-47fa-916f-01e40a4902c4,1794571990128/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C53%2C1024%2C576%29%3B</story_image>
+      <description />
+    </item>
+    <item>
+      <title>Canada and the United Kingdom reaffirm commitment to climate finance</title>
+      <link>https://www.canada.ca/en/environment-climate-change/news/2026/11/canada-and-the-united-kingdom-reaffirm-commitment-to-climate-finance.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/environment-climate-change/news/2026/11/canada-and-the-united-kingdom-reaffirm-commitment-to-climate-finance.html</guid>
+      <pubDate>Fri, 13 Nov 2026 12:35:54 GMT</pubDate>
+      <author>Environment and Climate Change Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Today, the Honourable Julie Dabrusin, Canada’s Minister of the Environment, Climate Change and Nature, and Katie White, OBE MP, the United Kingdom’s Minister of State (Minister for Climate Transition), issued the following statement at COP31 in Antalya, Türkiye.</description>
+    </item>
+    <item>
+      <title>Parents of autistic teen detained by Alberta RCMP demand release of delayed watchdog report</title>
+      <link>https://www.cbc.ca/news/canada/edmonton/alta-autism-arrest-9.7416738?cmp=rss</link>
+      <guid isPermaLink="false">9.7416738</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <author>Wallis Snowdon</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/1.6627477,1666632820000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B</story_image>
+      <description>The parents of an autistic teenager who was arrested at an Alberta playground and detained by RCMP four years ago are calling for the results of a watchdog investigation to be released.</description>
+    </item>
+    <item>
+      <title>Saturday, November 14, 2026</title>
+      <link>https://www.pm.gc.ca/en/news/media-advisories/2026/11/13/saturday-november-14-2026</link>
+      <guid isPermaLink="false">https://www.pm.gc.ca/en/news/media-advisories/2026/11/13/saturday-november-14-2026</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <author>pm@pm.gc.ca - Prime Minister of Canada</author>
+      <source_id>prime_minister_news</source_id>
+      <source_name>Prime Minister of Canada</source_name>
+      <source_icon>https://www.pm.gc.ca/themes/pm_theme/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.pm.gc.ca/splash_files/office-of-pm.png</story_image>
+      <description>Note: All times local and subject to changeManila, Philippines6:15 a.m. The Prime Minister will arrive in Manila, Philippines.Note for media:Pooled photo opportunity and host broadcaster10:00 a.m. The Prime Minister will meet with the President of the Philippines, Ferdinand Marcos Jr.Note for media:...</description>
+    </item>
+    <item>
+      <title>Guns, swords and pepper spray: Bishnoi-linked extortionists attacked in apparent retaliation</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/bishnoi-extortion-baweja-atip-9.7415879?cmp=rss</link>
+      <guid isPermaLink="false">9.7415879</guid>
+      <pubDate>Fri, 13 Nov 2026 11:00:00 GMT</pubDate>
+      <author>Jason Proctor</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/95fe5df3-ead5-4931-a1b0-f2197804bfb3,1794268709377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C131%2C328%2C184%29%3B</story_image>
+      <description>Documents obtained by CBC News reveal the existence of a previously unreported Bishnoi cell known as the Baweja group. Members have been tied to multiple shootings and extortion threats in Alberta and B.C.</description>
+    </item>
+    <item>
+      <title>We tested 6 popular apps to see what data they collect and share. Here’s what we found</title>
+      <link>https://www.cbc.ca/news/canada/app-data-privacy-9.7417814?cmp=rss</link>
+      <guid isPermaLink="false">9.7420318</guid>
+      <pubDate>Fri, 13 Nov 2026 10:35:33 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/ebfa9ee4-0018-4316-93cc-3632925f1a45,1794339272237/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1100%2C618%29%3B</story_image>
+      <description />
+    </item>
+    <item>
+      <title>Winnipeg woman spends weeks in hospital after surgery to treat chronic illness goes wrong</title>
+      <link>https://www.cbc.ca/news/canada/manitoba/winnipeg-lipedema-complications-hsc-9.7419370?cmp=rss</link>
+      <guid isPermaLink="false">9.7419370</guid>
+      <pubDate>Fri, 13 Nov 2026 10:00:00 GMT</pubDate>
+      <author>Lauren Scott</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/bb7124d5-4c55-445c-a309-315c7babbd2d,1794526531040/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C6250%2C3515%29%3B</story_image>
+      <description>A Winnipeg nurse says she's spent more than three weeks at Health Sciences Centre after a surgery to treat her chronic illness left her with gaping wounds, necrotic tissue and an infection. Emma Cloney had a skin-excision surgery to help treat lipedema on Oct. 20.</description>
+    </item>
     <item>
       <title>They called her 'Mommy': Vulnerable senior dies after 2 strangers take over her life</title>
       <link>https://www.cbc.ca/news/canada/vulnerable-senior-death-9.7416801?cmp=rss</link>
@@ -54,6 +583,42 @@
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/b5efdfb8-37e1-47e4-a6b2-76761b4c1c4e,1779928792413/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C1909%2C1073%29%3B</story_image>
       <description>A 45-year-old former Uber Eats delivery driver has pleaded guilty to harassing a 12-year-old girl with "secret admirer" messages and candy, as well as prowling her home at night, after he met her while dropping off an order she had placed.</description>
+    </item>
+    <item>
+      <title>An AI agent pitched a story to CBC Quebec. We replied to see what would happen</title>
+      <link>https://www.cbc.ca/news/canada/montreal/ai-autonomous-agent-independent-journalism-pitching-story-cbc-quebec-9.7419591?cmp=rss</link>
+      <guid isPermaLink="false">9.7419591</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Boshko Maric</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/b439dba9-3254-47d2-a4f8-7e0dc8e34e3a,1794512681123/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>An autonomous AI agent calling itself Nameless pitched a story to CBC Quebec, openly admitting it wasn't human. What followed was a bizarre back-and-forth — and a warning from experts about what’s coming for journalism.</description>
+    </item>
+    <item>
+      <title>Your genes could change your prescription. So why aren't doctors testing?</title>
+      <link>https://www.cbc.ca/news/health/genetic-testing-drug-prescriptions-9.7418608?cmp=rss</link>
+      <guid isPermaLink="false">9.7418608</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Eric Michael Johnson</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/0cfe6552-7f91-4684-ab12-c516c02e0ed5,1794442871808/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4762%2C2678%29%3B</story_image>
+      <description>One in four people has been prescribed a drug for which their genetics could affect treatment, according to a recent study. Genetic testing could help doctors choose safer, more effective drugs, but cost and other barriers currently limit its routine use in Canada, researchers say.</description>
+    </item>
+    <item>
+      <title>Why experts fear Canada's not-for-profits are prime targets for hackers</title>
+      <link>https://www.cbc.ca/news/investigates/hacks-non-profit-canada-crime-stoppers-9.7419936?cmp=rss</link>
+      <guid isPermaLink="false">9.7419936</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Valérie Ouellet</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/9e616fc5-860a-4704-b1db-1f65d422f5ec,1794523877949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C549%2C2995%2C1684%29%3B</story_image>
+      <description>Cybersecurity experts interviewed by CBC News say the Crime Stoppers data breach, which exposed information linked to more than 1.5 million tips sent to Canadian chapters of the non-for-profit organization over 25 years, was not an outlier but rather one example of a worldwide threat.</description>
     </item>
     <item>
       <title>Maryland's Van Hollen to challenge Schumer for U.S. Senate leadership post</title>
@@ -286,7 +851,7 @@ The post Indigenous youth, Elders join national protests against Bill C-39 at Pr
       <description>Russian hockey federation president Vladislav Tretiak is threatening to seek compensation from Canada and push for the relocation or cancellation of next month's world junior championship in Alberta if Russia is barred from competing.</description>
     </item>
     <item>
-      <title>Minister Champagne in Toronto to highlight Budget 2026</title>
+      <title>Update - Minister Champagne in Toronto to highlight Budget 2026</title>
       <link>https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-in-toronto-to-highlight-budget-2026.html</link>
       <guid isPermaLink="false">https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-in-toronto-to-highlight-budget-2026.html</guid>
       <pubDate>Thu, 12 Nov 2026 20:59:57 GMT</pubDate>
@@ -295,7 +860,7 @@ The post Indigenous youth, Elders join national protests against Bill C-39 at Pr
       <source_name>National News | Government of Canada</source_name>
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
-      <description>On November 13th, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will be in Toronto to highlight Budget 2026, the government’s ambitious plan to build a stronger, more affordable, and more independent economy that turns global uncertainty into national opportun...</description>
+      <description>EDITED [title] On November 13th, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will be in Toronto to highlight Budget 2026, the government’s ambitious plan to build a stronger, more affordable, and more independent economy that turns global uncertainty into national opportun...</description>
     </item>
     <item>
       <title>Minister Alty highlights Government of Canada’s investments from Budget 2026: Masters of our destiny to support Canadian culture, strengthen creative industries, and improve access to arts and heritage across the country</title>
@@ -320,6 +885,18 @@ The post Indigenous youth, Elders join national protests against Bill C-39 at Pr
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
       <description>Today, the Parliamentary Secretary to the Minister of Indigenous Services and Member of Parliament for St, Boniface-St. Vital Ginette Lavack was at Chez Angela Bakery and Café in Brandon to highlight key investments from Budget 2026: Masters of our destiny to support businesses, make life more affor...</description>
+    </item>
+    <item>
+      <title>Minister Joël Lightbound to highlight Budget 2026 infrastructure investments in Kingston</title>
+      <link>https://www.canada.ca/en/public-services-procurement/news/2026/11/minister-joel-lightbound-to-highlight-federal-budget-investments-in-kingston.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-services-procurement/news/2026/11/minister-joel-lightbound-to-highlight-federal-budget-investments-in-kingston.html</guid>
+      <pubDate>Thu, 12 Nov 2026 20:22:17 GMT</pubDate>
+      <author>Public Services and Procurement Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Minister Joël Lightbound to highlight Budget 2026 infrastructure investments in Kingston</description>
     </item>
     <item>
       <title>Secretary of State McLean to highlight the Productivity Mega Deduction and Budget 2026 measures</title>
@@ -2903,7 +3480,7 @@ The post Chiefs question motive behind Indian Act talks after meeting with Carne
       <description>Winnipeg, Manitoba – On November 10, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will participate in an armchair discussion at an event hosted by The Winnipeg Chamber of Commerce.</description>
     </item>
     <item>
-      <title>What the Jensen Huang scandal means for Trump and his administration</title>
+      <title>What the Jensen Huang Nvidia scandal means for Trump and his administration</title>
       <link>https://www.cbc.ca/news/world/nvidia-chips-china-ban-9.7416670?cmp=rss</link>
       <guid isPermaLink="false">9.7414711</guid>
       <pubDate>Mon, 09 Nov 2026 13:48:50 GMT</pubDate>
