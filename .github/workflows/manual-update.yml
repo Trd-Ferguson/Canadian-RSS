@@ -65,7 +65,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: 'Aggregated Feed`
+          path: "Aggregated Feed"
 
       - name: Deploy to GitHub Pages
         id: deployment
