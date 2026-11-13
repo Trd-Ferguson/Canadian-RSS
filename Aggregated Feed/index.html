@@ -83,16 +83,40 @@
       transform: translateY(-4px);
       border-color: #8f0101;
     }
-    .img-container {
-      width: 100%;
-      height: 220px;
-      background: #252525;
-      position: relative;
-    }
+   .img-container {
+     width: 100%;
+     height: 220px;
+     background: #252525;
+     position: relative;
+     overflow: hidden;
+   }
     .img-container img {
       width: 100%;
       height: 100%;
-      object-fit: cover;
+     object-fit: cover;
+    }
+    .img-container--dept img {
+      filter: blur(1px);
+      transform: scale(1.03);
+    }
+    .img-container--dept::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to right, rgba(0, 0, 0, 0.3) 20%, rgba(0, 0, 0, 0.7) 100%);
+      pointer-events: none;
+    }
+    .dept-overlay {
+      position: absolute;
+      inset: 0;
+      z-index: 1;
+      display: flex;
+      align-items: center;
+      padding: 20px;
+      color: #fff;
+      font-size: 20px;
+      font-weight: 700;
+      text-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
     }
 
     .meta-bar {
@@ -252,21 +276,33 @@
           const guidNode = item.getElementsByTagName('guid')[0];
           const guid = guidNode ? guidNode.textContent.replace(/[^a-zA-Z0-9]/g, idx) : idx;
 
+
+          const feedConfig = feeds.find(feed => feed.id === sourceId);
+          const fallbackImg = feedConfig?.fallback_image_url || 'assets/RSS-maple-favicon.svg';
+          const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || fallbackImg;
+          const cardStyle = feedConfig?.card_pres_set === 'dept' ? ' img-container--dept' : '';
+          const guidNode = item.getElementsByTagName('guid')[0];
           const isLong = rawDesc.length > 140;
           const displayDesc = isLong ? rawDesc.substring(0, 140) + '...' : rawDesc;
+
+          const deptOverlay = card.querySelector('.dept-overlay');
+          if (deptOverlay) {
+            deptOverlay.textContent = author;
+          }
 
           const card = document.createElement('div');
           card.className = 'card';
 
           card.innerHTML = `
-            <div class="img-container">
+            <div class="img-container${cardStyle}">
               <img
-                src="${storyImg}"
-                alt="Media"
-                referrerpolicy="no-referrer"
-                data-fallback="${fallbackImg}"
-                onerror="this.onerror=null; if (this.dataset.fallback) this.src=this.dataset.fallback;"
+              src="${storyImg}"
+              alt="Media"
+              referrerpolicy="no-referrer"
+              data-fallback="${fallbackImg}"
+              onerror="this.onerror=null; if (this.dataset.fallback) this.src=this.dataset.fallback;"
               >
+              ${cardStyle ? '<span class="dept-overlay"></span>' : ''}
             </div>
             <div class="meta-bar">
               <img
