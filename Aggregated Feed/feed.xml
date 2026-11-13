@@ -5,7 +5,7 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian timeline feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 04:52:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:04:42 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maryland's Van Hollen to challenge Schumer for U.S. Senate leadership post</title>
@@ -54,6 +54,18 @@
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
       <description>The Honourable Maninder Sidhu, Minister of International Trade, met with Piyush Goyal, Minister of Commerce and Industry of India in New Delhi, India yesterday. The ministers have met more than a dozen times since May 2025.</description>
+    </item>
+    <item>
+      <title>Pilot killed in Quebec Remembrance Day crash had lifelong passion for flying, friends say</title>
+      <link>https://www.cbc.ca/news/canada/montreal/remembrance-day-plane-crash-beauce-9.7419917?cmp=rss</link>
+      <guid isPermaLink="false">9.7419917</guid>
+      <pubDate>Fri, 13 Nov 2026 00:09:19 GMT</pubDate>
+      <author>Patricia Kozicka</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/08db83f3-2193-4e48-9982-dbe013637455,1794523646846/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1575%2C885%29%3B</story_image>
+      <description>Friends of Daniel Parent — the man killed in a plane crash during a Remembrance Day event in Saint-Georges-de-Beauce, Que., — are remembering him for being an excellent and experienced pilot.</description>
     </item>
     <item>
       <title>Christina Applegate asks if breast implants are behind symptoms after MS misdiagnosis</title>
