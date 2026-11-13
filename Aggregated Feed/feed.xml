@@ -5,7 +5,7 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:58:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:46:29 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canada Gazette - Part I, November 14, 2026, volume 160, number 46</title>
@@ -20,6 +20,42 @@
       <description>The Canada Gazette, Part I, consists of a weekly issue, published every Saturday; a quarterly index, published every three months; and extra editions, published only when required under special circumstances or by legal requirements on any other day than Saturday....</description>
     </item>
     <item>
+      <title>From Two Sad Stories, a Glint of Hope</title>
+      <link>https://thetyee.ca/Culture/2026/11/13/From-Two-Sad-Stories-Glint-Hope/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Culture/2026/11/13/From-Two-Sad-Stories-Glint-Hope/</guid>
+      <pubDate>Sat, 14 Nov 2026 01:40:00 GMT</pubDate>
+      <author>Lauren Watson</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Culture/2026/11/10/WhaleSkeletonBeach.jpg</story_image>
+      <description>A grey whale washed up dead on sayayɩn, Texada Island. Now, it’s bound for a place of honour in a rebuilt interpretive centre.</description>
+    </item>
+    <item>
+      <title>‘Where the Blood Mixes’ Confronts a Painful Past</title>
+      <link>https://thetyee.ca/Presents/2026/11/13/Where-The-Blood-Mixes/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Presents/2026/11/13/Where-The-Blood-Mixes/</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <author>Firehall Arts Centre</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Presents/2026/11/09/FirehallWTBMArt.jpg</story_image>
+      <description>Set in Lytton, BC, Kevin Loring’s award-winning play explores the complex relationship between personal loss and collective history.</description>
+    </item>
+    <item>
+      <title>Turn to Art to Heal the Soul</title>
+      <link>https://thetyee.ca/Culture/2026/11/13/Local-Exhibitions-Heal-Soul-Reminder-Other-Worlds/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Culture/2026/11/13/Local-Exhibitions-Heal-Soul-Reminder-Other-Worlds/</guid>
+      <pubDate>Sat, 14 Nov 2026 01:10:00 GMT</pubDate>
+      <author>Dorothy Woodend</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Culture/2026/11/10/ElizabethMacKenzieCleaveResist.jpg</story_image>
+      <description>Local exhibitions remind us there are other worlds than this.</description>
+    </item>
+    <item>
       <title>New Vancouver School Board Attempts to Improve Transparency</title>
       <link>https://thetyee.ca/News/2026/11/13/New-Vancouver-School-Board-Attempts-Improve-Transparency/</link>
       <guid isPermaLink="false">https://thetyee.ca/News/2026/11/13/New-Vancouver-School-Board-Attempts-Improve-Transparency/</guid>
@@ -30,6 +66,43 @@
       <source_icon>https://thetyee.ca/favicon.ico</source_icon>
       <story_image>https://thetyee.ca/News/2026/11/13/SteveCardwell2.jpg</story_image>
       <description>Trustee Steve Cardwell pushes back against rules restricting public participation and how agendas are set.</description>
+    </item>
+    <item>
+      <title>APTN Nouvelles nationales – 13 novembre 2026</title>
+      <link>https://www.aptnnews.ca/featured/aptn-nouvelles-nationales-13-novembre-2026/</link>
+      <guid isPermaLink="false">https://www.aptnnews.ca/?p=297899</guid>
+      <pubDate>Fri, 13 Nov 2026 23:29:22 GMT</pubDate>
+      <author>APTN Nouvelles nationales</author>
+      <source_id>aptn_news</source_id>
+      <source_name>APTN News</source_name>
+      <source_icon>https://www.aptnnews.ca/wp-content/uploads/2019/11/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.aptnnews.ca/wp-content/themes/aptnnews/images/1200x600-news-metadata.png</story_image>
+      <description>Ce soir, à APTN Nouvelles nationales, on honore les anciens combattants autochtones. Et Carey Price...
+The post APTN Nouvelles nationales – 13 novembre 2026 appeared first on APTN News.</description>
+    </item>
+    <item>
+      <title>COVID-19 school disruptions still impacting students today, learning loss report finds</title>
+      <link>https://www.cbc.ca/news/canada/pandemic-learning-loss-report-9.7420000?cmp=rss</link>
+      <guid isPermaLink="false">9.7420000</guid>
+      <pubDate>Fri, 13 Nov 2026 23:25:25 GMT</pubDate>
+      <author>Jessica Wong</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/289a0576-7b9c-4e3b-bec4-18b7a46cbbca,1794525522095/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C429%2C6720%2C3780%29%3B</story_image>
+      <description>A new report says Canadian students are still feeling the impact of the COVID pandemic's massive upset to their schooling, with declining achievement — particularly in math — and a discrepancy between standardized test scores and the grades kids receive in class.</description>
+    </item>
+    <item>
+      <title>'Crypto King' Aiden Pleterski testifies he was beaten, tortured during alleged kidnapping</title>
+      <link>https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-kidnapping-trial-9.7421121?cmp=rss</link>
+      <guid isPermaLink="false">9.7421121</guid>
+      <pubDate>Fri, 13 Nov 2026 22:44:26 GMT</pubDate>
+      <author>Nicole Brockbank</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/6f805e35-1a56-4879-bb15-37a72d0f391b,1791233269722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C5343%2C3005%29%3B</story_image>
+      <description>Self-described "Crypto King" Aiden Pleterski described being beaten with a gun and tortured with knives and a lighter in the back of a truck as he began his testimony at the trial of his alleged kidnappers Friday in Toronto.</description>
     </item>
     <item>
       <title>The Tyee Podcast: The Rise, Fall and Return of DULF</title>
@@ -44,6 +117,176 @@
       <description>Health reporter Michelle Gamage on how one local group tried to fight the toxic drug crisis on its own terms.</description>
     </item>
     <item>
+      <title>Alberta government asks judge to dismiss First Nation’s challenge of its sovereignty act</title>
+      <link>https://www.cbc.ca/news/canada/edmonton/alberta-sovereignty-act-court-challenge-first-nation-9.7421573?cmp=rss</link>
+      <guid isPermaLink="false">9.7421573</guid>
+      <pubDate>Fri, 13 Nov 2026 22:31:50 GMT</pubDate>
+      <author>Lisa Johnson</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/f67a70f8-6848-4c4f-a787-11e723661e61,1794608646432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C5316%2C2990%29%3B</story_image>
+      <description>Alberta's government is asking a judge to strike down a First Nation's constitutional challenge of its sovereignty act, arguing the law hasn't had any impact on treaty rights.</description>
+    </item>
+    <item>
+      <title>Indigenous Screen Office welcomes $51M promised by federal budget</title>
+      <link>https://www.cbc.ca/news/indigenous/iso-funding-budget-2026-9.7421180?cmp=rss</link>
+      <guid isPermaLink="false">9.7421180</guid>
+      <pubDate>Fri, 13 Nov 2026 22:27:42 GMT</pubDate>
+      <author>Creeson Agecoutay</author>
+      <source_id>cbc_indigenous</source_id>
+      <source_name>CBC | Indigenous</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/1.7425821,1736350824000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C3000%2C1687%29%3B</story_image>
+      <description>The head of the Indigenous Screen Office says $51 million in additional funding promised by the federal budget is badly needed given how difficult the industry is for Indigenous filmmakers and companies.</description>
+    </item>
+    <item>
+      <title>Secretary of State Belanger highlights Government of Canada’s investments for Indigenous communities from Budget 2026: Masters of our destiny</title>
+      <link>https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/secretary-of-state-belanger-highlights-government-of-canadas-investments-for-indigenous-communities-from-budget-2026-masters-of-our-destiny.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/secretary-of-state-belanger-highlights-government-of-canadas-investments-for-indigenous-communities-from-budget-2026-masters-of-our-destiny.html</guid>
+      <pubDate>Fri, 13 Nov 2026 22:23:12 GMT</pubDate>
+      <author>Innovation, Science and Economic Development Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Secretary of State Belanger highlights Government of Canada’s investments for Indigenous communities from Budget 2026: Masters of our destiny</description>
+    </item>
+    <item>
+      <title>Flights grounded across U.S. due to outage affecting air traffic control, FAA says</title>
+      <link>https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss</link>
+      <guid isPermaLink="false">9.7421543</guid>
+      <pubDate>Fri, 13 Nov 2026 22:18:32 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/d7aba213-70b5-4a84-b12a-f3f88ff4140b,1794608715530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C573%2C5500%2C3093%29%3B</story_image>
+      <description />
+    </item>
+    <item>
+      <title>Manitoba group needs $17M to bring 3,000 Indigenous artefacts home</title>
+      <link>https://www.aptnnews.ca/national-news/manitoba-group-needs-17m-to-bring-3000-indigenous-artefacts-home/</link>
+      <guid isPermaLink="false">https://www.aptnnews.ca/?p=297871</guid>
+      <pubDate>Fri, 13 Nov 2026 21:56:31 GMT</pubDate>
+      <author>Emma Honeybun</author>
+      <source_id>aptn_news</source_id>
+      <source_name>APTN News</source_name>
+      <source_icon>https://www.aptnnews.ca/wp-content/uploads/2019/11/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.aptnnews.ca/wp-content/themes/aptnnews/images/1200x600-news-metadata.png</story_image>
+      <description>A Manitoba-based organization is trying to raise $17 million to bring 3,000 Indigenous artefacts home...
+The post Manitoba group needs $17M to bring 3,000 Indigenous artefacts home appeared first on APTN News.</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Hanley to make a critical minerals announcement in Yukon</title>
+      <link>https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hanley-to-make-a-critical-minerals-announcement-in-yukon.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hanley-to-make-a-critical-minerals-announcement-in-yukon.html</guid>
+      <pubDate>Fri, 13 Nov 2026 21:30:32 GMT</pubDate>
+      <author>Natural Resources Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Brendan Hanley, Parliamentary Secretary to the Minister of Northern and Arctic Affairs, on behalf of the Honourable Tim Hodgson, Minister of Energy and Natural Resources, will make a critical minerals announcement at the 54th Annual Yukon Geoscience Forum and Trade Show in Whitehorse, hosted by the ...</description>
+    </item>
+    <item>
+      <title>Partners and community come together to celebrate Aqqusariaq</title>
+      <link>https://www.canada.ca/en/indigenous-services-canada/news/2026/11/partners-and-community-come-together-to-celebrate-aqqusariaq.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/indigenous-services-canada/news/2026/11/partners-and-community-come-together-to-celebrate-aqqusariaq.html</guid>
+      <pubDate>Fri, 13 Nov 2026 21:22:42 GMT</pubDate>
+      <author>Indigenous Services Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Today, the Government of Nunavut's Department of Health (GN), Nunavut Tunngavik Incorporated (NTI) and Indigenous Services Canada (ISC) joined Elders, community members, project partners and invited guests to celebrate Aqqusariaq, Nunavut's new addictions and trauma recovery facility in Iqaluit.</description>
+    </item>
+    <item>
+      <title>U.S. Treasury Secretary frustrated by Commerce Department's inaction on Nvidia chips</title>
+      <link>https://www.cbc.ca/news/world/bessent-lutnick-nvidia-chips-exports-9.7421237?cmp=rss</link>
+      <guid isPermaLink="false">9.7421237</guid>
+      <pubDate>Fri, 13 Nov 2026 21:17:33 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/15f7d486-3eee-4963-830e-933fda52483b,1794602093150/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C99%2C5270%2C2964%29%3B</story_image>
+      <description>U.S. Treasury Secretary Scott Bessent said Friday he was frustrated with the Commerce Department's delay in placing restrictions on Nvidia chip exports to a company led by an alleged Chinese spy.</description>
+    </item>
+    <item>
+      <title>Democratic socialists in Canada are breaking through at the ballot box</title>
+      <link>https://breachmedia.ca/democratic-socialists-in-canada-are-breaking-through-at-the-ballot-box/</link>
+      <guid isPermaLink="false">https://breachmedia.ca/?p=10754</guid>
+      <pubDate>Fri, 13 Nov 2026 21:11:24 GMT</pubDate>
+      <author>James Adair</author>
+      <source_id>the_breach</source_id>
+      <source_name>The Breach</source_name>
+      <source_icon>https://breachmedia.ca/favicon.ico</source_icon>
+      <story_image>https://d1833qsio4cxsx.cloudfront.net/wp-content/uploads/2026/11/13155850/TBS_CourageElections_2026v7-414x233.png</story_image>
+      <description>Organizers from around the country dissect the recent victories and setbacks for the electoral Left
+The post Democratic socialists in Canada are breaking through at the ballot box appeared first on The Breach.</description>
+    </item>
+    <item>
+      <title>Canada appoints new Indigenous languages commissioner</title>
+      <link>https://www.cbc.ca/news/indigenous/dorothy-myo-indigenous-languages-commissioner-9.7421064?cmp=rss</link>
+      <guid isPermaLink="false">9.7421064</guid>
+      <pubDate>Fri, 13 Nov 2026 21:10:36 GMT</pubDate>
+      <author>Sis'moqon</author>
+      <source_id>cbc_indigenous</source_id>
+      <source_name>CBC | Indigenous</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/1cae2579-5d28-4b31-a865-4a644dfe71a8,1794601265126/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B</story_image>
+      <description>Dorothy Myo has been appointed Canada's new commissioner of Indigenous languages, a role mandated to support the revitalization of Indigenous languages across Canada.</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Chenette to highlight federal budget investments in community recreational facilities and ice rinks</title>
+      <link>https://www.canada.ca/en/canadian-heritage/news/2026/11/parliamentary-secretary-chenette-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/canadian-heritage/news/2026/11/parliamentary-secretary-chenette-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html</guid>
+      <pubDate>Fri, 13 Nov 2026 21:09:33 GMT</pubDate>
+      <author>Canadian Heritage</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Government of Canada highlights key Budget 2026 investments in community recreational facilities and ice rinks.</description>
+    </item>
+    <item>
+      <title>Rescue underway in New Orleans after tanker hits river cruise boat</title>
+      <link>https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss</link>
+      <guid isPermaLink="false">9.7421309</guid>
+      <pubDate>Fri, 13 Nov 2026 21:06:41 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e9b30f1e-f07c-44e6-9b23-738a8be34382,1794603966681/full/max/0/default.jpg?im=Crop%2Crect%3D%28288%2C0%2C5384%2C3028%29%3B</story_image>
+      <description>A tanker struck a cruise boat with 129 passengers on board in New Orleans on Friday, partially submerging the boat.</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Maggie Chi to highlight federal budget investments in community recreational facilities and ice rinks</title>
+      <link>https://www.canada.ca/en/health-canada/news/2026/11/parliamentary-secretary-maggie-chi-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/news/2026/11/parliamentary-secretary-maggie-chi-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html</guid>
+      <pubDate>Fri, 13 Nov 2026 21:00:00 GMT</pubDate>
+      <author>Health Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Maggie Chi, Parliamentary Secretary to the Minister of Health, the Honourable Helena Jaczek, Member of Parliament for Markham—Stouffville, and Michael Ma, Member of Parliament for Markham—Unionville, will host an event at the Stouffville arena at 1C2, 12483 Ninth Line in Whitchurch-Stouffville, Onta...</description>
+    </item>
+    <item>
+      <title>Minister Anand to attend the 48th Session of the Francophonie Ministerial Conference, 20th Francophonie Summit and APEC</title>
+      <link>https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-to-attend-the-48th-session-of-the-francophonie-ministerial-conference-20th-francophonie-summit-and-apec.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-to-attend-the-48th-session-of-the-francophonie-ministerial-conference-20th-francophonie-summit-and-apec.html</guid>
+      <pubDate>Fri, 13 Nov 2026 20:58:37 GMT</pubDate>
+      <author>Global Affairs Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Today, the Honourable Anita Anand, Minister of Foreign Affairs, announced that she will travel  from November 14 to 19 to Phnom Penh, Cambodia, for the 48th session of the Francophonie Ministerial Conference and the 20th Francophonie Summit, and to Shenzhen, China, for the Asia-Pacific Economic Coop...</description>
+    </item>
+    <item>
       <title>Selection process opens for Defence, Security and Resilience Bank’s host city</title>
       <link>https://www.canada.ca/en/department-finance/news/2026/11/selection-process-opens-for-defence-security-and-resilience-banks-host-city.html</link>
       <guid isPermaLink="false">https://www.canada.ca/en/department-finance/news/2026/11/selection-process-opens-for-defence-security-and-resilience-banks-host-city.html</guid>
@@ -54,6 +297,18 @@
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
       <description>Today, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, launched the process to select the Canadian city that will host the future global headquarters of the DSRB.</description>
+    </item>
+    <item>
+      <title>Parliamentary Secretary Myles to highlight federal budget investments in community recreational facilities and aquatic centres</title>
+      <link>https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/parliamentary-secretary-myles-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/parliamentary-secretary-myles-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html</guid>
+      <pubDate>Fri, 13 Nov 2026 20:33:28 GMT</pubDate>
+      <author>Housing, Infrastructure and Communities Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>David Myles, Parliamentary Secretary to the Minister of Canadian Identity and Culture and Minister responsible for Official Languages and Parliamentary Secretary to the Secretary of State (Nature), will host an event at Fredericton City Hall to highlight federal budget investments to build stronger ...</description>
     </item>
     <item>
       <title>Alberta announces royalty program as part of plan to double oilsands production</title>
@@ -172,7 +427,7 @@
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/d70e292d-6b2b-4942-a9ce-bddab39439c7,1794599489063/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C100%2C1920%2C1080%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/76a13e1f-db4d-4a8e-8c06-e28ce9291d2c,1794611911921/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
       <description />
     </item>
     <item>
@@ -282,6 +537,18 @@
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
       <description>Through Budget 2026, the Government of Canada is supporting local wineries and independent grape growers as they adapt to economic and climate challenges. These investments will help protect and secure good jobs, boost agritourism across the country and build a stronger, more competitive Canadian wi...</description>
+    </item>
+    <item>
+      <title>3 dead after boat crash in flooded river near Squamish, B.C.</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/3-dead-squamish-boating-incident-9.7420872?cmp=rss</link>
+      <guid isPermaLink="false">9.7420872</guid>
+      <pubDate>Fri, 13 Nov 2026 18:14:19 GMT</pubDate>
+      <author>Alanna Kelly</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/56dda563-645d-4662-a962-5d4c7ffe33c8,1794593587184/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>Three people are confirmed dead after a boat crashed on the Squamish River on Thursday.</description>
     </item>
     <item>
       <title>Parliamentary Secretary to the Leader of the Government in the House of Commons highlights the Productivity Mega Deduction in Budget 2026</title>
