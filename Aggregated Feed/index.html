@@ -217,10 +217,18 @@
     };
 
     // Grab internal timeline feed with safe fallback path handling
-    fetch('feed.xml')
-      .then(res => {
-        if (!res.ok) throw new Error(`HTTP network anomaly: ${res.status}`);
+    Promise.all([
+      fetch('feed.xml').then(res => {
+        if (!res.ok) throw new Error(`Feed request failed: ${res.status}`);
         return res.text();
+      }),
+      fetch('../feeds/feeds.json').then(res => {
+        if (!res.ok) throw new Error(`Feed config request failed: ${res.status}`);
+        return res.json();
+      })
+    ])
+      .then(([str, feeds]) => {
+        const data = new window.DOMParser().parseFromString(str, 'text/xml');
       })
       .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
       .then(data => {
@@ -247,9 +255,12 @@
           const author = item.getElementsByTagName('author')[0]?.textContent || '';
           const sourceName = item.getElementsByTagName('source_name')[0]?.textContent || 'News';
           const sourceIcon = item.getElementsByTagName('source_icon')[0]?.textContent || '';
-          const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || '';
           const guidNode = item.getElementsByTagName('guid')[0];
           const guid = guidNode ? guidNode.textContent.replace(/[^a-zA-Z0-9]/g, idx) : idx;
+          const sourceId = item.getElementsByTagName('source_id')[0]?.textContent || '';
+          const feedConfig = feeds.find(feed => feed.id === sourceId);
+          const fallbackImg = feedConfig?.fallback_image_url || '';
+          const storyImg = item.getElementsByTagName('story_image')[0]?.textContent || fallbackImg;
           
 
           const isLong = rawDesc.length > 140;
@@ -261,7 +272,9 @@
           // Fixed double-quote nested evaluation to prevent HTML token breaking
           card.innerHTML = `
             <div class="img-container">
-              <img src="${storyImg}" alt="Media" referrerpolicy="no-referrer" onerror="this.onerror=null; this.src='${FALLBACK_IMG}';">
+              <img src="${storyImg}" data-fallback="${fallbackImg}" alt="Media"
+              referrerpolicy="no-referrer"
+              onerror="this.onerror=null; if (this.dataset.fallback) this.src=this.dataset.fallback;">
             </div>
             <div class="meta-bar">
               <img src="${sourceIcon}" class="source-icon" onerror="this.onerror=null; this.src='${FALLBACK_IMG}';">
