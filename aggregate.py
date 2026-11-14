@@ -207,6 +207,11 @@ for rec in archive.values():
     rec["source_id"] = cfg["id"]
     rec["source_name"] = cfg["name"]
     rec["source_icon"] = cfg.get("icon_url", "")
+
+    configured_author = cfg.get("author")
+    if isinstance(configured_author, str) and configured_author.strip():
+        rec["author"] = clean(configured_author)
+
     if rec["fallback"] or not rec["story_image"] or rec["story_image"] in (fallback_img, *OLD_FALLBACKS):
         rec["story_image"], rec["fallback"] = fallback_img, True
 
