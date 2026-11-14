@@ -7,8 +7,8 @@
 <h1 align="center">Canadian-RSS</h1>
 
 <p align="center">
-<b>Canadian media scan & news feed wall</b> | A chronological RSS aggregator, reader, feed wall. 
-  Accessibility by design | Compatible with leading assistive technology and w3 standard screen readers. 
+<b>Canadian media scan & news feed wall</b> | A chronological RSS aggregator, reader, feed wall. <br>
+ <b> Accessibility by design </b>| Compatible with leading assistive technology and w3 standard screen readers. 
 </p>
 
 <p align="center">
