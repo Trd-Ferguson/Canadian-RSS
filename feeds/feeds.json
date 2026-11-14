@@ -40,7 +40,8 @@
     "feed_url": "https://www.pm.gc.ca/en/news.rss",
     "icon_url": "https://www.pm.gc.ca/themes/pm_theme/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/splash_files/office-of-pm.png",
-    "card_pres_set": "dept"
+    "card_pres_set": "dept",
+    "author": "PMO | Prime Minister of Canada"
 
   },
   {
@@ -49,7 +50,8 @@
     "feed_url": "https://www.gazette.gc.ca/rss/p1-eng.xml",
     "icon_url": "https://gazette.gc.ca/favicon.ico",
     "fallback_image_url": "https://www.parl.ca/CommonElementsV3/images/ce-parl-footer-background.jpg",
-    "card_pres_set": "dept"
+    "card_pres_set": "dept",
+    "author": "Notices & Proposed Regulations"
 },
   {
     "id": "canada_gazette_list_of_notices",
@@ -57,7 +59,8 @@
     "feed_url": "https://www.gazette.gc.ca/rss/en-ls-eng.xml",
     "icon_url": "https://gazette.gc.ca/favicon.ico",
     "fallback_image_url": "https://gazette.gc.ca/images/img5.jpg",
-    "card_pres_set": "dept"
+    "card_pres_set": "dept",
+    "author": "Acts of Parliament"
 
   },
   {
@@ -66,7 +69,8 @@
     "feed_url": "https://www.gazette.gc.ca/rss/p2-eng.xml",
     "icon_url": "https://gazette.gc.ca/favicon.ico",
     "fallback_image_url": "https://gazette.gc.ca/images/img1.jpg",
-    "card_pres_set": "dept"
+    "card_pres_set": "dept",
+    "author": "Official Regulations"
 
   },
   {
