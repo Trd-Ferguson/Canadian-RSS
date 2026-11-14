@@ -5,7 +5,7 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 23:46:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:52:53 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canada Gazette - Part I, November 14, 2026, volume 160, number 46</title>
@@ -18,6 +18,42 @@
       <source_icon>https://gazette.gc.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://www.parl.ca/CommonElementsV3/images/ce-parl-footer-background.jpg</story_image>
       <description>The Canada Gazette, Part I, consists of a weekly issue, published every Saturday; a quarterly index, published every three months; and extra editions, published only when required under special circumstances or by legal requirements on any other day than Saturday....</description>
+    </item>
+    <item>
+      <title>Prime Minister Carney meets with President of the Philippines Ferdinand Marcos Jr.</title>
+      <link>https://www.pm.gc.ca/en/news/readouts/2026/11/14/prime-minister-carney-meets-president-philippines-ferdinand-marcos-jr</link>
+      <guid isPermaLink="false">https://www.pm.gc.ca/en/news/readouts/2026/11/14/prime-minister-carney-meets-president-philippines-ferdinand-marcos-jr</guid>
+      <pubDate>Sat, 14 Nov 2026 05:24:43 GMT</pubDate>
+      <author>pm@pm.gc.ca - Prime Minister of Canada</author>
+      <source_id>prime_minister_news</source_id>
+      <source_name>Prime Minister of Canada</source_name>
+      <source_icon>https://www.pm.gc.ca/themes/pm_theme/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.pm.gc.ca/splash_files/office-of-pm.png</story_image>
+      <description>Today, the Prime Minister, Mark Carney, met with the President of the Philippines, Ferdinand Marcos Jr., during his visit to Manila, Philippines.Prime Minister Carney and President Marcos Jr. highlighted the significant expansion of cooperation under the Canada-Philippines Strategic Partnership acro...</description>
+    </item>
+    <item>
+      <title>Canada concludes negotiations for two new free trade agreements with the Philippines and ASEAN – unlocking greater access to a market of more than 700 million people for Canadian businesses</title>
+      <link>https://www.pm.gc.ca/en/news/news-releases/2026/11/14/canada-concludes-negotiations-two-new-free-trade-agreements</link>
+      <guid isPermaLink="false">https://www.pm.gc.ca/en/news/news-releases/2026/11/14/canada-concludes-negotiations-two-new-free-trade-agreements</guid>
+      <pubDate>Sat, 14 Nov 2026 05:05:00 GMT</pubDate>
+      <author>pm@pm.gc.ca - Prime Minister of Canada</author>
+      <source_id>prime_minister_news</source_id>
+      <source_name>Prime Minister of Canada</source_name>
+      <source_icon>https://www.pm.gc.ca/themes/pm_theme/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.pm.gc.ca/splash_files/office-of-pm.png</story_image>
+      <description>Canada is transforming our economy to be less reliant on a single trading partner and more resilient to global shocks. Southeast Asia is one of the world’s fastest-growing economic regions and a key partner in Canada’s effort to secure new trade partners, attract new investment, and create more choi...</description>
+    </item>
+    <item>
+      <title>Canada, Philippines wrap talks for free-trade agreement, expected to be signed in 2027</title>
+      <link>https://www.cbc.ca/news/politics/canada-philippines-free-trade-agreement-talks-9.7422009?cmp=rss</link>
+      <guid isPermaLink="false">9.7422009</guid>
+      <pubDate>Sat, 14 Nov 2026 03:27:16 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/efe910e0-a91a-4c20-807d-c58b6ad03d36,1794626341489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C14%2C8011%2C4506%29%3B</story_image>
+      <description>Canada and the Philippines have concluded talks for a free-trade agreement, which is expected to be formally signed next year.</description>
     </item>
     <item>
       <title>From Two Sad Stories, a Glint of Hope</title>
@@ -44,6 +80,18 @@
       <description>Set in Lytton, BC, Kevin Loring’s award-winning play explores the complex relationship between personal loss and collective history.</description>
     </item>
     <item>
+      <title>FPT Forum on Housing and Homelessness 2026 Ministers’ Meeting – Joint Communiqué</title>
+      <link>https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/fpt-forum-on-housing-and-homelessness-2026-ministers-meeting--joint-communique.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/fpt-forum-on-housing-and-homelessness-2026-ministers-meeting--joint-communique.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <author>Housing, Infrastructure and Communities Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Today, federal, provincial and territorial (FPT) Ministers responsible for housing and homelessness met in Toronto, Ontario, for the Federal, Provincial and Territorial Forum on Housing and Homelessness (the Forum).</description>
+    </item>
+    <item>
       <title>Turn to Art to Heal the Soul</title>
       <link>https://thetyee.ca/Culture/2026/11/13/Local-Exhibitions-Heal-Soul-Reminder-Other-Worlds/</link>
       <guid isPermaLink="false">https://thetyee.ca/Culture/2026/11/13/Local-Exhibitions-Heal-Soul-Reminder-Other-Worlds/</guid>
@@ -56,6 +104,18 @@
       <description>Local exhibitions remind us there are other worlds than this.</description>
     </item>
     <item>
+      <title>Repatriation group visits Indigenous items for sale by Swiss collector</title>
+      <link>https://www.cbc.ca/news/indigenous/coleen-rajotte-swiss-museum-repatriation-9.7421660?cmp=rss</link>
+      <guid isPermaLink="false">9.7421660</guid>
+      <pubDate>Sat, 14 Nov 2026 00:29:10 GMT</pubDate>
+      <author>Louise BigEagle</author>
+      <source_id>cbc_indigenous</source_id>
+      <source_name>CBC | Indigenous</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/6c621971-8e44-4962-b7e6-ecbe5b0255d6,1794614659330/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C3309%2C1861%29%3B</story_image>
+      <description>Coleen Rajotte, Karl Stone and Gerald Neufeld are a part of a group working to bring over 3,000 Indigenous artifacts back to Canada from a private collector in Switzerland.</description>
+    </item>
+    <item>
       <title>New Vancouver School Board Attempts to Improve Transparency</title>
       <link>https://thetyee.ca/News/2026/11/13/New-Vancouver-School-Board-Attempts-Improve-Transparency/</link>
       <guid isPermaLink="false">https://thetyee.ca/News/2026/11/13/New-Vancouver-School-Board-Attempts-Improve-Transparency/</guid>
@@ -66,6 +126,18 @@
       <source_icon>https://thetyee.ca/favicon.ico</source_icon>
       <story_image>https://thetyee.ca/News/2026/11/13/SteveCardwell2.jpg</story_image>
       <description>Trustee Steve Cardwell pushes back against rules restricting public participation and how agendas are set.</description>
+    </item>
+    <item>
+      <title>London, Ont., family raises $500K for daughter's U.S. surgery after being denied funding</title>
+      <link>https://www.cbc.ca/news/canada/london/london-family-raises-500k-for-daughter-s-us-surgery-after-ontario-denied-funding-9.7421072?cmp=rss</link>
+      <guid isPermaLink="false">9.7421072</guid>
+      <pubDate>Fri, 13 Nov 2026 23:34:51 GMT</pubDate>
+      <author>Jack Sutton</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/1.7512958,1744903901000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C329%2C6585%2C3704%29%3B</story_image>
+      <description>A London, Ont., father and daughter who have been fundraising for a major surgery in the United States have now surpassed their goal and are moving ahead with a potentially life-changing procedure that no doctor in Canada would perform.</description>
     </item>
     <item>
       <title>APTN Nouvelles nationales – 13 novembre 2026</title>
@@ -117,6 +189,18 @@ The post APTN Nouvelles nationales – 13 novembre 2026 appeared first on APTN N
       <description>Health reporter Michelle Gamage on how one local group tried to fight the toxic drug crisis on its own terms.</description>
     </item>
     <item>
+      <title>Moncton man charged in child luring case has 'spent time in' 5 provinces, RCMP say</title>
+      <link>https://www.cbc.ca/news/canada/new-brunswick/timothy-roy-child-luring-moncton-rcmp-photo-nova-scotia-labrador-ontario-b-c-9.7420904?cmp=rss</link>
+      <guid isPermaLink="false">9.7420904</guid>
+      <pubDate>Fri, 13 Nov 2026 22:34:50 GMT</pubDate>
+      <author>Bobbi-Jean MacKinnon</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/a12c29bd-693e-41b6-905d-c6a000d6e0c0,1794594008572/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B</story_image>
+      <description>New Brunswick RCMP have released the photo of a Moncton man facing several charges in connection with a child luring investigation, as well as a list of communities he has "spent time in" across Canada to encourage people with information to come forward.</description>
+    </item>
+    <item>
       <title>Alberta government asks judge to dismiss First Nation’s challenge of its sovereignty act</title>
       <link>https://www.cbc.ca/news/canada/edmonton/alberta-sovereignty-act-court-challenge-first-nation-9.7421573?cmp=rss</link>
       <guid isPermaLink="false">9.7421573</guid>
@@ -153,7 +237,7 @@ The post APTN Nouvelles nationales – 13 novembre 2026 appeared first on APTN N
       <description>Secretary of State Belanger highlights Government of Canada’s investments for Indigenous communities from Budget 2026: Masters of our destiny</description>
     </item>
     <item>
-      <title>Flights grounded across U.S. due to outage affecting air traffic control, FAA says</title>
+      <title>U.S. flights cleared to take off again after ground stop order caused thousands of delays and cancellations</title>
       <link>https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss</link>
       <guid isPermaLink="false">9.7421543</guid>
       <pubDate>Fri, 13 Nov 2026 22:18:32 GMT</pubDate>
@@ -161,8 +245,8 @@ The post APTN Nouvelles nationales – 13 novembre 2026 appeared first on APTN N
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/d7aba213-70b5-4a84-b12a-f3f88ff4140b,1794608715530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C573%2C5500%2C3093%29%3B</story_image>
-      <description />
+      <story_image>https://i.cbc.ca/ais/648ca121-5c59-4e13-bc50-137d107056d2,1794622318600/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C120%2C3032%2C1705%29%3B</story_image>
+      <description>EDITED [title] </description>
     </item>
     <item>
       <title>Manitoba group needs $17M to bring 3,000 Indigenous artefacts home</title>
@@ -176,6 +260,18 @@ The post APTN Nouvelles nationales – 13 novembre 2026 appeared first on APTN N
       <story_image fallback="1">https://www.aptnnews.ca/wp-content/themes/aptnnews/images/1200x600-news-metadata.png</story_image>
       <description>A Manitoba-based organization is trying to raise $17 million to bring 3,000 Indigenous artefacts home...
 The post Manitoba group needs $17M to bring 3,000 Indigenous artefacts home appeared first on APTN News.</description>
+    </item>
+    <item>
+      <title>'I sincerely apologize': Blue Jays outfielder Santander apologizes days after anti-Muslim social media posts</title>
+      <link>https://www.cbc.ca/news/canada/toronto/blue-jays-santander-social-media-apology-9.7421387?cmp=rss</link>
+      <guid isPermaLink="false">9.7421387</guid>
+      <pubDate>Fri, 13 Nov 2026 21:37:48 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/f292308b-c77f-4c63-bad3-30507df9a7a9,1794605323705/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4200%2C2362%29%3B</story_image>
+      <description>Santander said in an Instagram post Friday that reflection and conversations with people he trusts made him recognize he should have been more thoughtful about what he shared.</description>
     </item>
     <item>
       <title>Parliamentary Secretary Hanley to make a critical minerals announcement in Yukon</title>
@@ -251,7 +347,7 @@ The post Democratic socialists in Canada are breaking through at the ballot box 
       <description>The Government of Canada highlights key Budget 2026 investments in community recreational facilities and ice rinks.</description>
     </item>
     <item>
-      <title>Rescue underway in New Orleans after tanker hits river cruise boat</title>
+      <title>'Miracle on the Mississippi': All aboard river cruise boat survive crash with tanker in New Orleans</title>
       <link>https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss</link>
       <guid isPermaLink="false">9.7421309</guid>
       <pubDate>Fri, 13 Nov 2026 21:06:41 GMT</pubDate>
@@ -260,7 +356,7 @@ The post Democratic socialists in Canada are breaking through at the ballot box 
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/e9b30f1e-f07c-44e6-9b23-738a8be34382,1794603966681/full/max/0/default.jpg?im=Crop%2Crect%3D%28288%2C0%2C5384%2C3028%29%3B</story_image>
-      <description>A tanker struck a cruise boat with 129 passengers on board in New Orleans on Friday, partially submerging the boat.</description>
+      <description>EDITED [title, summary] A tanker in New Orleans that apparently lost its steering slammed into a docked river cruise boat with 180 people aboard Friday, the mayor said. All aboard survived after the crash prompted a massive rescue operation for passengers and crew who plunged into the Mississippi River as the ship took on ...</description>
     </item>
     <item>
       <title>Parliamentary Secretary Maggie Chi to highlight federal budget investments in community recreational facilities and ice rinks</title>
