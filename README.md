@@ -29,9 +29,7 @@ The site is live at **[Canadian-RSS news reader](https://trd-ferguson.github.io/
 
 The re-parsed items items are presented newest first, with the publisher, publication date, summary, and a link to the original article. Select a headline or image to read the story at its source; use **Read more** to expand a longer summary.
     
-If you prefer a dedicated feed reader, copy or open the feed URL in your RSS app:
-
-**[https://trd-ferguson.github.io/Canadian-RSS/feed.xml](https://trd-ferguson.github.io/Canadian-RSS/feed.xml)**
+If you prefer a dedicated feed reader, open and copy the **[feed.xml URL ](https://trd-ferguson.github.io/Canadian-RSS/feed.xml)** into your favourite RSS app.
 
 
 ## What’s in the feed
