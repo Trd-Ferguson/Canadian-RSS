@@ -39,23 +39,23 @@
     "name": "Prime Minister of Canada",
     "feed_url": "https://www.pm.gc.ca/en/news.rss",
     "icon_url": "https://www.pm.gc.ca/themes/pm_theme/favicon.ico",
-    "fallback_image_url": "https://www.pm.gc.ca/splash_files/office-of-pm.png",
+    "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/icons/fb.jpg",
     "card_pres_set": "dept",
     "author": "PMO | Prime Minister of Canada"
 
   },
   {
     "id": "canada_gazette_part_1",
-    "name": "Canada Gazette | I: Notices & Proposed Regulations",
+    "name": "Canada Gazette — I: Notices & Proposed Regulations",
     "feed_url": "https://www.gazette.gc.ca/rss/p1-eng.xml",
     "icon_url": "https://gazette.gc.ca/favicon.ico",
-    "fallback_image_url": "https://www.parl.ca/CommonElementsV3/images/ce-parl-footer-background.jpg",
+    "fallback_image_url": "https://www.canada.ca/content/dam/pspc-spac/images/services/infrastructure-buildings/parliamentary-precinct/bblthq-lbrry5.jpg",
     "card_pres_set": "dept",
     "author": "Notices & Proposed Regulations"
 },
   {
     "id": "canada_gazette_list_of_notices",
-    "name": "Canada Gazette | III: Acts of Parliament",
+    "name": "Canada Gazette — III: Acts of Parliament",
     "feed_url": "https://www.gazette.gc.ca/rss/en-ls-eng.xml",
     "icon_url": "https://gazette.gc.ca/favicon.ico",
     "fallback_image_url": "https://gazette.gc.ca/images/img5.jpg",
@@ -65,7 +65,7 @@
   },
   {
     "id": "canada_gazette_part_2",
-    "name": "Canada Gazette | II: Official Regulations",
+    "name": "Canada Gazette — II: Official Regulations",
     "feed_url": "https://www.gazette.gc.ca/rss/p2-eng.xml",
     "icon_url": "https://gazette.gc.ca/favicon.ico",
     "fallback_image_url": "https://gazette.gc.ca/images/img1.jpg",
@@ -95,7 +95,7 @@
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=mediaadvisories&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=media%20advisories",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/2025-11/PM_MediaAdvisory_EN.png",
-    "card_pres_set": "dept"
+    "card_pres_set": ""
   },
   {
     "id": "government_of_canada_aboriginal_peoples",
@@ -151,7 +151,7 @@
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=newsreleases&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=news%20releases",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/2025-11/PM_NewsRelease_EN.png",
-    "card_pres_set": "dept"
+    "card_pres_set": ""
   },
   {
     "id": "government_of_canada_readouts",
@@ -159,7 +159,7 @@
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=readouts&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=readouts",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/priority_override/2018-09/pm_read_out_20180820.jpg",
-    "card_pres_set": "dept"
+    "card_pres_set": ""
   },
   {
     "id": "government_of_canada_statements",
@@ -167,7 +167,7 @@
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=statements&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=statements",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/priority_override/2026-03/PM_PassingStatement_EN_v1.png",
-    "card_pres_set": "dept"
+    "card_pres_set": ""
   },
   {
     "id": "government_of_canada_backgrounders",
@@ -175,13 +175,13 @@
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?type=backgrounders&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=backgrounders",
     "icon_url": "https://www.canada.ca/favicon.ico",
     "fallback_image_url": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/priority_override/2015-12/pm_eng_backgrounder.png",
-    "card_pres_set": "dept"
+    "card_pres_set": ""
   },
   {
     "id": "aptn_news",
     "name": "APTN News",
     "feed_url": "https://aptnnews.ca/feed/",
-    "icon_url": "https://www.aptnnews.ca/wp-content/uploads/2019/11/favicon.ico",
+    "icon_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/APTN_Colour-300x300.svg/1920px-APTN_Colour-300x300.svg.png",
     "fallback_image_url": "https://www.aptnnews.ca/wp-content/themes/aptnnews/images/1200x600-news-metadata.png",
     "card_pres_set": ""
   },
