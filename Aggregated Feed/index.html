@@ -59,6 +59,16 @@
       position: relative;
       z-index: 1;
     }
+    .header p a {
+      color: #b0b3b8;
+      text-decoration: underline;
+      transition: color 0.2s ease; /* Smooth colour fade on hover */
+    }
+    .header p a:hover,
+    .header p a:focus-visible {
+      color: #8f0101;
+      text-decoration: underline;
+    }
 
     .grid {
       display: grid;
@@ -222,7 +232,10 @@
 
   <div class="header">
     <h1><span class="fade"> Canadian News </span> Media Scan  </h1>
-    <p>Canadian media scan & news feed wall | an aggregated RSS reader.<sub><br>*<a href="https://github.com/Trd-Ferguson/Canadian-RSS" title="github.com/Canadian-RSS">view the <img src="https://github.com/fluidicon.png" alt="GitHub" width="13" height="13" /> repo here.</a>.</sub></p></p>
+    <p>Canadian media scan & news feed wall | an aggregated RSS reader.<sub>
+      <br><a href="https://github.com/Trd-Ferguson/Canadian-RSS" title="github.com/Canadian-RSS">*view the <img src="https://github.com/fluidicon.png" alt="GitHub" width="13" height="13" /> repo here.</a>
+    </sub>
+    </p>
     <small id="sync-time" style="color: #8a8d91; display: block; margin-top: 10px; font-weight: 500;">Loading latest sync time...</small>
   </div>
 
