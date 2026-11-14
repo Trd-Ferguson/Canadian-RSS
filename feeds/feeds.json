@@ -102,7 +102,7 @@
     "name": "Indigenous | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?audience=aboriginalpeoples&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Aboriginal%20peoples",
     "icon_url": "https://www.canada.ca/favicon.ico",
-    "fallback_image_url": "https://www.statcan.gc.ca/o1/sites/default/files/2022-06/NIPD_bulki.png",
+    "fallback_image_url": "https://www.cer-rec.gc.ca/en/about/who-we-are-what-we-do/organization-structure/indigenous-advisory-committee/canada-energy-regulator-indigenous-advisory-committee-progress-impact-report/2024/images/coverimage.jpg",
     "card_pres_set": "dept"
   },
   {
@@ -118,7 +118,7 @@
     "name": "Employment & Social Development Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofemploymentandsocialdevelopment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Employment%20and%20Social%20Development%20Canada",
     "icon_url": "https://www.canada.ca/favicon.ico",
-    "fallback_image_url": "https://static.wixstatic.com/media/dbf07e_425bf1131f39426f96a8ecb17b24aa30~mv2.jpg",
+    "fallback_image_url": "https://www.canada.ca/content/dam/pspc-spac/images/services/infrastructure-buildings/chaudiere-crossing-img1.jpg",
     "card_pres_set": "dept"
   },
   {
@@ -142,7 +142,7 @@
     "name": "Canada and the World | Government of Canada",
     "feed_url": "https://api.io.canada.ca/io-server/gc/news/en/v2?topic=canadaandtheworld&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Canada%20and%20the%20world",
     "icon_url": "https://www.canada.ca/favicon.ico",
-    "fallback_image_url": "https://www.international.gc.ca/world-monde/assets/images/features/2026-05-13-arctic-360x203.jpg",
+    "fallback_image_url": "https://www.csps-efpc.gc.ca/video/strategic-challenges/images/strategic-challenges.png",
     "card_pres_set": "dept"
   },
   {
