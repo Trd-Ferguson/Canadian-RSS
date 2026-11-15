@@ -5,8 +5,56 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:52:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:02:29 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mike Morrice — the only candidate on the ballot — wins Green Party leadership with 96.6% of vote</title>
+      <link>https://www.cbc.ca/news/politics/green-party-leader-mike-morrice-9.7422321?cmp=rss</link>
+      <guid isPermaLink="false">9.7422321</guid>
+      <pubDate>Sat, 14 Nov 2026 22:51:24 GMT</pubDate>
+      <author>David Thurton</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/2d1f5838-8c57-4ff3-9521-e13fc73decd9,1794697207632/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C4032%2C2268%29%3B</story_image>
+      <description>The Green Party of Canada enters a new era with former MP Mike Morrice taking over the political party's top job.</description>
+    </item>
+    <item>
+      <title>Stranded B.C. flyers out thousands amid flight cancellations due to Friday's ground stop</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/customers-frustrated-paying-for-accommodation-after-cancellations-9.7422364?cmp=rss</link>
+      <guid isPermaLink="false">9.7422364</guid>
+      <pubDate>Sat, 14 Nov 2026 21:18:50 GMT</pubDate>
+      <author>Arden McLeod</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/79810231-71e4-4c27-9232-9b6a8218d2a9,1794688889144/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C1337%2C752%29%3B</story_image>
+      <description>Some frustrated Air Canada passengers say spotty communication and a lack of rebooking help has left them paying thousands out of pocket amid widespread flight cancellations due to the FAA-ordered ground stop Friday.</description>
+    </item>
+    <item>
+      <title>Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/11/fifth-canadian-armed-forces-member-dies-following-incident-at-canadian-forces-base-wainwright.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/department-national-defence/news/2026/11/fifth-canadian-armed-forces-member-dies-following-incident-at-canadian-forces-base-wainwright.html</guid>
+      <pubDate>Sat, 14 Nov 2026 21:10:54 GMT</pubDate>
+      <author>National Defence</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>It is with profound sadness that the Canadian Armed Forces (CAF) confirms the death of a fifth soldier who was receiving medical care in Ontario following the tragic incident that occurred at Canadian Forces Base Wainwright on October 17, 2026.</description>
+    </item>
+    <item>
+      <title>AFC Toronto beats Montreal Roses to win 1st NSL title</title>
+      <link>https://www.cbc.ca/sports/soccer/nsl-final-montreal-roses-afc-toronto-9.7421039?cmp=rss</link>
+      <guid isPermaLink="false">9.7421039</guid>
+      <pubDate>Sat, 14 Nov 2026 21:09:30 GMT</pubDate>
+      <author>Lisa Wallace</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/b59e6c35-76a9-4d56-87c4-9f22d1ad7929,1794688450172/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C145%2C5139%2C2890%29%3B</story_image>
+      <description>Olivia Chisholm's first-half goal allowed AFC Toronto to capture its first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place in Ottawa.</description>
+    </item>
     <item>
       <title>New Orleans port sues for control of China-linked tanker that crashed into cruise ship</title>
       <link>https://www.cbc.ca/news/world/new-orleans-tanker-cruise-ship-chinese-ownership-sue-9.7422329?cmp=rss</link>
@@ -68,7 +116,7 @@
       <description>Hitting Canadian theatres now, Club Kid is without doubt a major work. It was without doubt one of the best films at this year's Toronto International Film Festival. And while there is some doubt here, Club Kid just might make you cry.</description>
     </item>
     <item>
-      <title>SpaceX Starship prepares attempt at pinpoint return landing on Earth</title>
+      <title>SpaceX Starship re-enters Earth, lands at same spot from which it launched a day ago</title>
       <link>https://www.cbc.ca/news/world/spacex-starship-re-entry-space-earth-9.7422284?cmp=rss</link>
       <guid isPermaLink="false">9.7422284</guid>
       <pubDate>Sat, 14 Nov 2026 18:29:44 GMT</pubDate>
@@ -76,8 +124,8 @@
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/fdd7be38-ea4d-415b-8aeb-14bf8c48b184,1794682038505/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C566%2C7734%2C4350%29%3B</story_image>
-      <description>SpaceX's next-generation Starship spacecraft cruised around the globe on Saturday nearing the end of its 15th test flight and what the company hoped would be an unprecedented pinpoint return landing at the exact spot in Texas from ‌which it launched.</description>
+      <story_image>https://i.cbc.ca/ais/1011486f-2eca-4d69-93c5-21fb4020d1d0,1794694814803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C3645%2C2050%29%3B</story_image>
+      <description>EDITED [title, summary] SpaceX's Starship spacecraft on Saturday returned from its longest flight in orbit yet to the Texas launch tower it was launched from a day prior, demonstrating the first key recovery of the rocket system's centerpiece vessel in the company's decade-long effort to ‌develop a fully reusable rocket.</description>
     </item>
     <item>
       <title>Parliamentary Secretary to the Leader of the Government in the House of Commons highlights Government of Canada’s investments from Budget 2026: Masters of our destiny</title>
@@ -1318,6 +1366,18 @@ The post 70% of Inuit children live in households that skip meals, eat less to m
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
       <description>Building on the objectives of Budget 2026, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced a $200-million investment in Woodfibre LNG.</description>
+    </item>
+    <item>
+      <title>He makes cakes for other families. Now he wants time with his own</title>
+      <link>https://www.cbc.ca/player/play/9.7420838?cmp=rss</link>
+      <guid isPermaLink="false">9.7420838</guid>
+      <pubDate>Fri, 13 Nov 2026 17:29:38 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/c452ca55-431e-4994-8ad4-b45aebe4ed6f,1794590602381/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>Forest Lawn Bakery — a long-standing family business in Calgary — has closed after over 30 years. Owner Danny La estimates he has made more than 70,000 cakes over the past 25 years, often sacrificing time with his own family to keep the business running. After decades of hard work, he’s reflecting o...</description>
     </item>
     <item>
       <title>Minister Gull-Masty and Parliamentary Secretary Grant highlight Government of Canada’s investments for Indigenous communities from Budget 2026: Masters of our destiny</title>
@@ -8745,6 +8805,18 @@ The post ITK president hopes we’ve learned from the past as the world’s inte
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://www.csps-efpc.gc.ca/video/strategic-challenges/images/strategic-challenges.png</story_image>
       <description>The Honourable Anita Anand, Minister of Foreign Affairs, today announced that she will welcome Víctor Bisonó, Minister of Foreign Affairs of the Dominican Republic, to Canada, on October 19, 2026. The visit marks the first visit of a Dominican minister of foreign affairs in over 20 years.</description>
+    </item>
+    <item>
+      <title>5th soldier injured in CFB Wainwright fire has died, officials say</title>
+      <link>https://www.cbc.ca/news/canada/edmonton/fifth-soldier-dies-cfb-wainwright-fire-9.7422365?cmp=rss</link>
+      <guid isPermaLink="false">9.7385521</guid>
+      <pubDate>Sun, 18 Oct 2026 01:33:38 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/925f3153-be56-47a5-bcdc-b2b4e301857d,1794698362845/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description />
     </item>
     <item>
       <title>Canada Gazette - Part I, October 17, 2026, volume 160, number 42</title>
