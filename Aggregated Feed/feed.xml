@@ -5,10 +5,433 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:53:48 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trump, Xi, Putin hold historic meeting with Ukraine war on agenda</title>
+      <title>More cadets, more money, less training: Military defends controversial suspension</title>
+      <link>https://www.cbc.ca/news/politics/cadets-defence-training-budget-9.7428707?cmp=rss</link>
+      <guid isPermaLink="false">9.7428707</guid>
+      <pubDate>Thu, 19 Nov 2026 20:46:24 GMT</pubDate>
+      <author>Murray Brewster</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/b184e0f3-ae51-4b6c-b627-1d5808b202c6,1795119970288/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C326%2C6260%2C3521%29%3B</story_image>
+      <description>The second-in-command of Canada's military stood behind the decision to suspend most cadet training in various parts of the country, suggesting the program is swamped by an increase in participation and struggling not to blow its annual budget.</description>
+    </item>
+    <item>
+      <title>Alleged co-conspirator in Tumbler Ridge shooting has trial delayed until December 2027</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-co-conspirator-trial-delayed-9.7428544?cmp=rss</link>
+      <guid isPermaLink="false">9.7428544</guid>
+      <pubDate>Thu, 19 Nov 2026 20:08:37 GMT</pubDate>
+      <author>Andrew Kurjata, Caroline Barghout</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/33c9c3a6-5329-43ea-b789-d8bf2550ecc4,1795118268242/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C474%2C4032%2C2268%29%3B</story_image>
+      <description>The trial for alleged Tumbler Ridge shooting co-conspirator Melody Bryant has been delayed from next month to December 2027 after she waived her right to a speedy trial and requested more time to review the discovery materials.</description>
+    </item>
+    <item>
+      <title>Canada Energy Regulator issues monetary penalties to Westcoast Energy GP Inc. and Ogilvie Mountain Holdings LP</title>
+      <link>https://www.canada.ca/en/canada-energy-regulator/news/2026/11/canada-energy-regulator-issues-monetary-penalties-to-westcoast-energy-gp-inc-and-ogilvie-mountain-holdings-lp.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/canada-energy-regulator/news/2026/11/canada-energy-regulator-issues-monetary-penalties-to-westcoast-energy-gp-inc-and-ogilvie-mountain-holdings-lp.html</guid>
+      <pubDate>Thu, 19 Nov 2026 19:57:56 GMT</pubDate>
+      <author>Canada Energy Regulator</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Canada Energy Regulator (CER) issued Administrative Monetary Penalties (AMP) of $52,000 to Westcoast Energy GP Inc. (Westcoast) and $3,750 to Ogilvie Mountain Holdings LP (OMH). Westcoast and OMH have paid the penalties in full. The Notices of Violation are now available on our website.</description>
+    </item>
+    <item>
+      <title>With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine</title>
+      <link>https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss</link>
+      <guid isPermaLink="false">9.7428573</guid>
+      <pubDate>Thu, 19 Nov 2026 19:33:17 GMT</pubDate>
+      <author>John Paul Tasker</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B</story_image>
+      <description>Prime Minister Mark Carney condemned Russia's war with Ukraine while President Vladimir Putin, the man prosecuting that war, was in the room for leaders' speeches at the APEC summit in China.</description>
+    </item>
+    <item>
+      <title>Ministers Miller and Solomon announce members of the Advisory Council on Artificial Intelligence and Culture</title>
+      <link>https://www.canada.ca/en/canadian-heritage/news/2026/11/ministers-miller-and-solomon-announce-members-of-the-advisory-council-on-artificial-intelligence-and-culture.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/canadian-heritage/news/2026/11/ministers-miller-and-solomon-announce-members-of-the-advisory-council-on-artificial-intelligence-and-culture.html</guid>
+      <pubDate>Thu, 19 Nov 2026 19:32:13 GMT</pubDate>
+      <author>Canadian Heritage</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Council will help government and the creative sector navigate the rapid changes driven by artificial intelligence.</description>
+    </item>
+    <item>
+      <title>Petition asks Netflix to cancel The Body for 'blasphemous' and 'anti-Christian' content</title>
+      <link>https://www.cbc.ca/news/entertainment/the-body-petition-netflix-9.7428453?cmp=rss</link>
+      <guid isPermaLink="false">9.7428453</guid>
+      <pubDate>Thu, 19 Nov 2026 19:30:00 GMT</pubDate>
+      <author>Philip Drost</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/a3b14caf-cb6a-43bf-9653-9ba847e4dbe3,1795111936139/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C76%2C3600%2C2025%29%3B</story_image>
+      <description>The new Netflix show The Body is garnering backlash for being "blasphemous" and "anti-Christian," with over 110,000 people signing a petition asking Netflix to cancel the show. The Body, which released on the streaming platform on Nov. 11, is a coming-of-age drama by writer, actor and director Quinn...</description>
+    </item>
+    <item>
+      <title>Assault of an inmate at Mountain Institution</title>
+      <link>https://www.canada.ca/en/correctional-service/news/2026/11/assault-of-an-inmate-at-mountain-institution.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/correctional-service/news/2026/11/assault-of-an-inmate-at-mountain-institution.html</guid>
+      <pubDate>Thu, 19 Nov 2026 19:29:14 GMT</pubDate>
+      <author>Correctional Service Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>On November 14, 2026, an inmate was the victim of an assault at Mountain Institution, a medium-security federal institution.</description>
+    </item>
+    <item>
+      <title>Minister McGuinty participates in the Coalition of the Willing</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-participates-in-the-coalition-of-the-willing.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-participates-in-the-coalition-of-the-willing.html</guid>
+      <pubDate>Thu, 19 Nov 2026 19:27:40 GMT</pubDate>
+      <author>National Defence</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Today, on behalf of Prime Minister Mark Carney, the Honourable David J. McGuinty, Minister of National Defence, participated in the meeting of the Coalition of the Willing...</description>
+    </item>
+    <item>
+      <title>Canada seeking interim trade arrangement with U.S. by end of year: sources</title>
+      <link>https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540?cmp=rss</link>
+      <guid isPermaLink="false">9.7428626</guid>
+      <pubDate>Thu, 19 Nov 2026 19:24:03 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/16d3b3d3-9946-4196-9946-fa4fdde33cd3,1795114459825/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7526%2C4233%29%3B</story_image>
+      <description />
+    </item>
+    <item>
+      <title>Ubisoft cuts 166 jobs at Montreal and Quebec City video game studios</title>
+      <link>https://www.cbc.ca/news/business/ubisoft-layoffs-166-montreal-quebec-city-9.7428473?cmp=rss</link>
+      <guid isPermaLink="false">9.7428473</guid>
+      <pubDate>Thu, 19 Nov 2026 19:04:08 GMT</pubDate>
+      <author>Abby Hughes</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/ca552ad8-2840-4809-8abb-f017e108440f,1795112282135/full/max/0/default.jpg?im=Crop%2Crect%3D%281874%2C0%2C2682%2C1508%29%3B</story_image>
+      <description>Ubisoft's head of public relations told Radio-Canada that the cuts impacted production teams as well as some workers who support production. The cuts aren't the first this year for Ubisoft's Canadian workforce — nor for the broader video game industry.</description>
+    </item>
+    <item>
+      <title>Feds open consultation period on proposed changes that may put migratory birds at risk</title>
+      <link>https://www.aptnnews.ca/national-news/feds-open-comment-period-on-proposed-changes-that-may-put-birds-at-risk/</link>
+      <guid isPermaLink="false">https://www.aptnnews.ca/?p=298113</guid>
+      <pubDate>Thu, 19 Nov 2026 18:56:50 GMT</pubDate>
+      <author>Emma Honeybun</author>
+      <source_id>aptn_news</source_id>
+      <source_name>APTN News</source_name>
+      <source_icon>https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/APTN_Colour-300x300.svg/1920px-APTN_Colour-300x300.svg.png</source_icon>
+      <story_image fallback="1">https://www.aptnnews.ca/wp-content/themes/aptnnews/images/1200x600-news-metadata.png</story_image>
+      <description>The federal government is asking for public feedback on amendments some say will relax laws...
+The post Feds open consultation period on proposed changes that may put migratory birds at risk appeared first on APTN News.</description>
+    </item>
+    <item>
+      <title>Advisory Committee on Canada-U.S. Economic Relations meets to discuss trade priorities and support for Canadian businesses</title>
+      <link>https://www.canada.ca/en/global-affairs/news/2026/11/advisory-committee-on-canada-us-economic-relations-meets-to-discuss-trade-priorities-and-support-for-canadian-businesses.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/global-affairs/news/2026/11/advisory-committee-on-canada-us-economic-relations-meets-to-discuss-trade-priorities-and-support-for-canadian-businesses.html</guid>
+      <pubDate>Thu, 19 Nov 2026 18:43:10 GMT</pubDate>
+      <author>Global Affairs Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Today, the Honourable Dominic LeBlanc, President of the King's Privy Council for Canada and Minister responsible for Canada-U.S. Trade, Intergovernmental Affairs, Internal Trade and One Canadian Economy, chaired the Advisory Committee on Canada-U.S. Economic Relations, along with Chief Trade Negotia...</description>
+    </item>
+    <item>
+      <title>Parole Board of Canada launches Service Portal for record suspension applicants</title>
+      <link>https://www.canada.ca/en/parole-board/news/2026/11/parole-board-of-canada-launches-service-portal-for-record-suspension-applicants.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/parole-board/news/2026/11/parole-board-of-canada-launches-service-portal-for-record-suspension-applicants.html</guid>
+      <pubDate>Thu, 19 Nov 2026 18:42:39 GMT</pubDate>
+      <author>Parole Board of Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Parole Board of Canada (PBC) has launched the PBC Service Portal, a secure online platform that allows applicants and their designated representatives to submit record suspension (pardon) and cannabis record suspension applications.</description>
+    </item>
+    <item>
+      <title>Danielle Smith’s Plan to Bring Musk’s DOGE to Alberta</title>
+      <link>https://thetyee.ca/Opinion/2026/11/19/Danielle-Smith-Plan-Elon-Musk-DOGE-Alberta/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Opinion/2026/11/19/Danielle-Smith-Plan-Elon-Musk-DOGE-Alberta/</guid>
+      <pubDate>Thu, 19 Nov 2026 18:40:00 GMT</pubDate>
+      <author>David Climenhaga</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Opinion/2026/11/19/ElonMuskChainsaw.jpg</story_image>
+      <description>Premier’s musings reinforce perception of the UCP’s MAGA tendencies.</description>
+    </item>
+    <item>
+      <title>Secretary of State van Koeverden announces strengthened support for Indigenous sport and additional funding for 2028 North American Indigenous Games</title>
+      <link>https://www.canada.ca/en/canadian-heritage/news/2026/11/secretary-of-state-van-koeverden-announces-strengthened-support-for-indigenous-sport-and-additional-funding-for-2028-north-american-indigenous-games.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/canadian-heritage/news/2026/11/secretary-of-state-van-koeverden-announces-strengthened-support-for-indigenous-sport-and-additional-funding-for-2028-north-american-indigenous-games.html</guid>
+      <pubDate>Thu, 19 Nov 2026 18:10:00 GMT</pubDate>
+      <author>Canadian Heritage</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Secretary of State van Koeverden announces new investments to strengthen Indigenous sport and additional funding for the 2028 North American Indigenous Games, ensuring participation opportunities for First Nations, Inuit and Métis</description>
+    </item>
+    <item>
+      <title>Alberta government to revise policy as school boards say new flag regulations could cost millions of dollars</title>
+      <link>https://www.cbc.ca/news/canada/edmonton/alberta-school-flag-regulations-costs-flagpoles-9.7427520?cmp=rss</link>
+      <guid isPermaLink="false">9.7427520</guid>
+      <pubDate>Thu, 19 Nov 2026 18:01:50 GMT</pubDate>
+      <author>Janet French</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/85bb170b-7711-435f-a768-f394f39f2cb6,1795063416727/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C77%2C2268%2C1275%29%3B</story_image>
+      <description>Alberta’s education and childcare minister says he will change an incoming school flags regulation that has school divisions collectively preparing to spend millions of dollars on hundreds of new outdoor flagpoles.</description>
+    </item>
+    <item>
+      <title>'We could have been dead,' says tenant who escaped Cape Breton building collapse</title>
+      <link>https://www.cbc.ca/news/canada/nova-scotia/tenant-escaped-glace-bay-building-collapse-9.7428215?cmp=rss</link>
+      <guid isPermaLink="false">9.7428215</guid>
+      <pubDate>Thu, 19 Nov 2026 17:52:17 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/d3319302-d512-4f40-93bd-c31336ee1c1a,1795105184182/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>Viola Baker says she was in bed Wednesday morning when she heard a big bang, and all of a sudden the walls started caving in. She rushed to help rescue her daughter and 15-year-old grandson.</description>
+    </item>
+    <item>
+      <title>Indigenous languages still not given enough space, resources, say leaders at Quebec forum</title>
+      <link>https://www.cbc.ca/news/canada/montreal/quebec-indigenous-languages-forum-schools-revitalization-language-rights-9.7427835?cmp=rss</link>
+      <guid isPermaLink="false">9.7427835</guid>
+      <pubDate>Thu, 19 Nov 2026 17:41:29 GMT</pubDate>
+      <author>Hayley Carolan, Sarah-Kate Dallaire</author>
+      <source_id>cbc_indigenous</source_id>
+      <source_name>CBC | Indigenous</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/67e7fa30-86fb-450d-87a8-5d62ad82045c,1770380310248/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B</story_image>
+      <description>Indigenous leaders were in Quebec City Wednesday to talk Indigenous language rights and revitalisation.</description>
+    </item>
+    <item>
+      <title>Anthropic stock soars by double-digits, a 'big near-term win' for a 'very nervous' AI sector</title>
+      <link>https://www.cbc.ca/news/business/anthropic-first-day-trading-9.7428367?cmp=rss</link>
+      <guid isPermaLink="false">9.7428367</guid>
+      <pubDate>Thu, 19 Nov 2026 17:37:14 GMT</pubDate>
+      <author>Jeff Lagerquist</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/c40bb9fb-692d-4d72-8fc2-bc88a8873d67,1795121319517/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B</story_image>
+      <description>Shares of Anthropic rose on their first day of trading, as investors weighted AI enthusiasm against a massive valuation and uncertain path to profitability.</description>
+    </item>
+    <item>
+      <title>Alberta bill would ban some bike lanes, let transportation minister remove others</title>
+      <link>https://www.cbc.ca/news/canada/edmonton/alberta-bill-43-bike-lanes-9.7428365?cmp=rss</link>
+      <guid isPermaLink="false">9.7428365</guid>
+      <pubDate>Thu, 19 Nov 2026 17:27:11 GMT</pubDate>
+      <author>Madeleine Cummings</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/461cf8b7-e08c-475f-a26f-7d4534ba96b2,1795109136935/full/max/0/default.jpg?im=Crop%2Crect%3D%2834%2C6%2C517%2C290%29%3B</story_image>
+      <description>Alberta’s government is proposing to ban future bike lanes that remove or restrict motor-vehicle traffic and give itself the power to remove some existing bike lanes.</description>
+    </item>
+    <item>
+      <title>Liberals won't pull advance requests out of MAID legislation for separate vote: minister</title>
+      <link>https://www.cbc.ca/news/politics/sean-fraser-maid-advance-requests-9.7428208?cmp=rss</link>
+      <guid isPermaLink="false">9.7428208</guid>
+      <pubDate>Thu, 19 Nov 2026 17:08:37 GMT</pubDate>
+      <author>Peter Zimonjic</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/89559731-1d56-438c-8917-efc8e894708e,1795104742715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B</story_image>
+      <description>The Liberal government will not pull advance directives out of its update to medically assisted dying legislation so MPs can vote on the measure separately, Justice Minister Sean Fraser told a committee of MPs on Thursday.</description>
+    </item>
+    <item>
+      <title>Minister Joly to announce investment to expand Canada’s automobile industry</title>
+      <link>https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-to-announce-investment-to-expand-canadas-automobile-industry.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-to-announce-investment-to-expand-canadas-automobile-industry.html</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:04 GMT</pubDate>
+      <author>Innovation, Science and Economic Development Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, will announce new funding to support auto manufacturing in Oakville, Ontario.</description>
+    </item>
+    <item>
+      <title>Myanmar committed genocide against Rohingya ethnic minority, International Court of Justice rules</title>
+      <link>https://www.cbc.ca/news/world/hague-icj-court-myanmar-rohingya-ruling-9.7427764?cmp=rss</link>
+      <guid isPermaLink="false">9.7428232</guid>
+      <pubDate>Thu, 19 Nov 2026 16:22:16 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/fc0a7693-6925-42e7-ad0f-c90c0349baf1,1795104733311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C423%2C8130%2C4573%29%3B</story_image>
+      <description />
+    </item>
+    <item>
+      <title>Man believed to be top Bishnoi gang lieutenant wanted in 2023 Winnipeg killing</title>
+      <link>https://www.cbc.ca/news/canada/manitoba/winnipeg-satinderjeet-singh-wanted-murder-sukhdool-singh-gill-9.7428186?cmp=rss</link>
+      <guid isPermaLink="false">9.7428186</guid>
+      <pubDate>Thu, 19 Nov 2026 16:14:11 GMT</pubDate>
+      <author>Lauren Scott</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/5af46843-bb83-45b1-93e3-0b5af568a863,1795113895620/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C385%2C216%29%3B</story_image>
+      <description>Satinderjeet Singh, who is commonly known as Goldy Brar and is believed to be a top lieutenant in the international Bishnoi crime gang, is now wanted in the 2023 killing of a Winnipeg man, police say.</description>
+    </item>
+    <item>
+      <title>Top court won’t hear bid for class-action lawsuit on behalf of Indigenous children</title>
+      <link>https://www.aptnnews.ca/national-news/top-court-wont-hear-bid-for-class-action-lawsuit-on-behalf-of-indigenous-children/</link>
+      <guid isPermaLink="false">https://www.aptnnews.ca/?p=298107</guid>
+      <pubDate>Thu, 19 Nov 2026 16:08:26 GMT</pubDate>
+      <author>The Canadian Press</author>
+      <source_id>aptn_news</source_id>
+      <source_name>APTN News</source_name>
+      <source_icon>https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/APTN_Colour-300x300.svg/1920px-APTN_Colour-300x300.svg.png</source_icon>
+      <story_image fallback="1">https://www.aptnnews.ca/wp-content/themes/aptnnews/images/1200x600-news-metadata.png</story_image>
+      <description>The Supreme of Court of Canada will not hear a bid to certify a class-action...
+The post Top court won’t hear bid for class-action lawsuit on behalf of Indigenous children appeared first on APTN News.</description>
+    </item>
+    <item>
+      <title>Pirutsiagutiit to replace Inuit Child First Initiative</title>
+      <link>https://itk.ca/pirutsiagutiit-to-replace-inuit-child-first-initiative/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pirutsiagutiit-to-replace-inuit-child-first-initiative</link>
+      <guid isPermaLink="false">https://itk.ca/?p=44299</guid>
+      <pubDate>Thu, 19 Nov 2026 15:32:28 GMT</pubDate>
+      <author>Sarah Rogers</author>
+      <source_id>itk</source_id>
+      <source_name>ITK | Inuit Tapiriit Kanatami</source_name>
+      <source_icon>https://itk.ca/wp-content/uploads/2021/04/cropped-site-icon-1-32x32.png</source_icon>
+      <story_image fallback="1">https://itk.ca/wp-content/uploads/2017/09/inuit-nunangat-map.png</story_image>
+      <description>“The real measure of success will be the difference this program makes in the lives of Inuit children and families,” said ITK President Natan Obed.
+The post Pirutsiagutiit to replace Inuit Child First Initiative appeared first on Inuit Tapiriit Kanatami.</description>
+    </item>
+    <item>
+      <title>The Canadian Coast Guard extends emergency towing vessel contract on the West Coast</title>
+      <link>https://www.canada.ca/en/canadian-coast-guard/news/2026/11/the-canadian-coast-guard-extends-emergency-towing-vessel-contract-on-the-west-coast.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/canadian-coast-guard/news/2026/11/the-canadian-coast-guard-extends-emergency-towing-vessel-contract-on-the-west-coast.html</guid>
+      <pubDate>Thu, 19 Nov 2026 15:06:57 GMT</pubDate>
+      <author>Canadian Coast Guard</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Canadian Coast Guard (CCG) is extending the contract for two emergency towing vessels operating off the coast of British Columbia, strengthening marine safety and emergency response capacity on Canada’s West Coast.</description>
+    </item>
+    <item>
+      <title>Government of Canada establishes national standing offers for Canadian carbon dioxide removal credits</title>
+      <link>https://www.canada.ca/en/treasury-board-secretariat/news/2026/11/government-of-canada-establishes-national-standing-offers-for-canadian-carbon-dioxide-removal-credits.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/treasury-board-secretariat/news/2026/11/government-of-canada-establishes-national-standing-offers-for-canadian-carbon-dioxide-removal-credits.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:35:37 GMT</pubDate>
+      <author>Treasury Board of Canada Secretariat</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Government of Canada establishes national standing offers for Canadian carbon dioxide removal credits</description>
+    </item>
+    <item>
+      <title>KPMG Canada client documents accessed in cybersecurity breach, accounting firm says</title>
+      <link>https://www.cbc.ca/news/business/kpmg-cybersecurity-breach-9.7427838?cmp=rss</link>
+      <guid isPermaLink="false">9.7427838</guid>
+      <pubDate>Thu, 19 Nov 2026 14:34:37 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/b4aca990-af02-4f7a-a324-a348d6cfb8f8,1795097628082/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3B</story_image>
+      <description>KPMG did not provide details about the breach, including the scope or nature of the attack. But a spokesperson says the company is confident that the accessed data is not available online, or being misused for any purpose.</description>
+    </item>
+    <item>
+      <title>National standing offers for carbon dioxide removal credits</title>
+      <link>https://www.canada.ca/en/treasury-board-secretariat/news/2026/11/national-standing-offers-for-carbon-dioxide-removal-credits.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/treasury-board-secretariat/news/2026/11/national-standing-offers-for-carbon-dioxide-removal-credits.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:32:12 GMT</pubDate>
+      <author>Treasury Board of Canada Secretariat</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>National standing offers for carbon dioxide removal credits</description>
+    </item>
+    <item>
+      <title>Government of Canada to study how to strengthen the Divorce Act in response to family violence</title>
+      <link>https://www.canada.ca/en/department-justice/news/2026/11/government-of-canada-to-study-how-to-strengthen-the-divorce-act-in-response-to-family-violence.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/department-justice/news/2026/11/government-of-canada-to-study-how-to-strengthen-the-divorce-act-in-response-to-family-violence.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:05:12 GMT</pubDate>
+      <author>Department of Justice Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Children’s safety, security, and well-being should always be at the heart of the Divorce Act.</description>
+    </item>
+    <item>
+      <title>Minister of Transport, Steven MacKinnon, and Ontario’s Minister of Transportation, Prabmeet Singh Sarkaria, to announce investments to support trade diversification across Canada</title>
+      <link>https://www.canada.ca/en/transport-canada/news/2026/11/minister-of-transport-steven-mackinnon-and-ontarios-minister-of-transportation-prabmeet-singh-sarkaria-to-announce-investments-to-support-trade-div.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/transport-canada/news/2026/11/minister-of-transport-steven-mackinnon-and-ontarios-minister-of-transportation-prabmeet-singh-sarkaria-to-announce-investments-to-support-trade-div.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:01:06 GMT</pubDate>
+      <author>Transport Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Minister of Transport and Leader of the Government in the House of Commons, the Honourable Steven MacKinnon, alongside Ontario Minister of Transportation, the Honourable Prabmeet Singh Sarkaria, will announceinvestments to support trade diversification in Canada.</description>
+    </item>
+    <item>
+      <title>Government of Canada invests to diversify markets and economic opportunities for Canada’s forest sector</title>
+      <link>https://www.canada.ca/en/natural-resources-canada/news/2026/11/government-of-canada-invests-to-diversify-markets-and-economic-opportunities-for-canadas-forest-sector.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/natural-resources-canada/news/2026/11/government-of-canada-invests-to-diversify-markets-and-economic-opportunities-for-canadas-forest-sector.html</guid>
+      <pubDate>Thu, 19 Nov 2026 13:30:00 GMT</pubDate>
+      <author>Natural Resources Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>On November 19, 2026, at the Scaling Up conference, Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, announced $2.2 million for Ecostrat’s Canada Forest Innovation and Renewable Markets (FIRM) Challenge.</description>
+    </item>
+    <item>
+      <title>Invitation to media – MP Alexandra Mendès to announce Government of Canada support for Brossard SME</title>
+      <link>https://www.canada.ca/en/economic-development-quebec-regions/news/2026/11/invitation-to-media--mp-alexandra-mendes-to-announce-government-of-canada-support-for-brossard-sme.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/economic-development-quebec-regions/news/2026/11/invitation-to-media--mp-alexandra-mendes-to-announce-government-of-canada-support-for-brossard-sme.html</guid>
+      <pubDate>Thu, 19 Nov 2026 12:58:00 GMT</pubDate>
+      <author>Canada Economic Development for Quebec Regions</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Media representatives are invited to tour a business specializing in the design and marketing of perfumed products for the home and daily life, along with Alexandra Mendès, Member of Parliament for Brossard–Saint-Lambert.</description>
+    </item>
+    <item>
+      <title>Surrey, B.C.'s newest crime fighter has a nose for finding hidden electronic devices</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/surrey-police-dog-9.7427367?cmp=rss</link>
+      <guid isPermaLink="false">9.7427367</guid>
+      <pubDate>Thu, 19 Nov 2026 11:00:00 GMT</pubDate>
+      <author>Karin Larsen</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/06b03b23-5b5d-461e-bc60-8dcbaf15ce16,1795045451826/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C620%2C348%29%3B</story_image>
+      <description>Nyx, a rookie in the Surrey Police Service's cybercrime unit, is a two-year-old female Labrador retriever specially trained in sniffing out electronic device</description>
+    </item>
+    <item>
+      <title>Xi, Putin and Trump walked into a room. But it was Russia’s autocrat who came out the biggest winner</title>
       <link>https://www.cbc.ca/news/world/trump-xi-putin-historic-meeting-9.7427718?cmp=rss</link>
       <guid isPermaLink="false">9.7427730</guid>
       <pubDate>Thu, 19 Nov 2026 10:25:01 GMT</pubDate>
@@ -16,8 +439,8 @@
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/00867b0d-2b07-4035-8e6a-f5591803d19a,1795081108142/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C398%2C6358%2C3576%29%3B</story_image>
-      <description />
+      <story_image>https://i.cbc.ca/ais/657c90de-1895-4a5a-badc-4d2e8e1d4dfa,1795113493413/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C4381%2C2464%29%3B</story_image>
+      <description>EDITED [title] </description>
     </item>
     <item>
       <title>South Korea's top court overturns charges against ex-prime minister for his role in martial law</title>
@@ -90,6 +513,18 @@
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/f9268c9c-dafa-421f-814d-ce9d8ddb3416,1795037074704/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1034%2C5712%2C3213%29%3B</story_image>
       <description>Gaspé residents who have been waiting for the return of passenger train service since 2011 hope new federal investments and commitments from VIA Rail will lead to full service resumption down the line.</description>
+    </item>
+    <item>
+      <title>Here's how to spot the International Space Station — and give Canadian astronaut Joshua Kutryk a wave</title>
+      <link>https://www.cbc.ca/news/science/iss-joshua-kutryk-view-9.7426844?cmp=rss</link>
+      <guid isPermaLink="false">9.7426844</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Nicole Mortillaro</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/b890e3aa-caab-43a1-bf3c-98ef683e236a,1770999652304/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C290%2C5568%2C3132%29%3B</story_image>
+      <description>For the next few weeks — if you have clear skies — you can watch the International Space Station fly overhead in the evenings. If you see it, you could maybe give a little wave to Canadian Space Agency astronaut Joshua Kutryk as he whizzes by at 7.66 kilometres a second.</description>
     </item>
     <item>
       <title>Do Your Old Wetsuit a Favour. Recycle It</title>
@@ -246,6 +681,18 @@
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/339a1083-3dd5-4094-a666-ee13aeff54eb,1795033450352/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C782%2C2940%2C1653%29%3B</story_image>
       <description>Mia Latter has decided to waive her legal right to anonymity and speak publicly about her teenage relationship with disgraced actor Russell Brand. She's calling for changes to the U.K.'s age-of-consent laws.</description>
+    </item>
+    <item>
+      <title>Grand Theft Auto VI is a love story. No to hiring sex workers, yes to buying your girlfriend flowers</title>
+      <link>https://www.cbc.ca/news/entertainment/grand-theft-auto-6-sex-workers-relationship-9.7428220?cmp=rss</link>
+      <guid isPermaLink="false">9.7427242</guid>
+      <pubDate>Wed, 18 Nov 2026 22:04:23 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/864d336e-02e7-4333-9bca-492d207f7418,1795107928114/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B</story_image>
+      <description />
     </item>
     <item>
       <title>Gitxsan hereditary chiefs call for halt to rail cargo as diesel leaks from train derailment along river in B.C.</title>
