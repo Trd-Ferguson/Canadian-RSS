@@ -5,8 +5,20 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:53:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 20:37:42 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etsy faces backlash over including AI model training in new policy update</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/etsy-ai-model-training-backlash-9.7431142?cmp=rss</link>
+      <guid isPermaLink="false">9.7431142</guid>
+      <pubDate>Sat, 21 Nov 2026 19:30:46 GMT</pubDate>
+      <author>Arden McLeod</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/a45acf27-0545-43c5-8988-078833aed0d6,1795288309177/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C187%2C2000%2C1125%29%3B</story_image>
+      <description>Some Etsy sellers across Canada are removing products from the platform amid criticism for introducing AI model training as part of a policy change.</description>
+    </item>
     <item>
       <title>Canada Gazette - Part I, November 21, 2026, volume 160, number 47</title>
       <link>https://gazette.gc.ca/rp-pr/p1/2026/2026-11-21/html/index-eng.html</link>
@@ -18,6 +30,150 @@
       <source_icon>https://gazette.gc.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://www.canada.ca/content/dam/pspc-spac/images/services/infrastructure-buildings/parliamentary-precinct/bblthq-lbrry5.jpg</story_image>
       <description>The Canada Gazette, Part I, consists of a weekly issue, published every Saturday; a quarterly index, published every three months; and extra editions, published only when required under special circumstances or by legal requirements on any other day than Saturday....</description>
+    </item>
+    <item>
+      <title>Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust</title>
+      <link>https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306?cmp=rss</link>
+      <guid isPermaLink="false">9.7431306</guid>
+      <pubDate>Sat, 21 Nov 2026 17:34:01 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/1.5469573,1688819038000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1053%2C592%29%3B</story_image>
+      <description>The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office, the DPCP, issued a warrant.</description>
+    </item>
+    <item>
+      <title>McGuinty Says ‘It’s Business As Usual’ With U.S. Despite Hegseth Memo</title>
+      <link>https://www.readthemaple.com/mcguinty-says-its-business-as-usual-with-u-s-despite-hegseth-memo/</link>
+      <guid isPermaLink="false">6b01cccda11d8100015afea0</guid>
+      <pubDate>Sat, 21 Nov 2026 17:07:59 GMT</pubDate>
+      <author>Alex Cosh</author>
+      <source_id>the_maple</source_id>
+      <source_name>The Maple</source_name>
+      <source_icon>https://www.readthemaple.com/favicon.ico</source_icon>
+      <story_image>https://storage.ghost.io/c/09/c4/09c4d01a-bbb3-47cd-86e0-7333b3184673/content/images/2026/11/IMG_3169.jpg</story_image>
+      <description>“Canadian-American cooperation on defence, security, and intelligence continues.”</description>
+    </item>
+    <item>
+      <title>11 killed in burst of violence in northern Mexico after capture of cartel leader</title>
+      <link>https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss</link>
+      <guid isPermaLink="false">9.7431280</guid>
+      <pubDate>Sat, 21 Nov 2026 16:32:44 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/eff18bc4-d33a-434f-a6db-2f5c18f6a7be,1795290611746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C479%2C6499%2C3655%29%3B</story_image>
+      <description>A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, left at least 11 people dead, authorities said Saturday.</description>
+    </item>
+    <item>
+      <title>Inside Lorne Doerkson’s Trimmed-Down BC Cabinet</title>
+      <link>https://thetyee.ca/News/2026/11/21/Lorne-Doerkson-Trimmed-Down-BC-Cabinet/</link>
+      <guid isPermaLink="false">https://thetyee.ca/News/2026/11/21/Lorne-Doerkson-Trimmed-Down-BC-Cabinet/</guid>
+      <pubDate>Sat, 21 Nov 2026 16:30:00 GMT</pubDate>
+      <author>Andrew MacLeod</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/News/2026/11/21/LorneDoerksonCabinet.jpg</story_image>
+      <description>Experienced hands, rookie ministers and the disappearance of dedicated climate and housing ministries.</description>
+    </item>
+    <item>
+      <title>UPDATE – Saturday, November 21, 2026</title>
+      <link>https://www.pm.gc.ca/en/news/media-advisories/2026/11/21/update-saturday-november-21-2026</link>
+      <guid isPermaLink="false">https://www.pm.gc.ca/en/news/media-advisories/2026/11/21/update-saturday-november-21-2026</guid>
+      <pubDate>Sat, 21 Nov 2026 16:30:00 GMT</pubDate>
+      <author>PMO | Prime Minister of Canada</author>
+      <source_id>prime_minister_news</source_id>
+      <source_name>Prime Minister of Canada</source_name>
+      <source_icon>https://www.pm.gc.ca/themes/pm_theme/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.pm.gc.ca/sites/pm/files/media/icons/fb.jpg</story_image>
+      <description>Note: All times localNational Capital Region, Canada9:10 p.m. The Prime Minister will attend the annual Parliamentary Press Gallery Dinner.Note for media:Pooled coverage</description>
+    </item>
+    <item>
+      <title>Canada to Join the NATO Innovation Fund</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/11/canada-to-join-the-nato-innovation-fund.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/department-national-defence/news/2026/11/canada-to-join-the-nato-innovation-fund.html</guid>
+      <pubDate>Sat, 21 Nov 2026 15:54:26 GMT</pubDate>
+      <author>National Defence</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Today, the Minister of National Defence, the Honourable David J. McGuinty, announced that Canada has concluded negotiations and formally joined the North Atlantic Treaty Organization (NATO) Innovation Fund (NIF), becoming the 25th NATO Ally, and the first in North America to join.</description>
+    </item>
+    <item>
+      <title>Statement by Prime Minister Carney on the 30th anniversary of the final report of the Royal Commission on Aboriginal Peoples</title>
+      <link>https://www.pm.gc.ca/en/news/statements/2026/11/21/statement-prime-minister-carney-30th-anniversary-final-report-royal</link>
+      <guid isPermaLink="false">https://www.pm.gc.ca/en/news/statements/2026/11/21/statement-prime-minister-carney-30th-anniversary-final-report-royal</guid>
+      <pubDate>Sat, 21 Nov 2026 14:00:00 GMT</pubDate>
+      <author>PMO | Prime Minister of Canada</author>
+      <source_id>prime_minister_news</source_id>
+      <source_name>Prime Minister of Canada</source_name>
+      <source_icon>https://www.pm.gc.ca/themes/pm_theme/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.pm.gc.ca/sites/pm/files/media/icons/fb.jpg</story_image>
+      <description>“Thirty years ago, the Royal Commission on Aboriginal Peoples (RCAP) released its landmark final report – a roadmap for repairing the relationship between Indigenous Peoples and Canada. After visiting Indigenous communities across the country and hearing from more than 2,000 individuals through publ...</description>
+    </item>
+    <item>
+      <title>Keeping the light on at Sandy Point</title>
+      <link>https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/11/keeping-the-light-on-at-sandy-point.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/11/keeping-the-light-on-at-sandy-point.html</guid>
+      <pubDate>Sat, 21 Nov 2026 13:30:57 GMT</pubDate>
+      <author>Atlantic Canada Opportunities Agency</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Federal investment helps a Shelburne County landmark withstand rising seas and harsh winters while welcoming more visitors year-round</description>
+    </item>
+    <item>
+      <title>Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60</title>
+      <link>https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss</link>
+      <guid isPermaLink="false">9.7431164</guid>
+      <pubDate>Sat, 21 Nov 2026 13:26:36 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/1dd60a20-59ca-4d7a-a8db-a8328b0c7f58,1795284604232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C7%2C1280%2C720%29%3B</story_image>
+      <description>A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday.</description>
+    </item>
+    <item>
+      <title>A real '3 Body Problem': Astronomers discover a nearby 'weirdo' triple-star system</title>
+      <link>https://www.cbc.ca/news/science/triple-star-system-9.7430178?cmp=rss</link>
+      <guid isPermaLink="false">9.7430178</guid>
+      <pubDate>Sat, 21 Nov 2026 13:00:00 GMT</pubDate>
+      <author>Nicole Mortillaro</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/02a52c4b-ba50-47ba-8095-e05099c6dd79,1795217241075/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B</story_image>
+      <description>An international team of astronomers led by the University of Montreal has found a nearby triple-star system, much like the one in the Netflix show 3 Body Problem. But this one seems to be… a little odd.</description>
+    </item>
+    <item>
+      <title>'We are sorry': Rocks found in restaurant burritos in Alberta</title>
+      <link>https://www.cbc.ca/news/canada/calgary/calgary-barburrito-rocks-burritos-apology-9.7430598?cmp=rss</link>
+      <guid isPermaLink="false">9.7430598</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+      <author>Bryan Labby</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/8efbf840-ff34-42b6-9e1b-e19c42e072ef,1795211010014/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>BarBurrito issued an apology to its customers after pea-sized stones were found in some of its burritos at restaurants in Alberta. The company says the rocks came from a particular brand of beans that it is no longer using.</description>
+    </item>
+    <item>
+      <title>Woman's airport security ordeal with dad's ashes highlights challenges of travelling with cremated remains</title>
+      <link>https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785?cmp=rss</link>
+      <guid isPermaLink="false">9.7426785</guid>
+      <pubDate>Sat, 21 Nov 2026 11:00:00 GMT</pubDate>
+      <author>Lauren Scott</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/93348ee1-d41c-4aa3-96ec-8636d5558a67,1795190063830/full/max/0/default.jpg?im=Crop%2Crect%3D%28408%2C256%2C769%2C432%29%3B</story_image>
+      <description>Rules around transporting creamated remains through airports and challenges with new scanners can add "another layer of grief" to an already stressful time, says the head of the Funeral Service Association of Canada.</description>
     </item>
     <item>
       <title>Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen</title>
@@ -32,7 +188,7 @@
       <description>William (Billy) Hall was just 16 when he moved from North Sydney, N.S., to Ontario in late 1966 seeking better economic opportunities, as many of his siblings had before him. Within less than a year, he was murdered. A retired Ontario lawyer is now trying to find the lead that breaks the case.</description>
     </item>
     <item>
-      <title>Should AI be your personal assistant? Here's what you need to know</title>
+      <title>The pros, cons and risks of using AI as your personal assistant</title>
       <link>https://www.cbc.ca/news/business/ai-personal-assistants-muse-dots-claude-duet-risks-9.7427574?cmp=rss</link>
       <guid isPermaLink="false">9.7431149</guid>
       <pubDate>Sat, 21 Nov 2026 09:01:11 GMT</pubDate>
@@ -41,7 +197,7 @@
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/da88bf56-521e-4986-b56e-02a8388db515,1795048789463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3B</story_image>
-      <description />
+      <description>EDITED [title] </description>
     </item>
     <item>
       <title>A Canadian study pinned a baby's death on codeine passed through breast milk. 20 years on, it's been retracted</title>
@@ -92,7 +248,7 @@
       <description>Canadian Survivor contestant Daniel Kilby lost many of his personal belongings earlier this year, including a painting of a "cheetah dressed as a general," his PlayStation 5 and many household appliances, after missed payments on a storage locker while he was on the show led to his belongings being ...</description>
     </item>
     <item>
-      <title>Quebec's popular PEQ program is closed — again. People counting on it want answers</title>
+      <title>A popular Quebec immigration program is closed — again. People who count on it want answers</title>
       <link>https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661?cmp=rss</link>
       <guid isPermaLink="false">9.7424661</guid>
       <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
@@ -101,7 +257,43 @@
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/06cdef88-8393-46f6-9bdc-bbee566b345e,1794897774025/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C756%2C4032%2C2268%29%3B</story_image>
-      <description>The popular immigration pathway known as the PEQ was temporarily revived earlier this year. The first period for applications was open between July 2 and Oct. 31, and it's not clear when the Quebec government will open a second window for applicants.</description>
+      <description>EDITED [title] The popular immigration pathway known as the PEQ was temporarily revived earlier this year. The first period for applications was open between July 2 and Oct. 31, and it's not clear when the Quebec government will open a second window for applicants.</description>
+    </item>
+    <item>
+      <title>Israeli settler violence at unprecedented levels during Palestinian olive harvest</title>
+      <link>https://www.cbc.ca/news/world/israeli-settler-violence-at-unprecedented-levels-during-palestinian-olive-harvest-9.7426808?cmp=rss</link>
+      <guid isPermaLink="false">9.7426808</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Margaret Evans</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e82b0d70-5df5-43ae-90b3-1a5ec18125a8,1795098645771/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C2%2C2000%2C1125%29%3B</story_image>
+      <description>There have been more settler attacks against Palestinians and their property during this year’s olive harvest than in 20 years of record-keeping by the United Nations.</description>
+    </item>
+    <item>
+      <title>Canada's first climate lawsuit to go to trial has wrapped up hearings. Many more are underway</title>
+      <link>https://www.cbc.ca/news/science/climate-lawsuit-emissions-constitution-federal-court-9.7430780?cmp=rss</link>
+      <guid isPermaLink="false">9.7430780</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Inayat Singh</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/3997f406-d4ec-4696-91f3-f88c2fd430ba,1795216363553/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C5890%2C3313%29%3B</story_image>
+      <description>What level of responsibility does the federal government bear for the climate disasters Canadians are suffering? That's the question at the heart of a landmark lawsuit that wrapped up witness testimony in Federal Court in Vancouver on Friday, and whose outcome could have a big influence on how a gro...</description>
+    </item>
+    <item>
+      <title>Canada's sport integrity watchdog introduces rules aimed at match fixing</title>
+      <link>https://www.cbc.ca/sports/a-new-game-plan/sport-integrity-canada-new-rules-competition-manipulation-9.7430464?cmp=rss</link>
+      <guid isPermaLink="false">9.7430464</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Karissa Donkin</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/c0b9bf9d-40c5-4304-9761-6c43c9336e19,1795207164400/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C3240%2C1822%29%3B</story_image>
+      <description>Canada’s sport integrity watchdog has created new rules aimed at discouraging competition manipulation, something its CEO describes as “a serious safety issue” for athletes.</description>
     </item>
     <item>
       <title>Staples Canada says customer data accessed during 'security incident' on print website</title>
@@ -479,7 +671,7 @@ The post « Nous prenons soin les uns des autres. » : témoignages du square Ca
       <description>The federal and Ontario governments are meeting with auto executives from Stellantis on Friday in a last-ditch effort to save thousands of high-paying auto manufacturing jobs at the company's recently closed Brampton plant.</description>
     </item>
     <item>
-      <title>Trump says he's working on a 'fair' trade deal with Canada</title>
+      <title>Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change</title>
       <link>https://www.cbc.ca/news/world/trump-canada-tariffs-trade-news-conference-9.7430092?cmp=rss</link>
       <guid isPermaLink="false">9.7430176</guid>
       <pubDate>Fri, 20 Nov 2026 18:51:14 GMT</pubDate>
@@ -487,7 +679,7 @@ The post « Nous prenons soin les uns des autres. » : témoignages du square Ca
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795204628530/full/max/0/default.jpg?im=Crop%2Crect%3D%28206%2C334%2C5690%2C3200%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/1606f180-fbf6-4633-96ee-a95de9b2e6dd,1795286613144/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C37%2C6959%2C3914%29%3B</story_image>
       <description>EDITED [title] </description>
     </item>
     <item>
