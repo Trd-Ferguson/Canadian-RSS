@@ -5,7 +5,7 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:53:56 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canada Gazette - Part I, November 21, 2026, volume 160, number 47</title>
@@ -18,6 +18,102 @@
       <source_icon>https://gazette.gc.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://www.canada.ca/content/dam/pspc-spac/images/services/infrastructure-buildings/parliamentary-precinct/bblthq-lbrry5.jpg</story_image>
       <description>The Canada Gazette, Part I, consists of a weekly issue, published every Saturday; a quarterly index, published every three months; and extra editions, published only when required under special circumstances or by legal requirements on any other day than Saturday....</description>
+    </item>
+    <item>
+      <title>Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen</title>
+      <link>https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565?cmp=rss</link>
+      <guid isPermaLink="false">9.7420565</guid>
+      <pubDate>Sat, 21 Nov 2026 10:00:00 GMT</pubDate>
+      <author>Richard Woodbury</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/a9472579-f5da-4f78-98a5-af548efd4261,1794584948320/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C1145%2C644%29%3B</story_image>
+      <description>William (Billy) Hall was just 16 when he moved from North Sydney, N.S., to Ontario in late 1966 seeking better economic opportunities, as many of his siblings had before him. Within less than a year, he was murdered. A retired Ontario lawyer is now trying to find the lead that breaks the case.</description>
+    </item>
+    <item>
+      <title>Should AI be your personal assistant? Here's what you need to know</title>
+      <link>https://www.cbc.ca/news/business/ai-personal-assistants-muse-dots-claude-duet-risks-9.7427574?cmp=rss</link>
+      <guid isPermaLink="false">9.7431149</guid>
+      <pubDate>Sat, 21 Nov 2026 09:01:11 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/da88bf56-521e-4986-b56e-02a8388db515,1795048789463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3B</story_image>
+      <description />
+    </item>
+    <item>
+      <title>A Canadian study pinned a baby's death on codeine passed through breast milk. 20 years on, it's been retracted</title>
+      <link>https://www.cbc.ca/news/health/lancet-retraction-motherisk-gideon-koren-study-codeine-breast-milk-9.7430487?cmp=rss</link>
+      <guid isPermaLink="false">9.7430487</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Lauren Pelley</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/1b44b84e-5a4f-4f01-bfd9-5e0261630d33,1795207846354/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C860%2C483%29%3B</story_image>
+      <description>A highly influential yet controversial Canadian study that linked a baby's death to codeine passed through breastmilk — and informed global guidance on breastfeeding and pain management over the last two decades — has been pulled from a leading medical journal, which said omissions in the research a...</description>
+    </item>
+    <item>
+      <title>Elon Musk looks to break up with MAGA. To what end?</title>
+      <link>https://www.cbc.ca/news/world/elon-musk-maga-distance-9.7429741?cmp=rss</link>
+      <guid isPermaLink="false">9.7429741</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Mark Gollom</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/300d1cdc-0ceb-49b5-a2e8-76c5bc74bd47,1795188920144/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B</story_image>
+      <description>Elon Musk has certainly seemed to embrace the Make America Great Again movement. Why does that matter? Because the Tesla and Space X CEO now appears to be distancing himself.</description>
+    </item>
+    <item>
+      <title>Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'</title>
+      <link>https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss</link>
+      <guid isPermaLink="false">9.7425421</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Ashley Burke</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B</story_image>
+      <description>Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it. The navy's commander confirms there isn't a solution ready a year after an internal document shows top officials talked about the need for a short-term fix.</description>
+    </item>
+    <item>
+      <title>How Canadian Survivor contestant Daniel Kilby lost most of his belongings to auction after filming the show</title>
+      <link>https://www.cbc.ca/news/entertainment/survivor-contestant-auction-9.7428869?cmp=rss</link>
+      <guid isPermaLink="false">9.7428869</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Philip Drost</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e1af13ed-159f-4708-be63-ce81f6111c81,1795123761430/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C183%2C3000%2C1687%29%3B</story_image>
+      <description>Canadian Survivor contestant Daniel Kilby lost many of his personal belongings earlier this year, including a painting of a "cheetah dressed as a general," his PlayStation 5 and many household appliances, after missed payments on a storage locker while he was on the show led to his belongings being ...</description>
+    </item>
+    <item>
+      <title>Quebec's popular PEQ program is closed — again. People counting on it want answers</title>
+      <link>https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661?cmp=rss</link>
+      <guid isPermaLink="false">9.7424661</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Antoni Nerestant</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/06cdef88-8393-46f6-9bdc-bbee566b345e,1794897774025/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C756%2C4032%2C2268%29%3B</story_image>
+      <description>The popular immigration pathway known as the PEQ was temporarily revived earlier this year. The first period for applications was open between July 2 and Oct. 31, and it's not clear when the Quebec government will open a second window for applicants.</description>
+    </item>
+    <item>
+      <title>Staples Canada says customer data accessed during 'security incident' on print website</title>
+      <link>https://www.cbc.ca/news/canada/staples-print-website-breach-9.7431120?cmp=rss</link>
+      <guid isPermaLink="false">9.7431120</guid>
+      <pubDate>Sat, 21 Nov 2026 03:58:29 GMT</pubDate>
+      <author>Geoff Nixon</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/8135d6d0-552d-4231-9f9d-28b064c89929,1795232633083/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C665%2C3443%2C1936%29%3B</story_image>
+      <description>Staples Canada says there was a "security incident" on its staplesprint.ca website in early November, which saw a third party get unauthorized access to certain customer data.</description>
     </item>
     <item>
       <title>Saturday, November 21, 2026</title>
@@ -383,7 +479,7 @@ The post « Nous prenons soin les uns des autres. » : témoignages du square Ca
       <description>The federal and Ontario governments are meeting with auto executives from Stellantis on Friday in a last-ditch effort to save thousands of high-paying auto manufacturing jobs at the company's recently closed Brampton plant.</description>
     </item>
     <item>
-      <title>U.S. senator says Canada should make interim tariff agreement, let Congress 'legislate' long-term deal</title>
+      <title>Trump says he's working on a 'fair' trade deal with Canada</title>
       <link>https://www.cbc.ca/news/world/trump-canada-tariffs-trade-news-conference-9.7430092?cmp=rss</link>
       <guid isPermaLink="false">9.7430176</guid>
       <pubDate>Fri, 20 Nov 2026 18:51:14 GMT</pubDate>
@@ -391,7 +487,7 @@ The post « Nous prenons soin les uns des autres. » : témoignages du square Ca
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/5f30a2a2-faf5-484e-a30f-1cf3ef0161c6,1795220525819/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C163%2C4649%2C2615%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795204628530/full/max/0/default.jpg?im=Crop%2Crect%3D%28206%2C334%2C5690%2C3200%29%3B</story_image>
       <description>EDITED [title] </description>
     </item>
     <item>
@@ -827,6 +923,18 @@ The post ‘Hard time sleeping’: inside Canada’s emerging military-AI comple
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B</story_image>
       <description>Emboldened by the results of this month's U.S. midterm elections, giving the Democrats control of Congress in the new year, hundreds of migrants are making their way from southern Mexico to the border with the United States — despite having almost no chance of gaining entry.</description>
+    </item>
+    <item>
+      <title>A Montrealer died in Istanbul. Authorities blame food poisoning but what we found suggests something else</title>
+      <link>https://www.cbc.ca/news/canada/canadian-death-istanbul-9.7427069?cmp=rss</link>
+      <guid isPermaLink="false">9.7427069</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Michelle Gagnon, Jacaudrey Charbonneau, Judith Plamondon</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/d9112600-4d27-405d-ad7c-79e851cfcc87,1795041744935/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>A young Canadian woman travelled to Turkey after graduating from medical school. In her last days there, she fell ill and died within hours. Authorities there blame food poisoning, but a joint investigation by Enquête and the fifth estate revealed 12 similar deaths and a different poison at work.</description>
     </item>
     <item>
       <title>BC’s Biggest Long COVID Clinic Slashes Staff</title>
