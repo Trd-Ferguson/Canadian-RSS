@@ -5,8 +5,80 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:57:41 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>U.S. trade chief sees progress in trade talks but faults Canada for Beijing-friendly moves</title>
+      <link>https://www.cbc.ca/news/world/u-s-trade-chief-canada-trade-talks-9.7432158?cmp=rss</link>
+      <guid isPermaLink="false">9.7432158</guid>
+      <pubDate>Mon, 23 Nov 2026 02:51:08 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/3c017eec-eb38-472d-9560-b29819813be0,1795401723924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C72%2C4753%2C2673%29%3B</story_image>
+      <description>U.S. Trade Representative Jamieson Greer says Washington and Ottawa are making progress toward a trade agreement but that Canada's growing trade relationship with China remains a concern.</description>
+    </item>
+    <item>
+      <title>Carney, opposition leaders trade comedic jabs at press gallery dinner</title>
+      <link>https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss</link>
+      <guid isPermaLink="false">9.7432138</guid>
+      <pubDate>Mon, 23 Nov 2026 01:55:29 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/dcb903a2-c31e-49e4-ac73-0d3859cae4fa,1795398121842/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B</story_image>
+      <description>Two Mark Carneys and a Donald Trump shared the stage at the Parliamentary Press Gallery dinner Saturday, when the prime minister got a little help from This Hour Has 22 Minutes impersonators to give the traditional comedic speech.</description>
+    </item>
+    <item>
+      <title>Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-concludes-halifax-international-security-forum-advancing-canadas-defence-priorities-and-partnerships-with-allies.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-concludes-halifax-international-security-forum-advancing-canadas-defence-priorities-and-partnerships-with-allies.html</guid>
+      <pubDate>Sun, 22 Nov 2026 23:55:20 GMT</pubDate>
+      <author>National Defence</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Today, the Honourable David J. McGuinty, Minister of National Defence, concluded his participation in the 18th annual Halifax International Security Forum (HISF), where he advanced Canada's defence priorities, announced new investments, and strengthened cooperation with Allies and partners</description>
+    </item>
+    <item>
+      <title>U.S. Senators Avoid Question About Israel Lobby’s Influence</title>
+      <link>https://www.readthemaple.com/u-s-senators-avoid-question-about-israel-lobbys-influence/</link>
+      <guid isPermaLink="false">6b031b98a11d8100015dcd19</guid>
+      <pubDate>Sun, 22 Nov 2026 21:00:00 GMT</pubDate>
+      <author>Alex Cosh</author>
+      <source_id>the_maple</source_id>
+      <source_name>The Maple</source_name>
+      <source_icon>https://www.readthemaple.com/favicon.ico</source_icon>
+      <story_image>https://storage.ghost.io/c/09/c4/09c4d01a-bbb3-47cd-86e0-7333b3184673/content/images/2026/11/Screenshot-2026-11-22-at-12.42.49---PM.png</story_image>
+      <description>AIPAC and other pro-Israel groups spent an estimated $84 million on candidates in the recent midterm elections.</description>
+    </item>
+    <item>
+      <title>COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels</title>
+      <link>https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss</link>
+      <guid isPermaLink="false">9.7432025</guid>
+      <pubDate>Sun, 22 Nov 2026 20:53:49 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/39cc9f35-06a7-46fa-8093-0daf82536d00,1795380358915/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description />
+    </item>
+    <item>
+      <title>Pay halted for suspended Vancouver police officer charged with fraud and theft</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/kal-dosanjh-pay-discontinued-9.7431776?cmp=rss</link>
+      <guid isPermaLink="false">9.7431776</guid>
+      <pubDate>Sun, 22 Nov 2026 18:40:48 GMT</pubDate>
+      <author>Simon Little</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/a567898e-370e-42a0-9800-96f2ce5f5d2e,1789160640586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>The Vancouver Police Board has discontinued pay for a high-profile officer accused of fraud and theft.</description>
+    </item>
     <item>
       <title>UN-affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war's impact on wildlife</title>
       <link>https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891?cmp=rss</link>
@@ -54,6 +126,18 @@
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
       <description>November 22 marks National Housing Day. On this day, we recognize the progress made to address the housing challenges facing Canadians. National Housing Day is more than raising awareness – it is a call to action and a time to recognize the incredible Canadians working on the front lines and in the ...</description>
+    </item>
+    <item>
+      <title>A small latte and a chat, please: Why this B.C. café owner put conversation on the menu</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432?cmp=rss</link>
+      <guid isPermaLink="false">9.7424432</guid>
+      <pubDate>Sun, 22 Nov 2026 15:00:00 GMT</pubDate>
+      <author>Courtney Dickson</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/a86b7542-6155-4067-8270-0e810e4dc0a6,1794936567001/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C709%2C1536%2C864%29%3B</story_image>
+      <description>Registered clinical counsellor Shane Trudell estimates one-third of the population suffers from loneliness — but many people aren't aware of it. A New Westminster café hopes to help.</description>
     </item>
     <item>
       <title>Miley Cyrus weds Maxx Morando in California, People magazine reports</title>
@@ -116,6 +200,18 @@
       <description>A group of Nova Scotians now meet weekly to scream their frustrations into the ocean. From grocery prices to global instability, they say there's plenty to motivate them these days.</description>
     </item>
     <item>
+      <title>Was mispronouncing ‘Newfoundland’ the motive for murder?</title>
+      <link>https://www.cbc.ca/player/play/9.7431001?cmp=rss</link>
+      <guid isPermaLink="false">9.7431001</guid>
+      <pubDate>Sun, 22 Nov 2026 09:30:00 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/f71ce721-4963-48d3-9cad-be3a5ad73c7e,1795224196760/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>If you’re from Newfoundland, perhaps you’ve wanted to murder someone over their mangled pronunciation of the place’s name. But it really happened one Friday night in 1876. Author and cultural historian Ainsley Hawthorne tells this tale to die for.</description>
+    </item>
+    <item>
       <title>Quebecor CEO defends Telus bid, cites falling wireless prices and Canada's sovereignty</title>
       <link>https://www.cbc.ca/news/politics/pierre-karl-peladeau-quebecor-telus-bid-9.7431320?cmp=rss</link>
       <guid isPermaLink="false">9.7431687</guid>
@@ -136,7 +232,7 @@
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795104008103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795383594380/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B</story_image>
       <description>Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.</description>
     </item>
     <item>
@@ -1391,6 +1487,18 @@ The post ‘Hard time sleeping’: inside Canada’s emerging military-AI comple
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/7432ca42-5fd6-4efe-9d0c-65d72fbc563f,1795133872058/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B</story_image>
       <description>The framing of The Hunger Games: Sunrise on the Reaping as a painful, nihilistic and unrelentingly dour backstory for a single character makes it a deeply strange movie when viewed as a standalone feature.</description>
+    </item>
+    <item>
+      <title>Why some Americans are stockpiling for a 90-day power outage</title>
+      <link>https://www.cbc.ca/news/world/us-90-day-grid-outage-doomsday-prepping-stockpiling-9.7428489?cmp=rss</link>
+      <guid isPermaLink="false">9.7428489</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Mike Crawley</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/57b23eca-205d-432a-b828-b0f2ded0da90,1795138577930/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C637%2C5999%2C3374%29%3B</story_image>
+      <description>The number of Americans stockpiling bottled water, non-perishable food and other emergency supplies has spiked over the past few weeks, a trend that has only accelerated in the wake of a series of high-profile tech outages.</description>
     </item>
     <item>
       <title>BC’s Biggest Long COVID Clinic Slashes Staff</title>
@@ -3926,7 +4034,7 @@ The post Mohawk teacher, 73, earns McGill’s first PhD in Indigenous Language R
       <description>Mason Lemme tells The National about the moment he was among the 570 people to break the Guinness World Record for the most people dressed as Sylvester Stallone's character Rocky Balboa, at the steps of the Philadelphia Museum of Art.</description>
     </item>
     <item>
-      <title>The National | Carney arrives in China for meeting with Xi</title>
+      <title>The National | Hegseth reportedly moves to restrict defence ties</title>
       <link>https://www.cbc.ca/player/play/9.4236164?cmp=rss</link>
       <guid isPermaLink="false">9.4236164</guid>
       <pubDate>Tue, 17 Nov 2026 02:00:00 GMT</pubDate>
@@ -3935,7 +4043,7 @@ The post Mohawk teacher, 73, earns McGill’s first PhD in Indigenous Language R
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
       <story_image>https://i.cbc.ca/ais/fa41acba-338b-4f02-a1c8-b6ff2d308f11,1793794144270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3B</story_image>
-      <description>Nov. 16, 2026 | Prime Minister Mark Carney is in China to meet with President Xi Jinping, as Canada looks to diversify trade away from the U.S. The survivor of a fatal boat crash in B.C. explains what went wrong. Plus, Robert Pattinson is the next James Bond.</description>
+      <description>EDITED [title, summary] Nov. 22, 2026 | U.S. Secretary of War Pete Hegseth reportedly issues a memo restricting defence ties with Canada. A father and daughter arrested by ICE at a Seattle airport draws backlash. And Go Public investigates a man's fight against AI customer service.</description>
     </item>
     <item>
       <title>'Crypto King' Aiden Pleterski testifies about escape attempt during alleged kidnapping</title>
