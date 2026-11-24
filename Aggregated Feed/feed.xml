@@ -5,8 +5,321 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:59:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:06:56 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minister Miller announces the appointment of Dorothy Myo as Commissioner of Indigenous Languages</title>
+      <link>https://www.canada.ca/en/canadian-heritage/news/2026/11/minister-miller-announces-the-appointment-of-dorothy-myo-as-commissioner-of-indigenous-languages.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/canadian-heritage/news/2026/11/minister-miller-announces-the-appointment-of-dorothy-myo-as-commissioner-of-indigenous-languages.html</guid>
+      <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+      <author>Canadian Heritage</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Since its creation in 2021, the Office of the Commissioner of Indigenous Languages has supported the efforts of Indigenous Peoples across Canada to reclaim, revitalize, maintain and strengthen their languages</description>
+    </item>
+    <item>
+      <title>Minister MacDonald announces investment to strengthen veterinary antimicrobial stewardship</title>
+      <link>https://www.canada.ca/en/agriculture-agri-food/news/2026/11/minister-macdonald-announces-investment-to-strengthen-veterinary-antimicrobial-stewardship.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/agriculture-agri-food/news/2026/11/minister-macdonald-announces-investment-to-strengthen-veterinary-antimicrobial-stewardship.html</guid>
+      <pubDate>Tue, 24 Nov 2026 14:34:03 GMT</pubDate>
+      <author>Agriculture and Agri-Food Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>Animal health is vital to protecting Canada’s food supply, and veterinarians play a critical role in preventing disease and ensuring medicines are used responsibly to protect both animal and human health.</description>
+    </item>
+    <item>
+      <title>2 men arrested after break-in at country residence of Prince William, Princess of Wales</title>
+      <link>https://www.cbc.ca/news/world/uk-royals-william-kate-country-home-9.7433700?cmp=rss</link>
+      <guid isPermaLink="false">9.7433700</guid>
+      <pubDate>Tue, 24 Nov 2026 14:15:16 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/c16cf52a-6909-4ab6-94f8-1fafce3b3878,1795522143837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3000%2C1687%29%3B</story_image>
+      <description>British police said Tuesday that two men have been arrested over a suspected burglary at the Royal Family's Sandringham Estate.
+It follows reports that the home of Prince William and Princess Catherine on the vast royal estate was broken into on Monday.</description>
+    </item>
+    <item>
+      <title>Mortgage delinquency rate up 31% in third quarter: Equifax report</title>
+      <link>https://www.cbc.ca/news/business/mortgage-delinquency-9.7433747?cmp=rss</link>
+      <guid isPermaLink="false">9.7433747</guid>
+      <pubDate>Tue, 24 Nov 2026 14:13:47 GMT</pubDate>
+      <author>Ritika Dubey</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/bcbdb4f1-fbbb-4424-88ea-660c844d46be,1795528310104/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B</story_image>
+      <description>Equifax Canada's third-quarter consumer credit trends report says the national 90-plus day mortgage delinquency rate — defined as missed payments three months in a row — reached 0.32 per cent, the highest since the credit agency started tracking the metric in 2013.</description>
+    </item>
+    <item>
+      <title>Heat waves are getting so bad that even this cactus can't survive</title>
+      <link>https://www.cbc.ca/news/science/saguaro-cactus-climate-9.7433721?cmp=rss</link>
+      <guid isPermaLink="false">9.7433721</guid>
+      <pubDate>Tue, 24 Nov 2026 14:10:02 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/74105606-ed0b-4007-aab2-b600e95da025,1795526945913/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C491%2C9433%2C5306%29%3B</story_image>
+      <description>Despite evolving for millennia to thrive in the blazing Sonoran Desert, the iconic saguaro cactus is struggling to survive escalating heat waves.</description>
+    </item>
+    <item>
+      <title>Joint statement on the International Court of Justice decision on Myanmar</title>
+      <link>https://www.canada.ca/en/global-affairs/news/2026/11/joint-statement-on-the-international-court-of-justice-decision-on-myanmar.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/global-affairs/news/2026/11/joint-statement-on-the-international-court-of-justice-decision-on-myanmar.html</guid>
+      <pubDate>Tue, 24 Nov 2026 14:05:51 GMT</pubDate>
+      <author>Global Affairs Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>“We acknowledge the judgment of the International Court of Justice in the case brought by The Gambia against Myanmar under the Convention on the Prevention and Punishment of the Crime of Genocide (Genocide Convention).</description>
+    </item>
+    <item>
+      <title>Statement by Prime Minister Carney on the anniversary of the birth of Sri Guru Nanak</title>
+      <link>https://www.pm.gc.ca/en/news/statements/2026/11/24/statement-prime-minister-carney-anniversary-birth-sri-guru-nanak</link>
+      <guid isPermaLink="false">https://www.pm.gc.ca/en/news/statements/2026/11/24/statement-prime-minister-carney-anniversary-birth-sri-guru-nanak</guid>
+      <pubDate>Tue, 24 Nov 2026 14:00:00 GMT</pubDate>
+      <author>PMO | Prime Minister of Canada</author>
+      <source_id>prime_minister_news</source_id>
+      <source_name>Prime Minister of Canada</source_name>
+      <source_icon>https://www.pm.gc.ca/themes/pm_theme/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.pm.gc.ca/sites/pm/files/media/icons/fb.jpg</story_image>
+      <description>“Today, Sikhs in Canada and around the world mark the anniversary of the birth of Sri Guru Nanak, the founder of the Sikh faith.Sri Guru Nanak’s teachings of equality, humility, and generosity continue to inspire millions. As families and friends gather to celebrate Gurpurab, we recognise the many w...</description>
+    </item>
+    <item>
+      <title>Minister Hodgson to travel to Washington, D.C.</title>
+      <link>https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-travel-to-washington-dc.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-travel-to-washington-dc.html</guid>
+      <pubDate>Tue, 24 Nov 2026 14:00:00 GMT</pubDate>
+      <author>Natural Resources Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Minister of Energy and Natural Resources, the Honourable Tim Hodgson, will travel to Washington, D.C., on November 30 and December 1, 2026.</description>
+    </item>
+    <item>
+      <title>Amazon Workers In B.C. Have Made Labour History</title>
+      <link>https://www.readthemaple.com/amazon-workers-in-b-c-have-made-labour-history/</link>
+      <guid isPermaLink="false">6b006956a11d8100015ae0e5</guid>
+      <pubDate>Tue, 24 Nov 2026 12:30:00 GMT</pubDate>
+      <author>Adam D.K. King</author>
+      <source_id>the_maple</source_id>
+      <source_name>The Maple</source_name>
+      <source_icon>https://www.readthemaple.com/favicon.ico</source_icon>
+      <story_image>https://storage.ghost.io/c/09/c4/09c4d01a-bbb3-47cd-86e0-7333b3184673/content/images/2026/11/amazon-fulfilment.jpg</story_image>
+      <description>The workers have won the first collective agreement at an Amazon facility in North America.</description>
+    </item>
+    <item>
+      <title>Regina transit lockout ends after tentative deal reached</title>
+      <link>https://www.cbc.ca/news/regina-transit-lockout-ends-9.7433715?cmp=rss</link>
+      <guid isPermaLink="false">9.7433715</guid>
+      <pubDate>Tue, 24 Nov 2026 12:25:38 GMT</pubDate>
+      <author>Alexander Quon</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/2c58cc62-1e1c-420f-9a6c-4eb0711829fb,1795525226568/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B</story_image>
+      <description>The transit worker lockout is over in Regina after the city and Amalgamated Transit Union (ATU) Local 588 reached a tentative three-year agreement late Monday evening.</description>
+    </item>
+    <item>
+      <title>Minister Hodgson to deliver keynote on Canada’s National Electricity Strategy</title>
+      <link>https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-deliver-keynote-on-canadas-national-electricity-strategy.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-deliver-keynote-on-canadas-national-electricity-strategy.html</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <author>Natural Resources Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Honourable Tim Hodgson, Minister of Energy and Natural Resources, will deliver a keynote address about the future of electricity in Canada as part of Electricity Canada’s Powering Partnerships 2026 Conference.</description>
+    </item>
+    <item>
+      <title>Yukon gov't to review school worksheet about 'positive aspects' of residential schools</title>
+      <link>https://www.cbc.ca/news/canada/north/yukon-high-school-curriculum-9.7432136?cmp=rss</link>
+      <guid isPermaLink="false">9.7432136</guid>
+      <pubDate>Tue, 24 Nov 2026 11:00:00 GMT</pubDate>
+      <author>Grace Knapp</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e8f3c390-be30-45c5-99e0-78518d782f92,1760567463360/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>The Yukon Department of Education says it will review its Grade 10 curriculum after concerns were raised about a worksheet given to students asking about "positive aspects" of residential schools.</description>
+    </item>
+    <item>
+      <title>Can Canada build fast without breaking things?</title>
+      <link>https://www.cbc.ca/radio/frontburner/can-canada-build-fast-without-breaking-things-9.7433224?cmp=rss</link>
+      <guid isPermaLink="false">9.7433224</guid>
+      <pubDate>Tue, 24 Nov 2026 11:00:00 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/b71e2443-5372-4049-8a1b-a3c9548dcdc7,1795470970714/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C165%2C3334%2C1875%29%3B</story_image>
+      <description>The Liberal government calls Bill C-39 one of the most important pieces of legislation in a generation. Critics say it threatens the fundamental rights of Canadians. It could become law by the end of the year.</description>
+    </item>
+    <item>
+      <title>Private diaries of Pope Francis reveal spiritual crisis and visions of the devil</title>
+      <link>https://www.cbc.ca/news/world/pope-francis-crisis-devil-hell-9.7433668?cmp=rss</link>
+      <guid isPermaLink="false">9.7433668</guid>
+      <pubDate>Tue, 24 Nov 2026 10:53:08 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/a7cfb985-a469-4ce8-b8cb-3d10713aab10,1795505390541/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C198%2C3800%2C2137%29%3B</story_image>
+      <description>The late Pope Francis suffered a two-year spiritual crisis starting in 2021 when he felt tempted by the devil and struggled with how to wield power over the Catholic Church, a new collection of his private diaries published on Tuesday revealed.</description>
+    </item>
+    <item>
+      <title>Manitoba wildfire response in 2025 hampered by equipment shortages and fatigue among staff, report concludes</title>
+      <link>https://www.cbc.ca/news/canada/manitoba/wildfire-response-report-conclusions-recommendations-9.7433580?cmp=rss</link>
+      <guid isPermaLink="false">9.7433580</guid>
+      <pubDate>Tue, 24 Nov 2026 10:00:00 GMT</pubDate>
+      <author>Bartley Kives</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/8b5cf533-9266-4993-90ae-984a4aefc868,1748824917224/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C65%2C1241%2C698%29%3B</story_image>
+      <description>Manitoba was unprepared for the disastrous 2025 wildfire season and needs to devote more money, staff and equipment to ensure it can respond to all manner of emergencies, a new report says.</description>
+    </item>
+    <item>
+      <title>Grand Theft Auto VI lets you buy flowers for your girlfriend. Some streamers say it's too woke</title>
+      <link>https://www.cbc.ca/news/entertainment/grand-theft-auto-vi-lets-you-buy-flowers-for-your-girlfriend-some-streamers-say-it-s-too-woke-9.7432445?cmp=rss</link>
+      <guid isPermaLink="false">9.7432445</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Philip Drost</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/c5065550-d847-46af-8ab4-3a529526f9da,1795446008645/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B</story_image>
+      <description>The new Grand Theft Auto VI brings old classics back to the franchise, but this iteration also has some changes. Instead of hiring sex workers, the early part of the game has you doing chores for your in-game girlfriend, like buying her flowers and fixing the leak in the roof.</description>
+    </item>
+    <item>
+      <title>Instead of getting recycled, many EV batteries are being repurposed</title>
+      <link>https://www.cbc.ca/news/science/repurposing-ev-batteries-9.7432934?cmp=rss</link>
+      <guid isPermaLink="false">9.7432934</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Emily Chung</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/0fbb1af3-c2df-487a-94ee-7203aadec69e,1795464433390/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1651%2C4284%2C2409%29%3B</story_image>
+      <description>As EV sales grew, many worried about what would happen to all those toxic batteries. Now, amid the demise of two big Canadian EV battery recyclers, another Canadian firm is building megafactories to repurpose EV batteries for a surging industry. Here's what's happening to EV batteries.</description>
+    </item>
+    <item>
+      <title>Wildfire victim trying to buy new Flin Flon, Man., home loses $170K in lawyer impersonation scam</title>
+      <link>https://www.cbc.ca/news/canada/manitoba/scam-payment-misdirection-fraud-flin-flon-denare-beach-9.7430546?cmp=rss</link>
+      <guid isPermaLink="false">9.7430546</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Eric Westhaver</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/d00da2e6-a84c-4e38-8070-520079d8f612,1795461725211/full/max/0/default.jpg?im=Crop%2Crect%3D%28205%2C27%2C1237%2C695%29%3B</story_image>
+      <description>Five Manitobans in the last two months have fallen victim to a fraud scheme where scammers infiltrate lawyers' emails and redirect money. One woman in Flin Flon, trying to buy a new home after losing hers in a wildfire, is out more than $170,000.</description>
+    </item>
+    <item>
+      <title>Quebec grocery store believed to be oldest in North America revived with an Italian twist</title>
+      <link>https://www.cbc.ca/news/canada/montreal/oldest-grocery-story-north-america-9.7433381?cmp=rss</link>
+      <guid isPermaLink="false">9.7433381</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Sarah-Kate Dallaire</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/69bb1fb6-d845-462d-ac2f-0b25895111a8,1795475372494/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C2048%2C1152%29%3B</story_image>
+      <description>Quebec City's J.A. Moisan is believed to be the oldest grocery store in North America. It has survived great depressions and uncertain times, but it’s ready for a new beginning once more. New tenants promise to honour the founding family's legacy, but with an Italian twist.</description>
+    </item>
+    <item>
+      <title>Health Canada seizes peptides from Toronto shop, warns of health risks of unregulated market</title>
+      <link>https://www.cbc.ca/news/canada/toronto/toronto-peptide-shop-concerns-9.7428435?cmp=rss</link>
+      <guid isPermaLink="false">9.7428435</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Talia Ricci</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e5c6d802-4bf5-4178-8949-8800029cb63d,1795192375488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C333%2C3720%2C2092%29%3B</story_image>
+      <description>Health Canada confirmed it confiscated and is now testing a number of what it called "unauthorized injectable peptides" from the shop, Not Peptides.</description>
+    </item>
+    <item>
+      <title>Ontario nurses at a breaking point share stories of stress and burnout in a new report</title>
+      <link>https://www.cbc.ca/news/health/nursing-burnout-ontario-9.7430910?cmp=rss</link>
+      <guid isPermaLink="false">9.7430910</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Danielle Reid</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/7d4fa89c-49a0-4a31-82a0-aba880be36cc,1795485977356/full/max/0/default.jpg?im=Crop%2Crect%3D%28145%2C295%2C3763%2C2116%29%3B</story_image>
+      <description>A new report shares first-hand testimonies from Ontario nurses who describe enduring burnout, anxiety and distress working in understaffed and under-resourced hospitals in the province. The report's co-author says it's meant to shed light on the realities facing the profession.</description>
+    </item>
+    <item>
+      <title>'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU</title>
+      <link>https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss</link>
+      <guid isPermaLink="false">9.7433260</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Margaret Evans</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/c6b07047-80a4-44fa-b10c-7f2dd9755fb4,1795471797746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C283%2C4510%2C2536%29%3B</story_image>
+      <description>Brexit might not have meant Brexit after all. At least, the door to a "Breturn," as they’re already calling it here, has been nudged open a crack or two by Britain’s Labour Prime Minister Andy Burnham.</description>
+    </item>
+    <item>
+      <title>I Travelled from Ottawa to Germany to Understand the European Far Right</title>
+      <link>https://thetyee.ca/Analysis/2026/11/24/European-Far-Right/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Analysis/2026/11/24/European-Far-Right/</guid>
+      <pubDate>Tue, 24 Nov 2026 08:40:00 GMT</pubDate>
+      <author>Luke LeBrun</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Analysis/2026/11/23/UlrichSiegmundBillboard.jpg</story_image>
+      <description>What I discovered on the eve of an election win for the AfD felt eerily familiar.</description>
+    </item>
+    <item>
+      <title>The Scientist Who Took Big Oil to Court and Won</title>
+      <link>https://thetyee.ca/Culture/2026/11/24/Briony-Penn-Interview/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Culture/2026/11/24/Briony-Penn-Interview/</guid>
+      <pubDate>Tue, 24 Nov 2026 08:20:00 GMT</pubDate>
+      <author>Sarah Cox</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Culture/2026/11/23/BrionyPennRowboat.jpg</story_image>
+      <description>A Q&amp;A with Briony Penn about ‘The Seabird Trials,’ which chronicles the aftermath of the Apex Houston oil spill.</description>
+    </item>
+    <item>
+      <title>BC’s Housing Fix? Build a Wealth Fund out of Concrete and Timber</title>
+      <link>https://thetyee.ca/Analysis/2026/11/24/BC-Housing-Fix-Build-Wealth-Fund/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Analysis/2026/11/24/BC-Housing-Fix-Build-Wealth-Fund/</guid>
+      <pubDate>Tue, 24 Nov 2026 08:10:00 GMT</pubDate>
+      <author>Ernest Lang</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Analysis/2026/11/23/ConstructionWorkersScaffolding.jpg</story_image>
+      <description>How a public developer can make homes affordable by cutting delays and capital costs while creating an asset the province keeps.</description>
+    </item>
+    <item>
+      <title>Steven Galloway asks judge to declare rape allegations false as defamation trial enters final submissions</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/galloway-trial-final-submissions-9.7433429?cmp=rss</link>
+      <guid isPermaLink="false">9.7433429</guid>
+      <pubDate>Tue, 24 Nov 2026 03:17:08 GMT</pubDate>
+      <author>Karin Larsen</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/514ef96b-9124-4604-abb3-1b317475b567,1795477431594/full/max/0/default.jpg?im=Crop%2Crect%3D%28376%2C248%2C5189%2C2918%29%3B</story_image>
+      <description>Former University of British Columbia professor Steven Galloway is asking the presiding justice in his defamation trial to vindicate his reputation by making an explicit finding of "falsehood," which would essentially clear the author of the rape and sexual assault accusation levelled against him ov...</description>
+    </item>
     <item>
       <title>Statement from Minister Joly on her meeting with Telecommunication CEOs</title>
       <link>https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/statement-from-minister-joly-on-her-meeting-with-telecommunication-ceos.html</link>
@@ -69,7 +382,7 @@ The post Regional leaders say future of Aurora College campuses remains unclear 
       <description>Based on testimony from health-care workers, Physicians for Human Rights Israel says there’s been a 350 per cent increase in violence against Palestinian health workers by settlers and the Israeli military. Israel denies the report's claims.</description>
     </item>
     <item>
-      <title>Minister Anand and Qatari Ministers to participate in signing ceremony</title>
+      <title>Reminder - Minister Anand and Qatari Ministers to participate in signing ceremony</title>
       <link>https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-and-qatari-ministers-to-participate-in-signing-ceremony.html</link>
       <guid isPermaLink="false">https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-and-qatari-ministers-to-participate-in-signing-ceremony.html</guid>
       <pubDate>Mon, 23 Nov 2026 22:43:48 GMT</pubDate>
@@ -78,7 +391,7 @@ The post Regional leaders say future of Aurora College campuses remains unclear 
       <source_name>National News | Government of Canada</source_name>
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
-      <description>The Honourable Anita Anand, Minister of Foreign Affairs, His Excellency Dr. Ahmad bin Mohammed Al-Sayed, Minister of State for Foreign Trade of the State of Qatar and His Excellency Dr. Mohammed bin Abdulaziz bin Saleh Al Khulaifi, Minister of State, Ministry of Foreign Affairs of the State of Qatar...</description>
+      <description>EDITED [title] The Honourable Anita Anand, Minister of Foreign Affairs, His Excellency Dr. Ahmad bin Mohammed Al-Sayed, Minister of State for Foreign Trade of the State of Qatar and His Excellency Dr. Mohammed bin Abdulaziz bin Saleh Al Khulaifi, Minister of State, Ministry of Foreign Affairs of the State of Qatar...</description>
     </item>
     <item>
       <title>Canada adds Masar Badil group to terrorist entity list, citing status as alias for Samidoun</title>
@@ -240,7 +553,7 @@ The post K-Town Collectibles : un homme, une passion et des tonnes de jouets vin
       <source_name>The Tyee</source_name>
       <source_icon>https://thetyee.ca/favicon.ico</source_icon>
       <story_image>https://thetyee.ca/Opinion/2026/11/23/BurgessPattinsonJamesBond.jpg</story_image>
-      <description>Robert Pattinson is an interesting choice. Now, who’s the next super-villain?</description>
+      <description>EDITED [summary] Robert Pattinson is an interesting choice. Now, who’s the next supervillain?</description>
     </item>
     <item>
       <title>Algorithmic pricing and the Competition Act</title>
@@ -10995,7 +11308,7 @@ The post Chiefs question motive behind Indian Act talks after meeting with Carne
       <description>Winnipeg, Manitoba – On November 10, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will participate in an armchair discussion at an event hosted by The Winnipeg Chamber of Commerce.</description>
     </item>
     <item>
-      <title>Nvidia shares close with 30% gain after Jensen Huang reinstated as CEO</title>
+      <title>Why Trump's move to get Jensen Huang reinstated as Nvidia CEO won't end the questions</title>
       <link>https://www.cbc.ca/news/world/nvidia-chips-china-ban-9.7416670?cmp=rss</link>
       <guid isPermaLink="false">9.7414711</guid>
       <pubDate>Mon, 09 Nov 2026 13:48:50 GMT</pubDate>
@@ -11003,7 +11316,7 @@ The post Chiefs question motive behind Indian Act talks after meeting with Carne
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/8e56fc32-0fac-4920-a7b2-120e6aa365fa,1795448481628/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C302%2C7359%2C4139%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/f5894fac-5674-4d5a-afd6-3d5475c9ab81,1795487440947/full/max/0/default.jpg?im=Crop%2Crect%3D%281068%2C165%2C2511%2C1412%29%3B</story_image>
       <description>EDITED [title] </description>
     </item>
     <item>
@@ -20191,6 +20504,18 @@ During this visit, the Honourable Minister Rebecca Alty announced $1.2 million i
       <description>The Canada Gazette, Part I, consists of a weekly issue, published every Saturday; a quarterly index, published every three months; and extra editions, published only when required under special circumstances or by legal requirements on any other day than Saturday....</description>
     </item>
     <item>
+      <title>Ottawa proposes sweeping new land-seizure powers for Alto high-speed rail project</title>
+      <link>https://www.cbc.ca/news/politics/alto-expropriation-changes-9.7433464?cmp=rss</link>
+      <guid isPermaLink="false">9.7185102</guid>
+      <pubDate>Fri, 01 May 2026 21:52:25 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1791571515599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B</story_image>
+      <description />
+    </item>
+    <item>
       <title>Minister Rebecca Chartrand highlights Spring Economic Update 2026 investments to help workers and young people gain skills, experience and support to succeed</title>
       <link>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2026/05/minister-rebecca-chartrand-highlights-spring-economic-update-2026-investments-to-help-workers-and-young-people-gain-skills-experience-and-support-t.html</link>
       <guid isPermaLink="false">https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2026/05/minister-rebecca-chartrand-highlights-spring-economic-update-2026-investments-to-help-workers-and-young-people-gain-skills-experience-and-support-t.html</guid>
@@ -21870,6 +22195,18 @@ September 4, 2025 – GATINEAU (Québec), Competition Bureau</description>
       <description>The Canada Gazette, Part II, consists of a bi-weekly issue, published every second Wednesday, a quarterly consolidated index, published every three months; and extra editions, published only when required under special circumstances or by legal requirements on any other date than the regular publica...</description>
     </item>
     <item>
+      <title>Canada's air force charts a potential future without the Gripen in 'Project Arrow'</title>
+      <link>https://www.cbc.ca/news/politics/canada-air-force-f35-fighters-defence-9.7433001?cmp=rss</link>
+      <guid isPermaLink="false">1.7617712</guid>
+      <pubDate>Tue, 26 Aug 2025 09:15:23 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/86f8120c-35b9-41ef-b361-96715800c71c,1795518331343/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C131%2C5724%2C3219%29%3B</story_image>
+      <description />
+    </item>
+    <item>
       <title>Canada Gazette - Part I, August 23, 2025, volume 159, number 34</title>
       <link>https://gazette.gc.ca/rp-pr/p1/2025/2025-08-23/html/index-eng.html</link>
       <guid isPermaLink="false">https://gazette.gc.ca/rp-pr/p1/2025/2025-08-23/html/index-eng.html</guid>
@@ -22288,7 +22625,7 @@ July 10, 2025 – GATINEAU (Québec), Competition Bureau</description>
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/2c7b1cc9-cbe7-40db-8677-37f58a37d0c9,1795482897190/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C500%2C4800%2C2700%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/9820b475-a3cd-4b50-b2f3-7dd2baf6a087,1795489091784/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
       <description />
     </item>
     <item>
