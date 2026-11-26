@@ -5,8 +5,248 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:11:23 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prime Minister Carney announces the appointment of new Chief Justice of New Brunswick</title>
+      <link>https://www.pm.gc.ca/en/news/news-releases/2026/11/26/prime-minister-carney-announces-appointment-new-chief-justice-new</link>
+      <guid isPermaLink="false">https://www.pm.gc.ca/en/news/news-releases/2026/11/26/prime-minister-carney-announces-appointment-new-chief-justice-new</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 GMT</pubDate>
+      <author>PMO | Prime Minister of Canada</author>
+      <source_id>prime_minister_news</source_id>
+      <source_name>Prime Minister of Canada</source_name>
+      <source_icon>https://www.pm.gc.ca/themes/pm_theme/favicon.ico</source_icon>
+      <story_image fallback="1">https://www.pm.gc.ca/sites/pm/files/media/icons/fb.jpg</story_image>
+      <description>Today, the Prime Minister, Mark Carney, announced the appointment of the Honourable Tracey K. DeWare, Chief Justice of the Court of King’s Bench of New Brunswick, as the new Chief Justice of New Brunswick.Chief Justice DeWare replaces the Honourable J.C. Marc Richard, who elected to become a supernu...</description>
+    </item>
+    <item>
+      <title>Minister Champagne advances financial, trade and investment partnerships with Qatar and the United Arab Emirates</title>
+      <link>https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-financial-trade-and-investment-partnerships-with-qatar-and-the-united-arab-emirates.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-financial-trade-and-investment-partnerships-with-qatar-and-the-united-arab-emirates.html</guid>
+      <pubDate>Thu, 26 Nov 2026 13:37:10 GMT</pubDate>
+      <author>Department of Finance Canada</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The government of Canada is moving strategically to attract new investment, create new opportunities for Canadian businesses, and diversify our economic partnerships. By building our strength at home and expanding partnerships abroad, we are creating greater prosperity for Canadian workers and busin...</description>
+    </item>
+    <item>
+      <title>Minister McGuinty to attend IMT Precision Groundbreaking Event</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-to-attend-imt-precision-groundbreaking-event.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-to-attend-imt-precision-groundbreaking-event.html</guid>
+      <pubDate>Thu, 26 Nov 2026 13:09:22 GMT</pubDate>
+      <author>National Defence</author>
+      <source_id>government_of_canada_national_news</source_id>
+      <source_name>National News | Government of Canada</source_name>
+      <source_icon>https://www.canada.ca/favicon.ico</source_icon>
+      <story_image fallback="1">https://cdev.gc.ca/wp-content/uploads/2026/01/HERO-1@2x-1024x366.png</story_image>
+      <description>The Honourable David J. McGuinty, Minister of National Defence, will attend a groundbreaking ceremony at the site of IMT Precision’s new manufacturing facility in St. Thomas, Ontario.</description>
+    </item>
+    <item>
+      <title>China, U.S. allies push back on latest round of White House tariffs</title>
+      <link>https://www.cbc.ca/news/world/us-excess-capacity-tariffs-reaction-9.7436782?cmp=rss</link>
+      <guid isPermaLink="false">9.7436782</guid>
+      <pubDate>Thu, 26 Nov 2026 13:05:29 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/5ba7c8bf-094e-4bda-9772-2db6e68e6564,1795694610939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B</story_image>
+      <description>China, Japan and other U.S. trading partners protested planned tariff hikes by Donald Trump's administration and hit back at allegations they have excess manufacturing capacity.</description>
+    </item>
+    <item>
+      <title>Data breaches are coming fast and furious. Are businesses doing enough to protect your data?</title>
+      <link>https://www.cbc.ca/news/business/data-breaches-ai-data-protection-9.7436341?cmp=rss</link>
+      <guid isPermaLink="false">9.7436804</guid>
+      <pubDate>Thu, 26 Nov 2026 12:01:28 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/69eec3be-25fb-4c30-acdf-1e14467b4ffc,1795647358124/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4000%2C2250%29%3B</story_image>
+      <description />
+    </item>
+    <item>
+      <title>Flood watch in place on Vancouver Island as king tide impact continues</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/flood-watch-king-tides-british-columbia-storm-9.7436709?cmp=rss</link>
+      <guid isPermaLink="false">9.7436709</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e5ec6237-60f1-460a-b44b-fefda1f1904c,1795662649188/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>A flood watch is in place for eastern Vancouver Island as the B.C. coast continues to deal with a series of storms that are combining with unusually high tides on Thursday.</description>
+    </item>
+    <item>
+      <title>Police identify suspect vehicle tied to Toronto home invasion that killed musician Michael Eckert</title>
+      <link>https://www.cbc.ca/news/canada/toronto/michael-eckert-police-update-vehicle-midtown-toronto-9.7436783?cmp=rss</link>
+      <guid isPermaLink="false">9.7436783</guid>
+      <pubDate>Thu, 26 Nov 2026 11:31:31 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e1740979-d295-4a27-9332-d9f81bcca1a1,1795691603566/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B</story_image>
+      <description>Toronto police have identified a suspect vehicle tied to a fatal shooting and attempted home invasion that took place early Wednesday in midtown Toronto.</description>
+    </item>
+    <item>
+      <title>Court documents reveal details of Winnipeg man's alleged Bishnoi gang extortion</title>
+      <link>https://www.cbc.ca/news/canada/manitoba/arshdeep-brar-bishnoi-extortion-accusations-9.7436426?cmp=rss</link>
+      <guid isPermaLink="false">9.7436426</guid>
+      <pubDate>Thu, 26 Nov 2026 10:00:00 GMT</pubDate>
+      <author>Caitlyn Gowriluk</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/bf9ae1b8-60d0-4b8d-9b6f-78bba8313c26,1795648172508/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C4%2C348%2C195%29%3B</story_image>
+      <description>A man accused of extorting someone on behalf of an Indian organized crime group allegedly used a payphone in Winnipeg's south St. Vital area to demand money from his victim, before mailing a letter to the man's home threatening his family.</description>
+    </item>
+    <item>
+      <title>FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway</title>
+      <link>https://www.cbc.ca/news/world/fedex-plane-miami-overrun-runway-9.7436760?cmp=rss</link>
+      <guid isPermaLink="false">9.7436760</guid>
+      <pubDate>Thu, 26 Nov 2026 09:54:13 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/5bcff81a-5000-4df5-81b6-038ede5c5d7b,1795678745006/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C190%2C3571%2C2008%29%3B</story_image>
+      <description>There were no reports of injuries after the plane ran off the runway at about 8:40 p.m. ET, the airport reported. By early Thursday, the Federal Aviation Administration was reporting hourslong flight delays.</description>
+    </item>
+    <item>
+      <title>Nvidia scandal has put Singapore in U.S. sights. What's at stake for the city-state</title>
+      <link>https://www.cbc.ca/news/world/nvidia-singapore-9.7436761?cmp=rss</link>
+      <guid isPermaLink="false">9.7436761</guid>
+      <pubDate>Thu, 26 Nov 2026 09:40:48 GMT</pubDate>
+      <author>Patrick Fok</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/2a8d19f6-4aeb-4437-821c-0ecd56f8d1cf,1795684329012/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B</story_image>
+      <description>The Nvidia crisis has put Singapore squarely in Washington’s sights amid concerns over its role in China’s access to advanced AI chips. Here’s what’s at stake for the Southeast Asian nation and why it’s stepping up efforts to prevent cloud computing companies like Megaspeed from circumventing U.S. e...</description>
+    </item>
+    <item>
+      <title>ICE almost deported this Eritrean woman to a third country after Canada turned her away</title>
+      <link>https://www.cbc.ca/news/canada/canada-safe-third-country-agreement-constitutional-challenge-9.7434846?cmp=rss</link>
+      <guid isPermaLink="false">9.7434846</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Verity Stevenson</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/eb7e0f9e-8038-4fff-ace1-7256cdf3a5cc,1795569597088/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C290%2C5568%2C3132%29%3B</story_image>
+      <description>Rahel Negassi is one of several asylum seekers who Canadian immigration lawyers say were erroneously denied entry into Canada and wound up in the murky, at times frightening world of ICE detention since U.S. President Donald Trump returned to office last year. The lawyers say her case illustrates th...</description>
+    </item>
+    <item>
+      <title>The 'unity' fight splitting Danielle Smith's party intensifies at UCP convention</title>
+      <link>https://www.cbc.ca/news/canada/calgary/analysis-ucp-convention-loyalists-independence-board-alberta-danielle-smith-9.7436015?cmp=rss</link>
+      <guid isPermaLink="false">9.7436015</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Jason Markusoff</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/a96e9ea5-7fe2-44b9-ad78-a3da570cd7b7,1795635635599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C51%2C774%2C435%29%3B</story_image>
+      <description>Premier's loyalists and pro-independence activists campaigning for control of party's influential board of directors.</description>
+    </item>
+    <item>
+      <title>Funeral boss 'The Undertaker' seen in police surveillance amid Toronto mafia probe</title>
+      <link>https://www.cbc.ca/news/canada/toronto/luigi-vescio-funeral-homes-ndrangheta-police-surveillance-9.7436041?cmp=rss</link>
+      <guid isPermaLink="false">9.7436041</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Thomas Daigle, Joseph Loiero</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/0a1644b6-de2d-4aa5-84a5-4d64bb8d5e12,1795644628057/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>Police records obtained by CBC News show Toronto-area funeral home president Luigi Vescio Sr. has been on the radar of Canadian and Italian investigators for nearly a decade. He and his family business were sanctioned by the U.S. last week amid allegations Vescio played a “senior” role in the mob.</description>
+    </item>
+    <item>
+      <title>What's at stake as Canada's top court ruling on Quebec secularism law looms</title>
+      <link>https://www.cbc.ca/news/canada/montreal/supreme-court-bill-21-quebec-9.7436487?cmp=rss</link>
+      <guid isPermaLink="false">9.7436487</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Isaac Olson</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/1.2134333,1384283005000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B</story_image>
+      <description>Ahead of Friday's highly anticipated Supreme Court of Canada ruling on Quebec's controversial secularism law, which bars some public sector workers from wearing religious symbols on the job, there is optimism on both sides of the debate.</description>
+    </item>
+    <item>
+      <title>UN climate summit may have ended in failure, but momentum for fossil fuel deal is growing</title>
+      <link>https://www.cbc.ca/news/science/cop31-summit-breakdown-fossil-fuel-9.7434543?cmp=rss</link>
+      <guid isPermaLink="false">9.7434543</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Inayat Singh</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/3cbc4024-d55d-4f96-bddf-7dfeac1bb53a,1795555702205/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3B</story_image>
+      <description>A coalition of countries has decided that rather than accept a bad deal, they will meet on their own, separately, outside the UN process to tackle the problem amongst their like-minded allies.</description>
+    </item>
+    <item>
+      <title>The threat of Starlink looms over Quebecor's Telus bid. But are Canadian telecoms actually vulnerable?</title>
+      <link>https://www.cbc.ca/news/business/quebecor-starlink-threat-9.7435712?cmp=rss</link>
+      <guid isPermaLink="false">9.7435712</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Rukhsar Ali</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/aa163c6c-a045-4062-95e6-f5058fac4127,1795632296873/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C183%2C3500%2C1968%29%3B</story_image>
+      <description>In Quebecor’s $31-billion bid to take over Telus, the theme of Canadian sovereignty is emerging front and centre as the Montreal company pitches a merger, in part, to battle the threat of American satellite companies like Elon Musk's SpaceX.</description>
+    </item>
+    <item>
+      <title>Doerkson’s Mandate Letters Aim to Reverse NDP’s Actions</title>
+      <link>https://thetyee.ca/News/2026/11/26/Doerkson-Mandate-Letters/</link>
+      <guid isPermaLink="false">https://thetyee.ca/News/2026/11/26/Doerkson-Mandate-Letters/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:40:00 GMT</pubDate>
+      <author>Andrew MacLeod</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/News/2026/11/25/ElliottDoerksonMilobar.jpg</story_image>
+      <description>SOGI, DRIPA and drug policies are set for the axe, and health care faces a review.</description>
+    </item>
+    <item>
+      <title>Holding the Line Against Forces with Billions</title>
+      <link>https://thetyee.ca/Presents/2026/11/26/Holding-Line-Against-Forces-Billions/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Presents/2026/11/26/Holding-Line-Against-Forces-Billions/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:30:00 GMT</pubDate>
+      <author>Ecojustice</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Presents/2026/11/18/EcojusticeGroup.jpg</story_image>
+      <description>How a donation to Ecojustice this Giving Tuesday can stand up to environmental harm caused by governments and industry.</description>
+    </item>
+    <item>
+      <title>Unpacking Carney and Robertson’s Plan to End Homelessness</title>
+      <link>https://thetyee.ca/Opinion/2026/11/26/Carney-Robertson-Plan-End-Homelessness/</link>
+      <guid isPermaLink="false">https://thetyee.ca/Opinion/2026/11/26/Carney-Robertson-Plan-End-Homelessness/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:20:00 GMT</pubDate>
+      <author>Jenny Kwan</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/Opinion/2026/11/25/MarkCarneyGregorRobertson.jpg</story_image>
+      <description>It falls $14.7 billion short. And solutions require changes to the status quo.</description>
+    </item>
+    <item>
+      <title>The ‘Building Canada Strong Act’ Will Hit BC’s Environment Hardest</title>
+      <link>https://thetyee.ca/News/2026/11/26/Building-Canada-Strong-Act-BC-Environment/</link>
+      <guid isPermaLink="false">https://thetyee.ca/News/2026/11/26/Building-Canada-Strong-Act-BC-Environment/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:10:00 GMT</pubDate>
+      <author>Sarah Cox</author>
+      <source_id>the_tyee</source_id>
+      <source_name>The Tyee</source_name>
+      <source_icon>https://thetyee.ca/favicon.ico</source_icon>
+      <story_image>https://thetyee.ca/News/2026/11/25/RobertsBankWetland.jpg</story_image>
+      <description>‘We’re starting to play God and deciding that our economic benefit is above the survival of some species,’ a UBC scientist says.</description>
+    </item>
     <item>
       <title>U.S. judge blocks FCC from revoking licences of Disney-owned ABC stations</title>
       <link>https://www.cbc.ca/news/world/judge-blocks-fcc-revoking-abc-licences-9.7436635?cmp=rss</link>
@@ -624,7 +864,7 @@ The post Emily Marshall Named Inaugural Winner of the Mansbridge Essay first app
       <description>EDITED [title, summary] A British court heard cufflinks and a clock were stolen after a break-in at the Royal Family's Sandringham Estate on Monday. The two men, charged with burglary and trespassing on a protected site, appeared in court Wednesday.</description>
     </item>
     <item>
-      <title>Suspected North Korean computer programmers did contract work for B.C. government</title>
+      <title>Police didn't initially search 18-year-old's devices after online exploitation and death, mother says</title>
       <link>https://www.cbc.ca/news/canada/suspected-north-korean-computer-programmers-british-columbia-government-9.7433830?cmp=rss</link>
       <guid isPermaLink="false">9.7435140</guid>
       <pubDate>Wed, 25 Nov 2026 09:01:47 GMT</pubDate>
@@ -632,8 +872,8 @@ The post Emily Marshall Named Inaugural Winner of the Mansbridge Essay first app
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/852026bc-7daa-4367-9942-ea7502fff976,1795529820548/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C860%2C483%29%3B</story_image>
-      <description />
+      <story_image>https://i.cbc.ca/ais/7e173a6d-0bcb-41cf-8e46-3e2a0c4496bd,1795645133808/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>EDITED [title] </description>
     </item>
     <item>
       <title>Can AI chatbots really help shoppers find the best deals?</title>
@@ -16094,6 +16334,18 @@ The post This tenant organizer took on Toronto’s landlords—and now she’s c
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://www.cer-rec.gc.ca/en/about/who-we-are-what-we-do/organization-structure/indigenous-advisory-committee/canada-energy-regulator-indigenous-advisory-committee-progress-impact-report/2024/images/coverimage.jpg</story_image>
       <description>Every Canadian deserves a safe, affordable place to call home. The Government of Canada is focused on building more homes, strengthening communities, and creating the conditions for Canadians to get ahead. That means working in partnership with Indigenous Peoples to deliver housing solutions that re...</description>
+    </item>
+    <item>
+      <title>How big U.S. unions view Trump's tariffs on Canadian goods</title>
+      <link>https://www.cbc.ca/news/world/trump-tariffs-canada-unions-auto-steel-uaw-usw-afl-cio-9.7435501?cmp=rss</link>
+      <guid isPermaLink="false">9.7393718</guid>
+      <pubDate>Fri, 23 Oct 2026 18:57:58 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/abc5fad2-28e9-4064-ade1-00728ace559f,1795629563989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C262%2C4176%2C2349%29%3B</story_image>
+      <description />
     </item>
     <item>
       <title>Minister Hodgson Meets with Türkiye's Minister of Energy and Natural Resources, Alparslan Bayraktar</title>
