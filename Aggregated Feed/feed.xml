@@ -5,7 +5,7 @@
     <link>https://trd-ferguson.github.io/Canadian-RSS/</link>
     <description>Chronological aggregated Canadian feed wall.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:52:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:26:30 GMT</lastBuildDate>
     <atom:link href="https://trd-ferguson.github.io/Canadian-RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canada Gazette - Part I, November 28, 2026, volume 160, number 48</title>
@@ -20,6 +20,138 @@
       <description>The Canada Gazette, Part I, consists of a weekly issue, published every Saturday; a quarterly index, published every three months; and extra editions, published only when required under special circumstances or by legal requirements on any other day than Saturday....</description>
     </item>
     <item>
+      <title>Whose lane is it anyway? Why the Alberta UCP is wading into municipal issues</title>
+      <link>https://www.cbc.ca/news/canada/edmonton/west-of-centre-ucp-municipal-issues-9.7438681?cmp=rss</link>
+      <guid isPermaLink="false">9.7438681</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 GMT</pubDate>
+      <author>Emily Williams</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/7491223a-63a4-4729-9be7-8cfd44419a0f,1795804259659/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <description>Protecting provincial jurisdiction is part of current Premier Danielle Smith’s mantra. Yet, that same government has overruled local decision makers on a growing list of issues in the last two years including bike lanes, photo radar and zoning rules.</description>
+    </item>
+    <item>
+      <title>Globe And Mail Backs Pete Hegseth’s Push For Even More War Spending</title>
+      <link>https://www.readthemaple.com/globe-and-mail-backs-pete-hegseths-push-for-even-more-war-spending/</link>
+      <guid isPermaLink="false">6b09c0a2d9407600018c457a</guid>
+      <pubDate>Sat, 28 Nov 2026 11:00:00 GMT</pubDate>
+      <author>Alex Cosh</author>
+      <source_id>the_maple</source_id>
+      <source_name>The Maple</source_name>
+      <source_icon>https://www.readthemaple.com/favicon.ico</source_icon>
+      <story_image>https://storage.ghost.io/c/09/c4/09c4d01a-bbb3-47cd-86e0-7333b3184673/content/images/2026/11/hegseth.jpg</story_image>
+      <description>Mark Carney’s latest budget included $451.3 billion in core military spending over the next five years.</description>
+    </item>
+    <item>
+      <title>Explosion at a middle school in Afghanistan kills at least 7, injures more than 90</title>
+      <link>https://www.cbc.ca/news/world/afghanistan-school-explosion-9.7440205?cmp=rss</link>
+      <guid isPermaLink="false">9.7440205</guid>
+      <pubDate>Sat, 28 Nov 2026 10:29:19 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/faaa2fff-067e-40b5-aa20-ef2149e0c602,1795861074312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C234%2C4500%2C2531%29%3B</story_image>
+      <description>An explosion at a school in the eastern Afghan province of Kunar on Saturday killed seven people and wounded more than 90, the province’s culture and information director said, adding that the blast appeared to have originated in a neighbouring depot for explosives.</description>
+    </item>
+    <item>
+      <title>Melania Trump says she helped another group of children return to Ukraine. The reality is more complicated</title>
+      <link>https://www.cbc.ca/news/world/ukraine-russia-children-return-9.7438984?cmp=rss</link>
+      <guid isPermaLink="false">9.7438984</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Briar Stewart</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/aef9e2c6-cb72-41be-9237-368d1a36a520,1795802713936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C181%2C3431%2C1929%29%3B</story_image>
+      <description>Nine children and a 29-year-old woman with disabilites returned to Ukraine on Friday via Belarus, part of a reunification mission to unite families separated by Russia's war with Ukraine.</description>
+    </item>
+    <item>
+      <title>Did that tip seem steep? The math might have included the tax</title>
+      <link>https://www.cbc.ca/radio/costofliving/tipping-on-tax-9.7430587?cmp=rss</link>
+      <guid isPermaLink="false">9.7430587</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Brandie Weikle</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/991770b4-1b72-43a2-83fc-4ca86d49e1b6,1795536366240/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C300%2C5760%2C3240%29%3B</story_image>
+      <description>You've heard of "tipflation" and "tip creep." But what may not be clear when you're prompted to tip your barista, hairdresser or even your mechanic is that you're often tipping on the total — tax included.</description>
+    </item>
+    <item>
+      <title>Would you use LinkedIn to find love?</title>
+      <link>https://www.cbc.ca/news/business/linkedin-for-dating-9.7438685?cmp=rss</link>
+      <guid isPermaLink="false">9.7438685</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Sidra Al Jammal</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/9003d3d5-7243-4fc1-a252-ecaa7ce068d8,1795794433539/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C512%2C288%29%3B</story_image>
+      <description>LinkedIn is primarily used for professional networking and career development, but some people have discovered that it might also be a useful dating app.</description>
+    </item>
+    <item>
+      <title>Trump has outsized influence in stock markets, but investors grow wary</title>
+      <link>https://www.cbc.ca/news/business/armstrong-trump-markets-nvidia-9.7439269?cmp=rss</link>
+      <guid isPermaLink="false">9.7439269</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Peter Armstrong</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/3181b0c7-0ead-40c5-841b-8f40c5ebcce7,1795815795020/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B</story_image>
+      <description>Stock markets wrapped up a head-spinning week of trading on a positive note Friday, with tech stocks rallying after taking a beating earlier on.</description>
+    </item>
+    <item>
+      <title>They gave birth in the south. Now, they're helping Inuit deliver closer to home</title>
+      <link>https://www.cbc.ca/news/canada/montreal/inuit-midwives-kuujjuaq-nunavik-labour-services-maternity-9.7437876?cmp=rss</link>
+      <guid isPermaLink="false">9.7437876</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Rachel Watts</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e4753458-cf0d-4563-ba19-39eb941f4e67,1795729352562/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B</story_image>
+      <description>Margaret Tukkiapik and Kayla Annanack-Lauzon study through the Puvirnituq Inuulitsivik Health Centre's midwifery program to provide prenatal, labour and post-natal care for Inuit who would otherwise travel outside of their region, culture and language.</description>
+    </item>
+    <item>
+      <title>Legal wording once intimidated me. Now, it's becoming a language I can explain</title>
+      <link>https://www.cbc.ca/news/canada/legal-language-immigration-paralegal-9.7433839?cmp=rss</link>
+      <guid isPermaLink="false">9.7433839</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Adu Asare</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e2661d69-858f-442b-a1bf-9991ab782bb2,1795530948048/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C3000%2C1687%29%3B</story_image>
+      <description>Adu Asare remembers what it felt like to sign a legal document without fully understanding what it meant. Now he's studying to be a paralegal, hoping to help those in his Ghanaian community make sense of legal and government documents.</description>
+    </item>
+    <item>
+      <title>X Files creator Chris Carter on Mulder-Scully reunion rumours, a Millennium reboot — and his new movie</title>
+      <link>https://www.cbc.ca/news/entertainment/chris-carter-interview-9.7437140?cmp=rss</link>
+      <guid isPermaLink="false">9.7437140</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 GMT</pubDate>
+      <author>Jackson Weaver</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/e96dad1e-a1f2-4201-9ff3-ccff4ce82881,1795709637901/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C154%2C3000%2C1687%29%3B</story_image>
+      <description>Chris Carter spoke to CBC News about the future, and the past, of The X Files and his new, self-financed feature film.</description>
+    </item>
+    <item>
+      <title>Judge reserves decision in bestselling author Steven Galloway's defamation lawsuit</title>
+      <link>https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-lawsuit-decision-reserved-9.7440019?cmp=rss</link>
+      <guid isPermaLink="false">9.7440019</guid>
+      <pubDate>Sat, 28 Nov 2026 02:18:49 GMT</pubDate>
+      <author>Brenna Owen</author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/1.7081359,1728596209000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C62%2C5000%2C2812%29%3B</story_image>
+      <description>Steven Galloway is suing a woman and three other defendants over alleged defamatory statements published on social media and elsewhere between 2015 and 2018 regarding claims of sexual assault.</description>
+    </item>
+    <item>
       <title>Jermaine Haley, known as WWE wrestler Bronson Reed, dead at 38</title>
       <link>https://www.cbc.ca/sports/bronson-reed-obit-9.7440009?cmp=rss</link>
       <guid isPermaLink="false">9.7440009</guid>
@@ -28,7 +160,7 @@
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/d67c2a3c-6714-46d3-98c0-047161e8fee9,1795827472771/full/max/0/default.jpg?im=Crop%2Crect%3D%28703%2C663%2C4218%2C2372%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/d67c2a3c-6714-46d3-98c0-047161e8fee9,1795842355906/full/max/0/default.jpg?im=Crop%2Crect%3D%28703%2C663%2C4218%2C2372%29%3B</story_image>
       <description>Jermaine Haley, known as the WWE wrestler Bronson Reed, has died due to medical complications. He was 38. World Wrestling Entertainment announced Haley's death on Friday, but did not provide details.</description>
     </item>
     <item>
@@ -101,7 +233,7 @@ The post APTN Nouvelles nationales – 27 novembre 2026 appeared first on APTN N
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/1.5484128,1622163030000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/d8a90d28-74c4-4fca-aaf5-604be38533bf,1795828322744/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
       <description />
     </item>
     <item>
@@ -983,7 +1115,7 @@ The post Ottawa deems Whitehorse Power Centres project of national interest appe
       <source_id>cbc_top_stories</source_id>
       <source_name>CBC | Top Stories</source_name>
       <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
-      <story_image>https://i.cbc.ca/ais/1bd01f4f-7a86-4ddb-a62c-592ebb8abbbb,1795809885183/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
+      <story_image>https://i.cbc.ca/ais/4e4dd6eb-b864-4b5b-a1ab-7149bf4c0c89,1795831337167/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B</story_image>
       <description>EDITED [title] </description>
     </item>
     <item>
@@ -20877,6 +21009,18 @@ The post At Canada’s largest AI summit, who’s buying the hype? appeared firs
       <source_icon>https://www.canada.ca/favicon.ico</source_icon>
       <story_image fallback="1">https://www.csps-efpc.gc.ca/video/strategic-challenges/images/strategic-challenges.png</story_image>
       <description>The Honourable Anita Anand, Minister of Foreign Affairs, met with His Highness Sheikh Abdullah bin Zayed Al Nahyan, Deputy Prime Minister and Minister of Foreign Affairs of the United Arab Emirates (UAE), on the margins of the UN General Assembly in New York City, New York.</description>
+    </item>
+    <item>
+      <title>Canada is spending billions on defence. But is it getting ready for war?</title>
+      <link>https://www.cbc.ca/news/politics/defence-canada-nato-europe-war-russia-9.7439845?cmp=rss</link>
+      <guid isPermaLink="false">1.7484626</guid>
+      <pubDate>Mon, 21 Sep 2026 22:10:42 GMT</pubDate>
+      <author> </author>
+      <source_id>cbc_top_stories</source_id>
+      <source_name>CBC | Top Stories</source_name>
+      <source_icon>https://www.cbc.ca/a/favicon.ico</source_icon>
+      <story_image>https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B</story_image>
+      <description />
     </item>
     <item>
       <title>Minister Anand meets with Qatar’s Prime Minister and Minister of Foreign Affairs</title>
